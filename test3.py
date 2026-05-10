@@ -8,9 +8,15 @@ for i, cell in enumerate(nb['cells']):
     if cell['cell_type'] == 'code':
         source = "".join(cell['source'])
         print(f"--- Cell {i} ---")
-        print(source)
         try:
             ast.parse(source)
-            print("Parses OK!")
+            print("Parses OK with ast!")
         except Exception as e:
-            print(f"Parse error: {e}")
+            print(f"AST Parse error: {e}")
+            
+        # also try compiling
+        try:
+            compile(source, f"<cell {i}>", "exec")
+            print("Compiles OK!")
+        except Exception as e:
+            print(f"Compile error: {e}")

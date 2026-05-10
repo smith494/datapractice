@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "data-analysis-jupyter": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "data-analysis-jupyter/SKILL.md",
+      "computedHash": "5a8110533947c650d5a6f7ceeffd91ceaa1fd885c10341f39e329b62b1187d53"
+    }
+  }
+}
