@@ -1,0 +1,503 @@
+claim_id,policy_id,customer_id,policy_type,claim_date,claim_type,claim_amount,deductible,amount_paid,claim_status,incident_description
+CLM-100002,POL-1002586,CUST-502586,Home,2025-05-28,Water Damage,5917.8,2500.0,3417.8,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100006,POL-1000705,CUST-500705,Home,2024-04-04,Liability,13557.15,1000.0,12557.15,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100007,POL-1000106,CUST-500106,Home,2025-06-18,Liability,8695.57,250.0,8445.57,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100008,POL-1000589,CUST-500589,Home,2025-08-18,Liability,22738.61,1000.0,21738.61,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100012,POL-1001600,CUST-501600,Home,2023-09-12,Fire,28338.93,5000.0,23338.93,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100011,POL-1001600,CUST-501600,Home,2023-11-15,Fire,10379.18,5000.0,5379.18,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100022,POL-1003351,CUST-503351,Home,2026-04-29,Fire,7972.12,250.0,7722.12,Under Review,Electrical fire in the garage damaged walls and tools.
+CLM-100023,POL-1001744,CUST-501744,Home,2026-04-21,Fire,3048.45,1000.0,0.0,Denied,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100026,POL-1000926,CUST-500926,Home,2025-07-25,Water Damage,31568.36,500.0,31068.36,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100027,POL-1003049,CUST-503049,Home,2024-09-28,Theft,35415.17,5000.0,30415.17,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100029,POL-1000642,CUST-500642,Home,2026-03-01,Water Damage,70427.44,250.0,70177.44,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100041,POL-1001755,CUST-501755,Home,2025-03-30,Theft,6413.48,5000.0,1413.48,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100044,POL-1003585,CUST-503585,Home,2024-12-21,Theft,38955.83,1000.0,37955.83,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100045,POL-1003585,CUST-503585,Home,2025-11-14,Wind/Hail,20595.96,1000.0,19595.96,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100046,POL-1004315,CUST-504315,Home,2025-01-09,Liability,39444.93,1000.0,38444.93,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100051,POL-1004121,CUST-504121,Home,2025-11-29,Wind/Hail,57006.79,250.0,56756.79,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100062,POL-1003161,CUST-503161,Home,2022-02-17,Water Damage,26544.49,2500.0,24044.49,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100061,POL-1003161,CUST-503161,Home,2023-01-08,Liability,9341.97,2500.0,6841.97,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100068,POL-1002846,CUST-502846,Home,2024-08-12,Fire,1197.89,5000.0,0.0,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100069,POL-1002846,CUST-502846,Home,2024-12-17,Water Damage,14414.2,5000.0,9414.2,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100074,POL-1001103,CUST-501103,Home,2026-02-10,Wind/Hail,4248.47,500.0,3748.47,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100075,POL-1001103,CUST-501103,Home,2026-03-30,Wind/Hail,18259.61,500.0,17759.61,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100077,POL-1001670,CUST-501670,Home,2024-04-30,Water Damage,9387.35,5000.0,4387.35,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100080,POL-1004395,CUST-504395,Home,2024-11-29,Water Damage,9452.06,1000.0,8452.06,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100083,POL-1003862,CUST-503862,Home,2026-05-04,Water Damage,71694.39,500.0,71194.39,Under Review,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100084,POL-1000023,CUST-500023,Home,2022-03-11,Theft,36539.26,500.0,36039.26,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100086,POL-1003340,CUST-503340,Home,2023-11-09,Theft,57963.54,2500.0,55463.54,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100105,POL-1002527,CUST-502527,Home,2024-02-03,Fire,914.79,1000.0,0.0,Denied,Electrical fire in the garage damaged walls and tools.
+CLM-100109,POL-1003181,CUST-503181,Home,2025-01-31,Wind/Hail,29909.73,1000.0,28909.73,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100112,POL-1003024,CUST-503024,Home,2025-10-31,Fire,17996.68,250.0,17746.68,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100113,POL-1001413,CUST-501413,Home,2025-06-24,Fire,13211.84,2500.0,10711.84,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100119,POL-1004153,CUST-504153,Home,2025-02-27,Water Damage,16560.17,250.0,16310.17,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100118,POL-1004153,CUST-504153,Home,2025-11-03,Wind/Hail,35582.98,250.0,35332.98,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100121,POL-1000157,CUST-500157,Home,2024-01-10,Theft,60422.6,2500.0,57922.6,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100123,POL-1000497,CUST-500497,Home,2025-12-25,Fire,3354.45,5000.0,0.0,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100125,POL-1004740,CUST-504740,Home,2022-09-11,Fire,40594.91,5000.0,35594.91,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100124,POL-1004740,CUST-504740,Home,2025-12-10,Water Damage,21977.2,5000.0,16977.2,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100129,POL-1003456,CUST-503456,Home,2026-01-20,Theft,39078.24,5000.0,34078.24,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100130,POL-1003456,CUST-503456,Home,2026-03-03,Water Damage,19718.45,5000.0,14718.45,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100138,POL-1002131,CUST-502131,Home,2023-07-25,Liability,14784.72,2500.0,12284.72,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100142,POL-1000931,CUST-500931,Home,2022-03-01,Fire,7311.81,250.0,7061.81,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100143,POL-1001335,CUST-501335,Home,2025-03-21,Theft,5423.1,250.0,5173.1,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100151,POL-1004209,CUST-504209,Home,2025-09-02,Theft,15593.64,250.0,0.0,Denied,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100154,POL-1003601,CUST-503601,Home,2025-02-28,Theft,30214.86,2500.0,27714.86,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100178,POL-1001375,CUST-501375,Home,2025-10-14,Water Damage,55456.12,1000.0,54456.12,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100179,POL-1003968,CUST-503968,Home,2025-09-30,Wind/Hail,20205.91,250.0,19955.91,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100180,POL-1004062,CUST-504062,Home,2024-10-11,Water Damage,42222.36,250.0,41972.36,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100190,POL-1003821,CUST-503821,Home,2025-10-10,Theft,9579.29,5000.0,4579.29,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100194,POL-1004487,CUST-504487,Home,2025-12-25,Fire,40753.22,5000.0,35753.22,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100201,POL-1002887,CUST-502887,Home,2025-11-07,Theft,26381.7,1000.0,25381.7,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100202,POL-1002887,CUST-502887,Home,2026-01-10,Theft,92699.55,1000.0,91699.55,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100206,POL-1003907,CUST-503907,Home,2025-08-15,Wind/Hail,4178.52,500.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-100207,POL-1004673,CUST-504673,Home,2026-02-03,Water Damage,3645.55,1000.0,2645.55,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100208,POL-1004902,CUST-504902,Home,2023-07-20,Water Damage,59577.38,500.0,0.0,Denied,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100216,POL-1000144,CUST-500144,Home,2023-10-10,Water Damage,10601.87,250.0,10351.87,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100218,POL-1003143,CUST-503143,Home,2023-08-19,Wind/Hail,1576.28,250.0,1326.28,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100219,POL-1000841,CUST-500841,Home,2026-02-16,Theft,3029.91,500.0,0.0,Denied,Porch pirate stole high-value packages delivered to front door.
+CLM-100239,POL-1001741,CUST-501741,Home,2024-10-25,Water Damage,5428.95,5000.0,428.95,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100238,POL-1001741,CUST-501741,Home,2025-09-05,Wind/Hail,11149.14,5000.0,6149.14,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100245,POL-1000100,CUST-500100,Home,2023-11-24,Water Damage,24053.89,2500.0,21553.89,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100244,POL-1000100,CUST-500100,Home,2024-01-15,Fire,4037.72,2500.0,1537.72,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100246,POL-1002804,CUST-502804,Home,2024-12-09,Fire,500.0,250.0,250.0,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100247,POL-1002804,CUST-502804,Home,2025-11-25,Water Damage,20919.25,250.0,20669.25,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100248,POL-1003570,CUST-503570,Home,2024-06-28,Theft,610.14,250.0,360.14,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100254,POL-1000681,CUST-500681,Home,2025-09-03,Water Damage,15689.43,250.0,15439.43,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100255,POL-1000681,CUST-500681,Home,2026-02-25,Theft,500.0,250.0,250.0,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100258,POL-1003944,CUST-503944,Home,2023-04-06,Wind/Hail,42815.79,2500.0,40315.79,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100265,POL-1002805,CUST-502805,Home,2025-07-26,Liability,7889.01,5000.0,2889.01,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100264,POL-1002805,CUST-502805,Home,2026-02-06,Liability,76131.1,5000.0,71131.1,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100273,POL-1002767,CUST-502767,Home,2025-03-15,Wind/Hail,15017.19,1000.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-100274,POL-1004328,CUST-504328,Home,2023-11-05,Theft,39800.31,5000.0,34800.31,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100276,POL-1004328,CUST-504328,Home,2024-04-01,Wind/Hail,1523.12,5000.0,0.0,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100275,POL-1004328,CUST-504328,Home,2024-10-21,Liability,28529.5,5000.0,23529.5,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100279,POL-1002357,CUST-502357,Home,2026-01-12,Water Damage,1425.26,5000.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100285,POL-1000911,CUST-500911,Home,2022-09-23,Theft,1308.0,1000.0,308.0,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100288,POL-1003653,CUST-503653,Home,2022-04-25,Liability,24704.43,500.0,24204.43,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100290,POL-1002483,CUST-502483,Home,2026-03-26,Wind/Hail,81502.74,1000.0,80502.74,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100289,POL-1002483,CUST-502483,Home,2026-04-18,Fire,9823.21,1000.0,8823.21,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100297,POL-1003789,CUST-503789,Home,2024-10-15,Fire,28156.88,250.0,27906.88,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100296,POL-1003789,CUST-503789,Home,2025-03-04,Fire,26408.59,250.0,26158.59,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100301,POL-1000733,CUST-500733,Home,2023-03-11,Theft,3411.83,5000.0,0.0,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100303,POL-1003274,CUST-503274,Home,2022-07-27,Theft,22230.27,250.0,0.0,Denied,Porch pirate stole high-value packages delivered to front door.
+CLM-100304,POL-1001620,CUST-501620,Home,2024-06-22,Wind/Hail,6986.3,250.0,6736.3,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100306,POL-1002689,CUST-502689,Home,2022-01-18,Water Damage,1791.52,1000.0,791.52,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100309,POL-1002339,CUST-502339,Home,2023-07-12,Liability,5446.3,1000.0,4446.3,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100310,POL-1000653,CUST-500653,Home,2025-02-23,Theft,14519.54,500.0,14019.54,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100313,POL-1001255,CUST-501255,Home,2025-08-09,Liability,59653.27,1000.0,58653.27,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100323,POL-1004092,CUST-504092,Home,2022-09-08,Fire,12142.46,500.0,11642.46,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100324,POL-1004092,CUST-504092,Home,2023-02-07,Theft,22538.1,500.0,22038.1,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100325,POL-1004077,CUST-504077,Home,2026-03-31,Liability,44526.54,500.0,44026.54,Approved,Family dog bit a neighbor visiting the backyard.
+CLM-100332,POL-1004701,CUST-504701,Home,2024-09-19,Water Damage,500.0,2500.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100333,POL-1004701,CUST-504701,Home,2026-05-04,Wind/Hail,5842.46,2500.0,3342.46,Under Review,Severe thunderstorm tore off several roof shingles.
+CLM-100343,POL-1000626,CUST-500626,Home,2025-06-18,Wind/Hail,5036.33,2500.0,0.0,Denied,Hail storm damaged vinyl siding and cracked windows.
+CLM-100346,POL-1002217,CUST-502217,Home,2021-05-27,Wind/Hail,25269.73,1000.0,24269.73,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100351,POL-1002480,CUST-502480,Home,2022-03-16,Water Damage,38775.7,2500.0,0.0,Denied,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100366,POL-1002727,CUST-502727,Home,2024-01-20,Water Damage,80144.17,2500.0,77644.17,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100367,POL-1002727,CUST-502727,Home,2024-02-05,Water Damage,2307.05,2500.0,0.0,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100375,POL-1001231,CUST-501231,Home,2023-06-18,Wind/Hail,9142.93,1000.0,8142.93,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100384,POL-1000491,CUST-500491,Home,2025-03-16,Wind/Hail,1630.27,1000.0,630.27,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100387,POL-1002329,CUST-502329,Home,2025-05-19,Fire,13220.89,500.0,12720.89,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100386,POL-1002329,CUST-502329,Home,2025-06-28,Water Damage,18878.89,500.0,18378.89,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100391,POL-1000657,CUST-500657,Home,2026-05-01,Liability,9333.6,1000.0,8333.6,Approved,Family dog bit a neighbor visiting the backyard.
+CLM-100397,POL-1000471,CUST-500471,Home,2025-08-03,Wind/Hail,30567.23,500.0,30067.23,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100398,POL-1003225,CUST-503225,Home,2024-03-30,Liability,1895.14,500.0,1395.14,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100403,POL-1004692,CUST-504692,Home,2023-09-22,Water Damage,29000.01,1000.0,28000.01,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100406,POL-1000287,CUST-500287,Home,2025-03-30,Fire,41265.33,250.0,41015.33,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100428,POL-1000977,CUST-500977,Home,2023-05-15,Fire,45261.47,500.0,44761.47,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100433,POL-1004152,CUST-504152,Home,2022-04-08,Wind/Hail,5400.28,1000.0,4400.28,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100431,POL-1004152,CUST-504152,Home,2023-03-22,Fire,35115.22,1000.0,34115.22,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100432,POL-1004152,CUST-504152,Home,2024-06-13,Wind/Hail,22425.77,1000.0,21425.77,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100436,POL-1003941,CUST-503941,Home,2023-11-08,Wind/Hail,39391.44,1000.0,38391.44,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100439,POL-1001183,CUST-501183,Home,2026-03-06,Fire,47920.55,500.0,47420.55,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100445,POL-1001197,CUST-501197,Home,2023-02-20,Liability,42915.01,2500.0,40415.01,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100446,POL-1001197,CUST-501197,Home,2024-06-28,Wind/Hail,27823.31,2500.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-100451,POL-1003504,CUST-503504,Home,2024-10-31,Water Damage,18668.05,250.0,18418.05,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100455,POL-1002093,CUST-502093,Home,2023-10-03,Water Damage,1875.55,1000.0,875.55,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100460,POL-1001272,CUST-501272,Home,2024-10-12,Wind/Hail,41826.25,500.0,41326.25,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100461,POL-1000290,CUST-500290,Home,2025-09-14,Liability,21123.07,500.0,20623.07,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100464,POL-1003245,CUST-503245,Home,2025-03-04,Water Damage,32628.9,250.0,32378.9,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100465,POL-1003245,CUST-503245,Home,2025-06-17,Water Damage,22868.11,250.0,22618.11,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100468,POL-1001187,CUST-501187,Home,2025-02-01,Water Damage,1401.35,5000.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100470,POL-1000422,CUST-500422,Home,2022-06-21,Theft,16705.73,1000.0,15705.73,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100473,POL-1002236,CUST-502236,Home,2025-12-20,Theft,14090.64,2500.0,11590.64,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100478,POL-1000026,CUST-500026,Home,2025-12-10,Wind/Hail,1048.38,250.0,798.38,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100481,POL-1004463,CUST-504463,Home,2026-01-27,Water Damage,16362.31,250.0,16112.31,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100489,POL-1004120,CUST-504120,Home,2023-07-11,Liability,558.33,250.0,308.33,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100491,POL-1000254,CUST-500254,Home,2024-05-11,Water Damage,48616.55,250.0,0.0,Denied,"Water heater failed, leaking water across the laundry room floor."
+CLM-100493,POL-1004392,CUST-504392,Home,2023-12-14,Fire,9255.33,500.0,0.0,Denied,Electrical fire in the garage damaged walls and tools.
+CLM-100497,POL-1002292,CUST-502292,Home,2023-06-01,Fire,21921.9,2500.0,19421.9,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100498,POL-1001323,CUST-501323,Home,2025-09-29,Wind/Hail,2200.69,1000.0,1200.69,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100499,POL-1001323,CUST-501323,Home,2026-05-07,Theft,28515.91,1000.0,27515.91,Under Review,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100500,POL-1001550,CUST-501550,Home,2023-04-09,Liability,33664.14,500.0,33164.14,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100501,POL-1001550,CUST-501550,Home,2024-02-26,Wind/Hail,3170.46,500.0,2670.46,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100505,POL-1001242,CUST-501242,Home,2025-12-03,Wind/Hail,29784.02,2500.0,27284.02,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100507,POL-1001578,CUST-501578,Home,2022-03-01,Theft,39242.37,250.0,38992.37,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100509,POL-1003116,CUST-503116,Home,2024-05-08,Fire,31100.6,500.0,30600.6,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100512,POL-1002753,CUST-502753,Home,2023-03-22,Wind/Hail,626.92,250.0,376.92,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100513,POL-1001632,CUST-501632,Home,2025-02-09,Theft,8199.98,250.0,7949.98,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100541,POL-1004995,CUST-504995,Home,2025-08-14,Water Damage,4650.99,5000.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100542,POL-1003429,CUST-503429,Home,2024-05-25,Liability,3006.2,500.0,2506.2,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100543,POL-1002809,CUST-502809,Home,2022-01-17,Wind/Hail,4496.09,5000.0,0.0,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100545,POL-1002836,CUST-502836,Home,2024-10-31,Wind/Hail,34835.07,5000.0,0.0,Denied,Hail storm damaged vinyl siding and cracked windows.
+CLM-100547,POL-1001235,CUST-501235,Home,2025-01-05,Wind/Hail,500.0,250.0,250.0,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100551,POL-1000599,CUST-500599,Home,2024-01-08,Water Damage,31755.88,2500.0,29255.88,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100552,POL-1001434,CUST-501434,Home,2025-08-14,Theft,46603.55,500.0,46103.55,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100561,POL-1002845,CUST-502845,Home,2025-03-22,Water Damage,12037.05,250.0,11787.05,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100560,POL-1002845,CUST-502845,Home,2026-04-26,Liability,9564.65,250.0,9314.65,Under Review,Guest tripped over a loose rug and fractured their wrist.
+CLM-100562,POL-1002053,CUST-502053,Home,2026-01-05,Wind/Hail,17598.39,1000.0,16598.39,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100569,POL-1000177,CUST-500177,Home,2026-03-29,Wind/Hail,64315.54,500.0,0.0,Denied,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100580,POL-1004613,CUST-504613,Home,2025-01-28,Wind/Hail,3145.84,500.0,0.0,Denied,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100590,POL-1004686,CUST-504686,Home,2024-04-14,Fire,16131.01,250.0,15881.01,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100602,POL-1002559,CUST-502559,Home,2024-03-14,Fire,7350.85,500.0,6850.85,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100608,POL-1004811,CUST-504811,Home,2025-11-13,Fire,20634.71,5000.0,15634.71,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100615,POL-1002778,CUST-502778,Home,2025-02-27,Water Damage,9801.22,2500.0,0.0,Denied,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100616,POL-1002948,CUST-502948,Home,2023-05-10,Fire,30860.93,2500.0,28360.93,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100617,POL-1002948,CUST-502948,Home,2023-08-21,Wind/Hail,42952.29,2500.0,40452.29,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100622,POL-1000219,CUST-500219,Home,2026-03-13,Liability,39519.12,5000.0,34519.12,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100629,POL-1003347,CUST-503347,Home,2022-11-30,Water Damage,53557.5,2500.0,51057.5,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100628,POL-1003347,CUST-503347,Home,2023-05-30,Water Damage,78000.18,2500.0,75500.18,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100633,POL-1003001,CUST-503001,Home,2025-06-20,Fire,27565.75,500.0,27065.75,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100634,POL-1000210,CUST-500210,Home,2023-05-03,Wind/Hail,42482.84,500.0,41982.84,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100635,POL-1000210,CUST-500210,Home,2023-06-27,Water Damage,56518.42,500.0,56018.42,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100647,POL-1001612,CUST-501612,Home,2022-09-25,Liability,22882.11,500.0,22382.11,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100652,POL-1004480,CUST-504480,Home,2025-05-01,Theft,3740.62,500.0,3240.62,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100653,POL-1004480,CUST-504480,Home,2025-05-14,Theft,1227.49,500.0,0.0,Denied,Break-in through rear window; jewelry and electronics stolen.
+CLM-100654,POL-1001437,CUST-501437,Home,2026-01-26,Wind/Hail,500.0,500.0,0.0,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100655,POL-1000047,CUST-500047,Home,2025-11-18,Theft,37781.16,2500.0,35281.16,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100656,POL-1001360,CUST-501360,Home,2024-01-09,Water Damage,38583.26,500.0,38083.26,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100671,POL-1002405,CUST-502405,Home,2023-04-23,Liability,14151.02,5000.0,9151.02,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100672,POL-1000095,CUST-500095,Home,2025-09-06,Liability,500.0,2500.0,0.0,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100676,POL-1003707,CUST-503707,Home,2025-05-18,Liability,14682.95,5000.0,9682.95,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100677,POL-1003707,CUST-503707,Home,2025-08-30,Liability,49550.87,5000.0,44550.87,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100694,POL-1003749,CUST-503749,Home,2022-01-20,Theft,2228.11,1000.0,1228.11,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100693,POL-1003749,CUST-503749,Home,2025-02-27,Wind/Hail,7252.35,1000.0,6252.35,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100700,POL-1001983,CUST-501983,Home,2025-12-14,Water Damage,33898.86,1000.0,32898.86,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100702,POL-1001536,CUST-501536,Home,2023-12-21,Liability,14712.44,5000.0,9712.44,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100706,POL-1003360,CUST-503360,Home,2022-08-06,Theft,21225.85,5000.0,0.0,Denied,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100709,POL-1004005,CUST-504005,Home,2026-03-14,Liability,26548.85,1000.0,0.0,Denied,Family dog bit a neighbor visiting the backyard.
+CLM-100711,POL-1000586,CUST-500586,Home,2026-03-05,Wind/Hail,547.08,2500.0,0.0,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100714,POL-1003988,CUST-503988,Home,2022-06-17,Water Damage,34837.46,500.0,34337.46,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100715,POL-1003988,CUST-503988,Home,2022-08-14,Liability,5977.51,500.0,5477.51,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100716,POL-1000584,CUST-500584,Home,2026-04-13,Water Damage,22454.89,2500.0,19954.89,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100718,POL-1002423,CUST-502423,Home,2025-07-30,Water Damage,73380.14,1000.0,72380.14,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100717,POL-1002423,CUST-502423,Home,2025-08-13,Water Damage,15572.91,1000.0,14572.91,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100723,POL-1004800,CUST-504800,Home,2025-11-28,Theft,10503.75,5000.0,5503.75,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100732,POL-1001174,CUST-501174,Home,2023-03-07,Theft,31888.97,2500.0,29388.97,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100738,POL-1004885,CUST-504885,Home,2025-08-12,Wind/Hail,159705.54,2500.0,157205.54,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100743,POL-1002416,CUST-502416,Home,2025-12-05,Theft,8344.82,1000.0,7344.82,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100745,POL-1004880,CUST-504880,Home,2025-11-20,Water Damage,17978.83,250.0,17728.83,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100754,POL-1001212,CUST-501212,Home,2026-05-07,Theft,1231.83,500.0,731.83,Under Review,Break-in through rear window; jewelry and electronics stolen.
+CLM-100755,POL-1003921,CUST-503921,Home,2025-08-30,Liability,63503.26,5000.0,0.0,Denied,Family dog bit a neighbor visiting the backyard.
+CLM-100757,POL-1003066,CUST-503066,Home,2023-06-23,Liability,56363.11,500.0,55863.11,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100760,POL-1002100,CUST-502100,Home,2021-06-24,Liability,500.0,500.0,0.0,Denied,Guest tripped over a loose rug and fractured their wrist.
+CLM-100759,POL-1002100,CUST-502100,Home,2021-07-02,Liability,65782.17,500.0,65282.17,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100766,POL-1001362,CUST-501362,Home,2025-04-09,Theft,18395.41,2500.0,15895.41,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100774,POL-1001876,CUST-501876,Home,2025-02-19,Water Damage,4724.52,1000.0,3724.52,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100778,POL-1004587,CUST-504587,Home,2024-12-29,Fire,3533.53,500.0,3033.53,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100780,POL-1003670,CUST-503670,Home,2024-09-02,Wind/Hail,14870.88,2500.0,12370.88,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100781,POL-1003670,CUST-503670,Home,2024-10-10,Theft,6139.48,2500.0,3639.48,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100785,POL-1004291,CUST-504291,Home,2024-02-10,Wind/Hail,7916.82,2500.0,5416.82,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100786,POL-1004291,CUST-504291,Home,2024-10-09,Theft,4435.18,2500.0,1935.18,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100793,POL-1000415,CUST-500415,Home,2024-08-07,Fire,40932.57,500.0,40432.57,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100796,POL-1001456,CUST-501456,Home,2025-08-14,Water Damage,111614.53,2500.0,109114.53,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100805,POL-1004405,CUST-504405,Home,2026-02-01,Theft,1631.69,2500.0,0.0,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100813,POL-1000371,CUST-500371,Home,2023-05-31,Water Damage,4193.19,1000.0,3193.19,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100814,POL-1000371,CUST-500371,Home,2025-03-28,Liability,730.6,1000.0,0.0,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100817,POL-1000238,CUST-500238,Home,2024-08-24,Wind/Hail,5340.55,250.0,5090.55,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100818,POL-1000238,CUST-500238,Home,2025-01-19,Water Damage,27291.37,250.0,27041.37,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100819,POL-1000238,CUST-500238,Home,2025-03-24,Water Damage,500.0,250.0,250.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100820,POL-1003400,CUST-503400,Home,2025-08-30,Liability,24999.97,500.0,24499.97,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100821,POL-1003400,CUST-503400,Home,2025-09-21,Theft,18619.11,500.0,18119.11,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100823,POL-1002067,CUST-502067,Home,2025-04-01,Fire,52588.93,250.0,52338.93,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100822,POL-1002067,CUST-502067,Home,2026-01-05,Fire,34301.88,250.0,34051.88,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100830,POL-1003676,CUST-503676,Home,2022-07-13,Water Damage,14562.69,500.0,14062.69,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100837,POL-1003708,CUST-503708,Home,2025-08-02,Wind/Hail,57233.75,2500.0,54733.75,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100838,POL-1003018,CUST-503018,Home,2024-04-29,Wind/Hail,66458.51,1000.0,65458.51,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100839,POL-1004252,CUST-504252,Home,2023-09-22,Water Damage,9002.58,250.0,8752.58,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100843,POL-1003705,CUST-503705,Home,2023-01-27,Theft,24931.9,1000.0,23931.9,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100856,POL-1001204,CUST-501204,Home,2022-03-02,Theft,800.51,1000.0,0.0,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100858,POL-1000051,CUST-500051,Home,2025-05-22,Wind/Hail,3075.67,250.0,2825.67,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100861,POL-1002181,CUST-502181,Home,2022-11-14,Liability,6071.22,250.0,5821.22,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100863,POL-1000534,CUST-500534,Home,2023-09-06,Theft,70703.07,500.0,70203.07,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100868,POL-1000195,CUST-500195,Home,2025-06-03,Fire,22867.21,1000.0,21867.21,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100872,POL-1000765,CUST-500765,Home,2026-02-05,Wind/Hail,9768.46,1000.0,8768.46,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100875,POL-1003002,CUST-503002,Home,2023-02-23,Fire,21982.76,2500.0,19482.76,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100876,POL-1003002,CUST-503002,Home,2023-10-17,Water Damage,796.11,2500.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100878,POL-1004200,CUST-504200,Home,2025-08-21,Liability,50332.18,1000.0,49332.18,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100880,POL-1002922,CUST-502922,Home,2025-05-26,Wind/Hail,500.0,5000.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-100883,POL-1001049,CUST-501049,Home,2022-08-02,Fire,2686.62,250.0,2436.62,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100891,POL-1004258,CUST-504258,Home,2026-01-05,Theft,5319.66,5000.0,319.66,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100898,POL-1002460,CUST-502460,Home,2023-11-23,Water Damage,20379.54,5000.0,0.0,Denied,"Water heater failed, leaking water across the laundry room floor."
+CLM-100899,POL-1001954,CUST-501954,Home,2024-05-11,Theft,2808.67,2500.0,308.67,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100900,POL-1001954,CUST-501954,Home,2024-12-10,Wind/Hail,4674.45,2500.0,2174.45,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100904,POL-1002276,CUST-502276,Home,2025-11-11,Theft,5096.86,1000.0,4096.86,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100909,POL-1003137,CUST-503137,Home,2022-12-31,Theft,42635.03,5000.0,37635.03,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100908,POL-1003137,CUST-503137,Home,2023-04-12,Fire,21892.29,5000.0,16892.29,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100920,POL-1000122,CUST-500122,Home,2023-06-09,Water Damage,3058.59,1000.0,2058.59,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100919,POL-1000122,CUST-500122,Home,2024-07-03,Fire,23085.8,1000.0,22085.8,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100924,POL-1003692,CUST-503692,Home,2023-05-14,Liability,47338.9,250.0,47088.9,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100926,POL-1001371,CUST-501371,Home,2022-02-28,Fire,35319.98,2500.0,32819.98,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-100928,POL-1003955,CUST-503955,Home,2025-04-17,Theft,27917.7,5000.0,22917.7,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-100930,POL-1000856,CUST-500856,Home,2024-01-26,Liability,34223.97,500.0,0.0,Denied,Guest tripped over a loose rug and fractured their wrist.
+CLM-100931,POL-1003838,CUST-503838,Home,2024-11-10,Liability,17004.79,5000.0,0.0,Denied,Guest tripped over a loose rug and fractured their wrist.
+CLM-100932,POL-1002860,CUST-502860,Home,2026-05-02,Liability,32726.25,1000.0,31726.25,Approved,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-100939,POL-1004877,CUST-504877,Home,2023-06-28,Liability,2917.34,2500.0,417.34,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-100940,POL-1000602,CUST-500602,Home,2026-05-04,Theft,500.0,2500.0,0.0,Under Review,Break-in through rear window; jewelry and electronics stolen.
+CLM-100953,POL-1002664,CUST-502664,Home,2025-04-23,Wind/Hail,37918.36,500.0,37418.36,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100954,POL-1000549,CUST-500549,Home,2024-02-11,Fire,41435.46,250.0,41185.46,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-100957,POL-1004892,CUST-504892,Home,2026-04-05,Theft,16994.96,1000.0,15994.96,Under Review,Porch pirate stole high-value packages delivered to front door.
+CLM-100960,POL-1000896,CUST-500896,Home,2024-01-29,Liability,27402.7,500.0,26902.7,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-100962,POL-1004607,CUST-504607,Home,2023-05-02,Wind/Hail,4634.25,1000.0,3634.25,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-100964,POL-1003439,CUST-503439,Home,2023-07-03,Water Damage,8462.62,250.0,8212.62,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100965,POL-1003439,CUST-503439,Home,2023-07-10,Theft,3071.3,250.0,2821.3,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-100976,POL-1002536,CUST-502536,Home,2024-09-15,Wind/Hail,17776.94,1000.0,16776.94,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100975,POL-1002536,CUST-502536,Home,2025-06-20,Theft,19478.73,1000.0,18478.73,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-100979,POL-1003725,CUST-503725,Home,2025-02-04,Water Damage,9022.28,250.0,8772.28,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-100982,POL-1001260,CUST-501260,Home,2025-01-11,Fire,27872.55,1000.0,26872.55,Paid,Chimney fire caused attic and roof structure damage.
+CLM-100981,POL-1001260,CUST-501260,Home,2026-02-22,Wind/Hail,29961.2,1000.0,28961.2,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-100980,POL-1001260,CUST-501260,Home,2026-04-19,Theft,31634.73,1000.0,0.0,Denied,Porch pirate stole high-value packages delivered to front door.
+CLM-100986,POL-1000756,CUST-500756,Home,2025-12-24,Wind/Hail,22975.56,5000.0,17975.56,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-100991,POL-1001870,CUST-501870,Home,2026-02-28,Water Damage,1995.66,5000.0,0.0,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-100998,POL-1003853,CUST-503853,Home,2024-03-30,Water Damage,57642.81,500.0,57142.81,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-100999,POL-1003853,CUST-503853,Home,2024-08-25,Water Damage,2779.42,500.0,2279.42,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101009,POL-1002240,CUST-502240,Home,2025-10-15,Water Damage,17504.98,1000.0,16504.98,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101012,POL-1002662,CUST-502662,Home,2025-10-09,Wind/Hail,28288.46,250.0,28038.46,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101016,POL-1001038,CUST-501038,Home,2026-01-29,Water Damage,33001.19,5000.0,28001.19,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101017,POL-1001038,CUST-501038,Home,2026-02-11,Water Damage,120187.64,5000.0,115187.64,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101025,POL-1004663,CUST-504663,Home,2024-02-10,Water Damage,13349.49,1000.0,12349.49,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101038,POL-1001504,CUST-501504,Home,2024-04-07,Wind/Hail,26737.16,1000.0,25737.16,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101036,POL-1001504,CUST-501504,Home,2024-08-15,Water Damage,51820.37,1000.0,50820.37,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101037,POL-1001504,CUST-501504,Home,2025-10-01,Theft,31263.69,1000.0,30263.69,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101041,POL-1002418,CUST-502418,Home,2024-01-23,Fire,2486.7,5000.0,0.0,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101042,POL-1003986,CUST-503986,Home,2021-09-15,Water Damage,22945.21,250.0,22695.21,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101044,POL-1004588,CUST-504588,Home,2024-04-17,Fire,29368.92,250.0,29118.92,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101046,POL-1004588,CUST-504588,Home,2024-07-09,Theft,30293.82,250.0,30043.82,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101045,POL-1004588,CUST-504588,Home,2024-12-25,Liability,74008.41,250.0,73758.41,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101047,POL-1000283,CUST-500283,Home,2024-03-07,Wind/Hail,7574.88,2500.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-101050,POL-1000842,CUST-500842,Home,2022-09-07,Liability,35037.05,1000.0,34037.05,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101049,POL-1000842,CUST-500842,Home,2023-08-21,Theft,19800.06,1000.0,18800.06,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101057,POL-1003165,CUST-503165,Home,2025-11-20,Fire,14661.25,250.0,14411.25,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101058,POL-1002284,CUST-502284,Home,2025-11-17,Liability,3922.93,500.0,3422.93,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101068,POL-1003053,CUST-503053,Home,2024-07-24,Water Damage,80337.13,2500.0,77837.13,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101080,POL-1004898,CUST-504898,Home,2022-06-29,Liability,8394.22,1000.0,7394.22,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101088,POL-1004561,CUST-504561,Home,2023-02-27,Liability,64951.77,500.0,64451.77,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101087,POL-1004561,CUST-504561,Home,2025-01-20,Fire,1547.1,500.0,1047.1,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101094,POL-1002078,CUST-502078,Home,2026-02-16,Water Damage,738.91,1000.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101095,POL-1002078,CUST-502078,Home,2026-04-07,Fire,58046.64,1000.0,57046.64,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101096,POL-1004038,CUST-504038,Home,2024-08-24,Theft,72267.95,250.0,72017.95,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101103,POL-1003567,CUST-503567,Home,2022-09-13,Liability,18584.74,5000.0,13584.74,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101128,POL-1004346,CUST-504346,Home,2025-11-15,Theft,500.0,250.0,250.0,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101129,POL-1004346,CUST-504346,Home,2026-04-13,Water Damage,18852.85,250.0,18602.85,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101146,POL-1000668,CUST-500668,Home,2023-11-03,Theft,500.0,5000.0,0.0,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101155,POL-1002124,CUST-502124,Home,2022-11-08,Wind/Hail,4886.93,2500.0,0.0,Denied,Hail storm damaged vinyl siding and cracked windows.
+CLM-101156,POL-1003375,CUST-503375,Home,2025-12-19,Theft,1631.82,2500.0,0.0,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101161,POL-1004440,CUST-504440,Home,2023-02-26,Water Damage,23120.94,250.0,22870.94,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101169,POL-1004458,CUST-504458,Home,2025-12-30,Theft,7520.68,1000.0,6520.68,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101170,POL-1000693,CUST-500693,Home,2024-05-08,Liability,5204.09,250.0,4954.09,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101172,POL-1000693,CUST-500693,Home,2025-06-07,Water Damage,24712.39,250.0,24462.39,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101171,POL-1000693,CUST-500693,Home,2025-09-06,Water Damage,2597.52,250.0,2347.52,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101179,POL-1003858,CUST-503858,Home,2023-04-26,Theft,41443.06,5000.0,36443.06,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101184,POL-1004478,CUST-504478,Home,2024-10-11,Water Damage,68395.26,5000.0,63395.26,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101197,POL-1001345,CUST-501345,Home,2024-09-30,Fire,9146.45,1000.0,8146.45,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101213,POL-1004772,CUST-504772,Home,2024-12-25,Fire,58412.86,250.0,58162.86,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101214,POL-1001606,CUST-501606,Home,2024-01-25,Wind/Hail,65433.82,1000.0,64433.82,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101215,POL-1001629,CUST-501629,Home,2024-07-10,Liability,35168.59,500.0,34668.59,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101226,POL-1003814,CUST-503814,Home,2026-04-19,Wind/Hail,8575.23,250.0,8325.23,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101239,POL-1003518,CUST-503518,Home,2024-12-25,Liability,27890.09,250.0,27640.09,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101241,POL-1003624,CUST-503624,Home,2024-12-04,Liability,52472.2,500.0,51972.2,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101244,POL-1000150,CUST-500150,Home,2023-04-27,Liability,4347.91,5000.0,0.0,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101248,POL-1001786,CUST-501786,Home,2024-02-24,Wind/Hail,29281.66,2500.0,26781.66,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101252,POL-1002925,CUST-502925,Home,2024-10-14,Fire,30871.73,1000.0,29871.73,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101253,POL-1003270,CUST-503270,Home,2023-10-25,Liability,58208.37,500.0,57708.37,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101256,POL-1001988,CUST-501988,Home,2025-12-14,Water Damage,12846.32,1000.0,11846.32,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101267,POL-1001946,CUST-501946,Home,2026-02-03,Theft,15765.99,2500.0,13265.99,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101272,POL-1000944,CUST-500944,Home,2026-04-25,Water Damage,6936.47,250.0,6686.47,Approved,"Water heater failed, leaking water across the laundry room floor."
+CLM-101277,POL-1002307,CUST-502307,Home,2026-04-27,Liability,7453.78,500.0,6953.78,Under Review,Family dog bit a neighbor visiting the backyard.
+CLM-101281,POL-1003214,CUST-503214,Home,2023-03-04,Liability,15051.33,500.0,14551.33,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101282,POL-1003214,CUST-503214,Home,2023-05-03,Water Damage,9262.13,500.0,8762.13,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101292,POL-1000800,CUST-500800,Home,2023-07-25,Liability,30183.73,500.0,29683.73,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101295,POL-1004193,CUST-504193,Home,2023-08-14,Fire,1808.88,250.0,1558.88,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101296,POL-1004193,CUST-504193,Home,2024-06-04,Fire,4729.1,250.0,4479.1,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101298,POL-1002968,CUST-502968,Home,2024-06-03,Liability,36094.19,5000.0,31094.19,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101297,POL-1002968,CUST-502968,Home,2024-09-25,Fire,20192.98,5000.0,15192.98,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101306,POL-1001743,CUST-501743,Home,2024-12-18,Fire,17758.73,500.0,17258.73,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101307,POL-1003948,CUST-503948,Home,2023-04-04,Water Damage,8482.05,250.0,8232.05,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101318,POL-1004619,CUST-504619,Home,2022-11-19,Wind/Hail,7351.48,5000.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-101339,POL-1003770,CUST-503770,Home,2025-08-27,Water Damage,86138.32,250.0,85888.32,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101340,POL-1003770,CUST-503770,Home,2026-04-23,Theft,567.63,250.0,317.63,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101343,POL-1001479,CUST-501479,Home,2025-12-07,Water Damage,9731.79,250.0,9481.79,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101344,POL-1001024,CUST-501024,Home,2023-11-27,Liability,66270.81,5000.0,61270.81,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101345,POL-1001024,CUST-501024,Home,2024-02-10,Wind/Hail,12560.91,5000.0,7560.91,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101349,POL-1002264,CUST-502264,Home,2024-03-01,Wind/Hail,34149.1,1000.0,33149.1,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101358,POL-1000152,CUST-500152,Home,2023-10-08,Wind/Hail,65664.48,1000.0,0.0,Denied,Hail storm damaged vinyl siding and cracked windows.
+CLM-101359,POL-1000152,CUST-500152,Home,2023-11-20,Liability,20232.24,1000.0,19232.24,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101365,POL-1001469,CUST-501469,Home,2024-08-20,Wind/Hail,8665.47,5000.0,3665.47,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101366,POL-1002807,CUST-502807,Home,2024-05-26,Theft,1867.57,500.0,1367.57,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101368,POL-1002943,CUST-502943,Home,2022-04-28,Water Damage,14578.15,1000.0,13578.15,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101376,POL-1000031,CUST-500031,Home,2023-08-02,Fire,20167.86,1000.0,19167.86,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101379,POL-1001215,CUST-501215,Home,2023-11-18,Theft,80829.78,250.0,80579.78,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101378,POL-1001215,CUST-501215,Home,2023-12-18,Theft,63772.15,250.0,63522.15,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101380,POL-1001937,CUST-501937,Home,2025-02-20,Water Damage,44254.21,5000.0,39254.21,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101384,POL-1004901,CUST-504901,Home,2023-09-30,Fire,500.0,500.0,0.0,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101383,POL-1004901,CUST-504901,Home,2023-11-29,Water Damage,20336.7,500.0,19836.7,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101385,POL-1002168,CUST-502168,Home,2025-01-23,Water Damage,1975.9,1000.0,975.9,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101387,POL-1002168,CUST-502168,Home,2026-04-08,Theft,30603.57,1000.0,29603.57,Approved,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101386,POL-1002168,CUST-502168,Home,2026-04-25,Theft,4842.13,1000.0,3842.13,Approved,Break-in through rear window; jewelry and electronics stolen.
+CLM-101391,POL-1002673,CUST-502673,Home,2024-10-06,Liability,29610.16,2500.0,27110.16,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101392,POL-1003357,CUST-503357,Home,2025-08-24,Water Damage,13727.88,1000.0,12727.88,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101406,POL-1000565,CUST-500565,Home,2024-08-22,Liability,10114.17,5000.0,5114.17,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101423,POL-1000289,CUST-500289,Home,2022-12-09,Liability,17191.1,1000.0,16191.1,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101425,POL-1000535,CUST-500535,Home,2025-06-22,Wind/Hail,139963.98,250.0,139713.98,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101429,POL-1002174,CUST-502174,Home,2026-04-04,Liability,8612.14,250.0,8362.14,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101435,POL-1002157,CUST-502157,Home,2025-01-18,Fire,79151.28,250.0,78901.28,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101436,POL-1002157,CUST-502157,Home,2025-01-21,Water Damage,67699.79,250.0,67449.79,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101437,POL-1003931,CUST-503931,Home,2023-02-16,Liability,4666.05,1000.0,3666.05,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101446,POL-1000790,CUST-500790,Home,2023-08-28,Water Damage,10301.64,250.0,10051.64,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101456,POL-1002589,CUST-502589,Home,2023-11-23,Liability,34498.5,5000.0,0.0,Denied,Family dog bit a neighbor visiting the backyard.
+CLM-101457,POL-1000402,CUST-500402,Home,2026-02-10,Fire,6809.24,250.0,0.0,Denied,Chimney fire caused attic and roof structure damage.
+CLM-101464,POL-1000650,CUST-500650,Home,2024-06-01,Liability,44630.39,2500.0,42130.39,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101465,POL-1000708,CUST-500708,Home,2025-07-06,Fire,2469.55,500.0,0.0,Denied,Electrical fire in the garage damaged walls and tools.
+CLM-101469,POL-1002395,CUST-502395,Home,2026-04-29,Liability,31833.22,5000.0,26833.22,Under Review,Guest tripped over a loose rug and fractured their wrist.
+CLM-101471,POL-1000314,CUST-500314,Home,2026-03-13,Water Damage,43520.91,1000.0,42520.91,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101476,POL-1000960,CUST-500960,Home,2023-12-14,Fire,38605.99,5000.0,33605.99,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101481,POL-1001623,CUST-501623,Home,2025-09-30,Fire,996.57,5000.0,0.0,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101484,POL-1001818,CUST-501818,Home,2026-03-20,Wind/Hail,10665.47,1000.0,9665.47,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101486,POL-1003007,CUST-503007,Home,2024-09-28,Wind/Hail,2988.56,500.0,2488.56,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101488,POL-1004528,CUST-504528,Home,2023-05-30,Water Damage,45484.42,5000.0,40484.42,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101489,POL-1004528,CUST-504528,Home,2023-09-17,Wind/Hail,63791.81,5000.0,58791.81,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101491,POL-1001918,CUST-501918,Home,2025-05-20,Wind/Hail,91579.76,250.0,91329.76,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101492,POL-1001918,CUST-501918,Home,2025-08-19,Wind/Hail,10992.65,250.0,10742.65,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101496,POL-1004962,CUST-504962,Home,2022-08-17,Theft,55288.82,500.0,54788.82,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101503,POL-1002426,CUST-502426,Home,2025-09-22,Theft,13410.58,5000.0,8410.58,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101504,POL-1002426,CUST-502426,Home,2026-05-08,Wind/Hail,4797.51,5000.0,0.0,Under Review,Hail storm damaged vinyl siding and cracked windows.
+CLM-101506,POL-1003950,CUST-503950,Home,2022-02-22,Theft,68054.92,5000.0,63054.92,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101505,POL-1003950,CUST-503950,Home,2022-03-05,Liability,107310.45,5000.0,102310.45,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101507,POL-1003950,CUST-503950,Home,2022-05-15,Water Damage,8618.24,5000.0,3618.24,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101509,POL-1004428,CUST-504428,Home,2024-06-03,Liability,20271.54,250.0,20021.54,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101508,POL-1004428,CUST-504428,Home,2024-08-05,Fire,4732.03,250.0,4482.03,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101510,POL-1002142,CUST-502142,Home,2025-04-18,Wind/Hail,7946.17,1000.0,6946.17,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101512,POL-1000789,CUST-500789,Home,2026-03-02,Water Damage,3814.83,1000.0,2814.83,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101516,POL-1002865,CUST-502865,Home,2025-09-22,Wind/Hail,20547.19,500.0,20047.19,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101519,POL-1003271,CUST-503271,Home,2025-02-05,Wind/Hail,9888.7,5000.0,4888.7,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101522,POL-1001752,CUST-501752,Home,2022-04-22,Water Damage,1405.92,1000.0,405.92,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101523,POL-1001421,CUST-501421,Home,2023-02-21,Liability,2903.13,250.0,2653.13,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101524,POL-1004221,CUST-504221,Home,2025-11-26,Fire,1408.63,5000.0,0.0,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101525,POL-1004221,CUST-504221,Home,2026-04-06,Fire,30735.29,5000.0,25735.29,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101529,POL-1004575,CUST-504575,Home,2023-05-10,Water Damage,18164.72,250.0,17914.72,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101531,POL-1002244,CUST-502244,Home,2025-07-26,Water Damage,40979.1,5000.0,0.0,Denied,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101536,POL-1003130,CUST-503130,Home,2023-08-20,Liability,27692.64,2500.0,0.0,Denied,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101535,POL-1003130,CUST-503130,Home,2026-04-02,Wind/Hail,18317.88,2500.0,15817.88,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101543,POL-1001730,CUST-501730,Home,2026-03-17,Fire,64341.19,250.0,64091.19,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101547,POL-1000618,CUST-500618,Home,2026-01-31,Liability,12753.92,250.0,12503.92,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101556,POL-1000869,CUST-500869,Home,2023-10-01,Fire,46512.04,250.0,46262.04,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101558,POL-1001042,CUST-501042,Home,2026-02-09,Liability,11255.41,5000.0,6255.41,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101564,POL-1003252,CUST-503252,Home,2025-07-29,Liability,3353.27,1000.0,2353.27,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101567,POL-1004940,CUST-504940,Home,2026-02-03,Fire,13239.55,1000.0,12239.55,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101569,POL-1003639,CUST-503639,Home,2023-06-08,Liability,46201.42,500.0,45701.42,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101577,POL-1003667,CUST-503667,Home,2024-02-09,Water Damage,104079.43,2500.0,101579.43,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101580,POL-1001849,CUST-501849,Home,2026-03-31,Theft,500.0,1000.0,0.0,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101581,POL-1001849,CUST-501849,Home,2026-05-03,Theft,6348.88,1000.0,5348.88,Under Review,Break-in through rear window; jewelry and electronics stolen.
+CLM-101583,POL-1003153,CUST-503153,Home,2025-09-19,Water Damage,17965.93,2500.0,15465.93,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101590,POL-1000452,CUST-500452,Home,2026-02-07,Wind/Hail,38045.65,1000.0,37045.65,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101594,POL-1002954,CUST-502954,Home,2022-06-13,Theft,14150.23,250.0,13900.23,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101593,POL-1002954,CUST-502954,Home,2023-03-04,Liability,27654.8,250.0,27404.8,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101600,POL-1000360,CUST-500360,Home,2022-06-07,Water Damage,32565.69,5000.0,27565.69,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101606,POL-1004141,CUST-504141,Home,2023-09-14,Theft,86696.61,500.0,0.0,Denied,Porch pirate stole high-value packages delivered to front door.
+CLM-101607,POL-1004141,CUST-504141,Home,2024-04-21,Fire,38987.85,500.0,38487.85,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101610,POL-1004214,CUST-504214,Home,2026-03-17,Water Damage,52991.92,500.0,0.0,Denied,"Water heater failed, leaking water across the laundry room floor."
+CLM-101611,POL-1004214,CUST-504214,Home,2026-04-06,Liability,6994.96,500.0,6494.96,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101614,POL-1004884,CUST-504884,Home,2023-05-19,Liability,29145.32,250.0,28895.32,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101613,POL-1004884,CUST-504884,Home,2024-01-28,Theft,3438.93,250.0,3188.93,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101621,POL-1004099,CUST-504099,Home,2022-04-07,Wind/Hail,16483.63,500.0,15983.63,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101620,POL-1004099,CUST-504099,Home,2022-09-13,Theft,14819.6,500.0,14319.6,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101624,POL-1002447,CUST-502447,Home,2026-04-04,Wind/Hail,29028.14,500.0,0.0,Denied,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101626,POL-1000506,CUST-500506,Home,2023-06-07,Liability,7512.44,2500.0,5012.44,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101629,POL-1001942,CUST-501942,Home,2021-12-01,Water Damage,2688.31,250.0,2438.31,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101631,POL-1001942,CUST-501942,Home,2021-12-13,Liability,2422.3,250.0,2172.3,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101630,POL-1001942,CUST-501942,Home,2022-08-18,Fire,1612.06,250.0,1362.06,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101635,POL-1003423,CUST-503423,Home,2021-12-02,Fire,5773.0,1000.0,4773.0,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101637,POL-1004672,CUST-504672,Home,2025-06-20,Water Damage,6006.2,250.0,5756.2,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101643,POL-1003154,CUST-503154,Home,2022-07-11,Water Damage,15263.33,500.0,0.0,Denied,"Water heater failed, leaking water across the laundry room floor."
+CLM-101642,POL-1003154,CUST-503154,Home,2022-09-22,Liability,19061.28,500.0,18561.28,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101652,POL-1003916,CUST-503916,Home,2025-05-28,Theft,14205.35,2500.0,11705.35,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101653,POL-1002916,CUST-502916,Home,2022-09-30,Water Damage,4155.34,2500.0,1655.34,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101654,POL-1002916,CUST-502916,Home,2023-01-07,Fire,6798.01,2500.0,4298.01,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101658,POL-1004518,CUST-504518,Home,2024-10-23,Water Damage,66850.64,500.0,0.0,Denied,"Water heater failed, leaking water across the laundry room floor."
+CLM-101665,POL-1000643,CUST-500643,Home,2023-06-06,Water Damage,34481.35,2500.0,31981.35,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101673,POL-1004239,CUST-504239,Home,2025-10-04,Wind/Hail,39484.04,250.0,0.0,Denied,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101679,POL-1002191,CUST-502191,Home,2024-02-03,Fire,23909.99,500.0,23409.99,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101680,POL-1000622,CUST-500622,Home,2023-03-06,Fire,52060.4,1000.0,51060.4,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101693,POL-1000755,CUST-500755,Home,2023-11-24,Theft,26922.52,500.0,0.0,Denied,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101691,POL-1000755,CUST-500755,Home,2024-01-17,Theft,24146.76,500.0,23646.76,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101692,POL-1000755,CUST-500755,Home,2024-05-03,Liability,5543.98,500.0,5043.98,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101698,POL-1000032,CUST-500032,Home,2025-10-13,Fire,5726.34,500.0,5226.34,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101700,POL-1001157,CUST-501157,Home,2023-07-17,Theft,3202.97,250.0,2952.97,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101703,POL-1003459,CUST-503459,Home,2024-07-28,Fire,66804.34,5000.0,61804.34,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101707,POL-1000783,CUST-500783,Home,2023-01-22,Water Damage,57099.93,2500.0,54599.93,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101708,POL-1000783,CUST-500783,Home,2023-08-07,Theft,11432.05,2500.0,8932.05,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101716,POL-1002266,CUST-502266,Home,2021-10-28,Water Damage,18703.78,250.0,18453.78,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101717,POL-1004274,CUST-504274,Home,2022-03-30,Wind/Hail,14619.2,2500.0,12119.2,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101722,POL-1002210,CUST-502210,Home,2021-11-03,Fire,12388.29,5000.0,7388.29,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101723,POL-1002304,CUST-502304,Home,2025-02-03,Wind/Hail,31482.63,2500.0,28982.63,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101724,POL-1002304,CUST-502304,Home,2025-10-01,Fire,7099.06,2500.0,0.0,Denied,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101725,POL-1002567,CUST-502567,Home,2025-11-03,Fire,4981.49,250.0,4731.49,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101729,POL-1003438,CUST-503438,Home,2026-04-22,Theft,42275.09,1000.0,41275.09,Under Review,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101731,POL-1001161,CUST-501161,Home,2022-04-13,Water Damage,54223.64,1000.0,53223.64,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101730,POL-1001161,CUST-501161,Home,2022-06-01,Fire,17067.76,1000.0,16067.76,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101732,POL-1004225,CUST-504225,Home,2026-01-31,Water Damage,855.72,5000.0,0.0,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101734,POL-1003652,CUST-503652,Home,2025-03-18,Fire,32087.19,1000.0,31087.19,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101735,POL-1001610,CUST-501610,Home,2023-03-19,Wind/Hail,3411.77,2500.0,0.0,Denied,Hail storm damaged vinyl siding and cracked windows.
+CLM-101736,POL-1001610,CUST-501610,Home,2023-06-10,Fire,27889.8,2500.0,25389.8,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101738,POL-1003027,CUST-503027,Home,2024-11-09,Wind/Hail,18394.79,1000.0,17394.79,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101739,POL-1000564,CUST-500564,Home,2025-04-17,Fire,78164.74,500.0,77664.74,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101740,POL-1000564,CUST-500564,Home,2026-03-24,Liability,5822.61,500.0,5322.61,Paid,Mail carrier slipped on icy front steps and sprained ankle.
+CLM-101748,POL-1002630,CUST-502630,Home,2022-03-20,Wind/Hail,2784.38,2500.0,284.38,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101750,POL-1004928,CUST-504928,Home,2025-07-27,Liability,27908.39,2500.0,25408.39,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101752,POL-1001533,CUST-501533,Home,2022-05-18,Water Damage,13994.48,1000.0,12994.48,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101757,POL-1001427,CUST-501427,Home,2025-11-03,Wind/Hail,1153.42,2500.0,0.0,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101758,POL-1001427,CUST-501427,Home,2025-11-24,Water Damage,51390.21,2500.0,48890.21,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101762,POL-1004721,CUST-504721,Home,2026-04-03,Fire,203437.93,500.0,202937.93,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101764,POL-1002603,CUST-502603,Home,2025-05-06,Wind/Hail,26302.95,1000.0,0.0,Denied,Severe thunderstorm tore off several roof shingles.
+CLM-101767,POL-1001196,CUST-501196,Home,2022-09-15,Fire,19312.18,500.0,18812.18,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101776,POL-1000648,CUST-500648,Home,2024-07-22,Water Damage,11071.9,2500.0,8571.9,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101774,POL-1000648,CUST-500648,Home,2024-11-02,Theft,34285.57,2500.0,31785.57,Paid,Porch pirate stole high-value packages delivered to front door.
+CLM-101775,POL-1000648,CUST-500648,Home,2024-11-25,Water Damage,1667.81,2500.0,0.0,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101782,POL-1001891,CUST-501891,Home,2025-12-21,Wind/Hail,146352.59,250.0,146102.59,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101794,POL-1001023,CUST-501023,Home,2025-05-01,Fire,7572.55,2500.0,0.0,Denied,Chimney fire caused attic and roof structure damage.
+CLM-101797,POL-1004988,CUST-504988,Home,2022-10-04,Theft,62529.11,1000.0,0.0,Denied,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101796,POL-1004988,CUST-504988,Home,2022-10-15,Wind/Hail,25280.07,1000.0,24280.07,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101808,POL-1004687,CUST-504687,Home,2024-08-29,Wind/Hail,16833.82,1000.0,15833.82,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101807,POL-1004687,CUST-504687,Home,2024-09-13,Liability,4229.65,1000.0,3229.65,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101818,POL-1000174,CUST-500174,Home,2025-06-13,Wind/Hail,86213.46,250.0,0.0,Denied,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101822,POL-1001482,CUST-501482,Home,2022-08-11,Water Damage,11019.92,2500.0,8519.92,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101824,POL-1000217,CUST-500217,Home,2026-03-12,Water Damage,16715.35,1000.0,15715.35,Paid,"Dishwasher overflowed, damaging kitchen hardwood floors."
+CLM-101835,POL-1001106,CUST-501106,Home,2026-03-25,Liability,4569.71,250.0,0.0,Denied,Guest tripped over a loose rug and fractured their wrist.
+CLM-101836,POL-1001789,CUST-501789,Home,2025-06-03,Fire,11025.56,1000.0,10025.56,Paid,Electrical fire in the garage damaged walls and tools.
+CLM-101837,POL-1003188,CUST-503188,Home,2026-02-14,Theft,27277.47,500.0,26777.47,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101842,POL-1003660,CUST-503660,Home,2025-01-14,Fire,76250.56,5000.0,71250.56,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101844,POL-1000576,CUST-500576,Home,2023-10-01,Wind/Hail,7799.76,2500.0,5299.76,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101846,POL-1000576,CUST-500576,Home,2023-12-27,Fire,6077.42,2500.0,3577.42,Paid,Chimney fire caused attic and roof structure damage.
+CLM-101845,POL-1000576,CUST-500576,Home,2024-02-12,Water Damage,26920.89,2500.0,24420.89,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101847,POL-1002063,CUST-502063,Home,2022-08-14,Water Damage,2798.88,250.0,2548.88,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101854,POL-1001732,CUST-501732,Home,2026-01-14,Theft,11424.46,250.0,11174.46,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101860,POL-1000208,CUST-500208,Home,2023-08-19,Wind/Hail,58294.34,500.0,57794.34,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101886,POL-1000259,CUST-500259,Home,2024-05-02,Fire,871.54,5000.0,0.0,Paid,Grease fire in the kitchen caused severe cabinet and smoke damage.
+CLM-101895,POL-1000052,CUST-500052,Home,2026-03-23,Wind/Hail,11798.19,5000.0,6798.19,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101901,POL-1002409,CUST-502409,Home,2026-02-28,Liability,31577.08,1000.0,30577.08,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101902,POL-1002787,CUST-502787,Home,2024-10-19,Theft,46861.33,5000.0,41861.33,Paid,Lawnmower and power tools stolen from locked backyard shed.
+CLM-101913,POL-1000030,CUST-500030,Home,2026-03-15,Liability,33113.39,5000.0,28113.39,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101915,POL-1004961,CUST-504961,Home,2023-08-30,Liability,30764.82,2500.0,28264.82,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101916,POL-1004961,CUST-504961,Home,2023-11-04,Water Damage,5482.94,2500.0,2982.94,Paid,"Water heater failed, leaking water across the laundry room floor."
+CLM-101929,POL-1004512,CUST-504512,Home,2025-12-02,Theft,15049.53,1000.0,14049.53,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101930,POL-1004443,CUST-504443,Home,2025-10-15,Liability,5111.91,1000.0,4111.91,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101933,POL-1001238,CUST-501238,Home,2025-11-03,Water Damage,585.47,250.0,335.47,Paid,Burst pipe in the upstairs bathroom flooded the ceiling below.
+CLM-101934,POL-1000903,CUST-500903,Home,2025-11-27,Wind/Hail,4294.36,500.0,3794.36,Paid,Hail storm damaged vinyl siding and cracked windows.
+CLM-101937,POL-1002859,CUST-502859,Home,2024-09-12,Wind/Hail,18450.21,5000.0,13450.21,Paid,Severe thunderstorm tore off several roof shingles.
+CLM-101938,POL-1000507,CUST-500507,Home,2024-10-22,Liability,23243.5,500.0,22743.5,Paid,Family dog bit a neighbor visiting the backyard.
+CLM-101944,POL-1000321,CUST-500321,Home,2022-02-28,Liability,13476.12,1000.0,12476.12,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101945,POL-1000321,CUST-500321,Home,2022-05-16,Wind/Hail,19102.5,1000.0,18102.5,Paid,Fallen tree limb damaged the backyard deck during a storm.
+CLM-101943,POL-1000321,CUST-500321,Home,2022-06-14,Theft,30346.16,1000.0,29346.16,Paid,Break-in through rear window; jewelry and electronics stolen.
+CLM-101946,POL-1003563,CUST-503563,Home,2022-05-18,Liability,1588.32,250.0,1338.32,Paid,Guest tripped over a loose rug and fractured their wrist.
+CLM-101948,POL-1001837,CUST-501837,Home,2025-07-12,Theft,9232.63,250.0,8982.63,Paid,Lawnmower and power tools stolen from locked backyard shed.

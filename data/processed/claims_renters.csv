@@ -1,0 +1,182 @@
+claim_id,policy_id,customer_id,policy_type,claim_date,claim_type,claim_amount,deductible,amount_paid,claim_status,incident_description
+CLM-100001,POL-1001501,CUST-501501,Renters,2025-12-25,Theft,500.0,1000.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100020,POL-1003543,CUST-503543,Renters,2026-05-05,Theft,9778.1,1000.0,8778.1,Under Review,Bicycle stolen from the apartment complex bike rack.
+CLM-100053,POL-1000065,CUST-500065,Renters,2024-09-06,Theft,689.35,500.0,189.35,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100054,POL-1000065,CUST-500065,Renters,2024-10-04,Water Damage,3259.55,500.0,2759.55,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100060,POL-1004635,CUST-504635,Renters,2026-05-09,Water Damage,2184.16,2500.0,0.0,Under Review,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100079,POL-1002377,CUST-502377,Renters,2024-06-22,Theft,1522.62,1000.0,522.62,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100093,POL-1000084,CUST-500084,Renters,2022-06-02,Water Damage,848.48,250.0,598.48,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100094,POL-1000084,CUST-500084,Renters,2022-08-07,Theft,2255.39,250.0,2005.39,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100095,POL-1000084,CUST-500084,Renters,2023-04-14,Theft,883.06,250.0,633.06,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100114,POL-1000763,CUST-500763,Renters,2022-03-29,Water Damage,1528.29,5000.0,0.0,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100131,POL-1000373,CUST-500373,Renters,2024-11-20,Water Damage,4272.94,500.0,3772.94,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100139,POL-1004439,CUST-504439,Renters,2025-01-21,Theft,2778.28,250.0,2528.28,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100148,POL-1001406,CUST-501406,Renters,2023-07-02,Fire,8813.73,5000.0,0.0,Denied,Candle left unattended started a small bedroom fire.
+CLM-100147,POL-1001406,CUST-501406,Renters,2023-09-20,Water Damage,580.47,5000.0,0.0,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100149,POL-1001406,CUST-501406,Renters,2023-12-03,Fire,5806.82,5000.0,806.82,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100167,POL-1002280,CUST-502280,Renters,2026-02-28,Fire,6144.19,1000.0,0.0,Denied,Candle left unattended started a small bedroom fire.
+CLM-100183,POL-1003557,CUST-503557,Renters,2024-10-02,Water Damage,1938.31,250.0,1688.31,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100184,POL-1003557,CUST-503557,Renters,2025-08-29,Theft,17980.08,250.0,17730.08,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100185,POL-1000964,CUST-500964,Renters,2025-01-21,Fire,2616.07,1000.0,1616.07,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100205,POL-1001419,CUST-501419,Renters,2025-01-24,Theft,2037.75,2500.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100204,POL-1001419,CUST-501419,Renters,2025-02-01,Theft,2962.74,2500.0,462.74,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100215,POL-1003664,CUST-503664,Renters,2024-08-18,Theft,6242.87,2500.0,3742.87,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100225,POL-1001590,CUST-501590,Renters,2024-07-11,Water Damage,880.79,5000.0,0.0,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100233,POL-1000472,CUST-500472,Renters,2022-05-22,Fire,755.38,250.0,505.38,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100236,POL-1003496,CUST-503496,Renters,2026-02-05,Water Damage,2538.87,2500.0,38.87,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100270,POL-1003891,CUST-503891,Renters,2022-09-27,Water Damage,6016.91,250.0,5766.91,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100268,POL-1003891,CUST-503891,Renters,2023-10-02,Water Damage,901.79,250.0,651.79,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100269,POL-1003891,CUST-503891,Renters,2023-11-13,Water Damage,500.0,250.0,0.0,Denied,Leaking pipe in the wall damaged living room furniture.
+CLM-100291,POL-1004076,CUST-504076,Renters,2023-09-27,Water Damage,3984.77,1000.0,2984.77,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100292,POL-1002370,CUST-502370,Renters,2025-03-12,Fire,500.0,1000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-100317,POL-1003230,CUST-503230,Renters,2023-01-01,Water Damage,535.84,250.0,285.84,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100318,POL-1000691,CUST-500691,Renters,2025-01-15,Fire,1289.3,500.0,789.3,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100319,POL-1002754,CUST-502754,Renters,2023-09-19,Fire,3547.84,250.0,3297.84,Paid,Candle left unattended started a small bedroom fire.
+CLM-100329,POL-1001417,CUST-501417,Renters,2023-08-11,Fire,1389.93,250.0,1139.93,Paid,Candle left unattended started a small bedroom fire.
+CLM-100340,POL-1003525,CUST-503525,Renters,2026-01-18,Water Damage,500.0,250.0,250.0,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100339,POL-1003525,CUST-503525,Renters,2026-02-22,Water Damage,3874.25,250.0,3624.25,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100349,POL-1001485,CUST-501485,Renters,2023-07-20,Water Damage,1564.66,1000.0,564.66,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100348,POL-1001485,CUST-501485,Renters,2024-04-12,Fire,6976.71,1000.0,5976.71,Paid,Candle left unattended started a small bedroom fire.
+CLM-100357,POL-1001261,CUST-501261,Renters,2025-03-24,Fire,4426.86,500.0,3926.86,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100358,POL-1004917,CUST-504917,Renters,2025-03-04,Water Damage,1461.41,500.0,961.41,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100374,POL-1000731,CUST-500731,Renters,2022-08-17,Fire,1451.01,2500.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100416,POL-1000994,CUST-500994,Renters,2025-12-23,Theft,2235.55,2500.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100418,POL-1002642,CUST-502642,Renters,2026-04-06,Theft,15176.29,250.0,14926.29,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100423,POL-1003911,CUST-503911,Renters,2026-04-29,Fire,1579.78,1000.0,579.78,Under Review,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100422,POL-1003911,CUST-503911,Renters,2026-05-06,Theft,5062.44,1000.0,4062.44,Under Review,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100429,POL-1002417,CUST-502417,Renters,2025-10-20,Fire,6497.83,1000.0,0.0,Denied,Candle left unattended started a small bedroom fire.
+CLM-100484,POL-1001541,CUST-501541,Renters,2025-01-17,Water Damage,3031.65,2500.0,531.65,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100485,POL-1002031,CUST-502031,Renters,2022-04-09,Theft,6551.4,500.0,6051.4,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100492,POL-1001029,CUST-501029,Renters,2023-06-20,Fire,4827.45,2500.0,2327.45,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100504,POL-1000315,CUST-500315,Renters,2023-01-11,Fire,5369.01,1000.0,4369.01,Paid,Candle left unattended started a small bedroom fire.
+CLM-100503,POL-1000315,CUST-500315,Renters,2023-10-16,Fire,4874.12,1000.0,0.0,Denied,Candle left unattended started a small bedroom fire.
+CLM-100523,POL-1003630,CUST-503630,Renters,2023-07-19,Theft,1569.85,2500.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100533,POL-1003197,CUST-503197,Renters,2025-12-23,Fire,1998.63,250.0,1748.63,Paid,Candle left unattended started a small bedroom fire.
+CLM-100537,POL-1001351,CUST-501351,Renters,2024-05-28,Theft,20001.87,1000.0,19001.87,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100536,POL-1001351,CUST-501351,Renters,2024-11-19,Water Damage,1052.52,1000.0,52.52,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100568,POL-1003912,CUST-503912,Renters,2022-11-23,Theft,3960.85,250.0,3710.85,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100567,POL-1003912,CUST-503912,Renters,2022-12-02,Fire,500.0,250.0,250.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-100589,POL-1001397,CUST-501397,Renters,2022-05-24,Theft,2344.81,2500.0,0.0,Denied,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100594,POL-1003668,CUST-503668,Renters,2025-10-23,Fire,500.0,1000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-100603,POL-1003574,CUST-503574,Renters,2025-05-12,Theft,2948.82,250.0,2698.82,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100613,POL-1002672,CUST-502672,Renters,2022-12-01,Theft,10694.52,250.0,10444.52,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100642,POL-1000577,CUST-500577,Renters,2021-10-24,Fire,500.0,500.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-100643,POL-1000577,CUST-500577,Renters,2022-05-08,Fire,4249.27,500.0,3749.27,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100667,POL-1000996,CUST-500996,Renters,2023-10-29,Fire,2846.35,1000.0,1846.35,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100666,POL-1000996,CUST-500996,Renters,2024-01-04,Theft,5126.46,1000.0,4126.46,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100674,POL-1004359,CUST-504359,Renters,2021-12-04,Fire,19815.21,1000.0,18815.21,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100685,POL-1003142,CUST-503142,Renters,2023-01-30,Theft,2386.03,1000.0,1386.03,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100696,POL-1000533,CUST-500533,Renters,2026-02-24,Theft,27834.08,250.0,27584.08,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100712,POL-1003256,CUST-503256,Renters,2023-09-02,Theft,8458.6,1000.0,7458.6,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100733,POL-1004862,CUST-504862,Renters,2025-04-09,Water Damage,3997.39,500.0,3497.39,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100736,POL-1002614,CUST-502614,Renters,2022-03-08,Water Damage,11810.39,2500.0,9310.39,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100767,POL-1002317,CUST-502317,Renters,2021-10-21,Water Damage,6821.77,1000.0,5821.77,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100768,POL-1004581,CUST-504581,Renters,2024-11-15,Water Damage,2892.65,500.0,2392.65,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100769,POL-1004741,CUST-504741,Renters,2022-07-03,Fire,2202.99,5000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-100783,POL-1002796,CUST-502796,Renters,2024-07-17,Theft,12216.36,250.0,11966.36,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100784,POL-1002796,CUST-502796,Renters,2025-03-12,Theft,3913.87,250.0,3663.87,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100795,POL-1002173,CUST-502173,Renters,2024-12-30,Fire,500.0,500.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-100798,POL-1000017,CUST-500017,Renters,2025-10-19,Water Damage,6088.07,2500.0,3588.07,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100800,POL-1001699,CUST-501699,Renters,2021-10-01,Fire,2890.81,500.0,2390.81,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100815,POL-1001340,CUST-501340,Renters,2025-11-27,Theft,2389.0,5000.0,0.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100827,POL-1001094,CUST-501094,Renters,2026-01-10,Water Damage,5371.87,250.0,5121.87,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-100835,POL-1002295,CUST-502295,Renters,2025-05-16,Water Damage,1152.54,250.0,902.54,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100841,POL-1004190,CUST-504190,Renters,2025-01-08,Water Damage,535.18,250.0,285.18,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-100842,POL-1004190,CUST-504190,Renters,2025-03-29,Theft,500.0,250.0,250.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100864,POL-1003184,CUST-503184,Renters,2022-01-19,Theft,1892.88,2500.0,0.0,Denied,Bicycle stolen from the apartment complex bike rack.
+CLM-100886,POL-1004093,CUST-504093,Renters,2024-09-20,Theft,1281.72,2500.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100885,POL-1004093,CUST-504093,Renters,2024-12-16,Fire,4772.85,2500.0,2272.85,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100892,POL-1004888,CUST-504888,Renters,2022-06-30,Fire,1777.2,500.0,1277.2,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100896,POL-1000134,CUST-500134,Renters,2024-05-04,Fire,5179.4,250.0,0.0,Denied,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100897,POL-1000134,CUST-500134,Renters,2024-07-09,Fire,9558.99,250.0,9308.99,Paid,Candle left unattended started a small bedroom fire.
+CLM-100906,POL-1004729,CUST-504729,Renters,2025-04-14,Fire,1084.93,250.0,834.93,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-100907,POL-1004054,CUST-504054,Renters,2025-02-03,Water Damage,5131.61,5000.0,0.0,Denied,Leaking pipe in the wall damaged living room furniture.
+CLM-100918,POL-1001507,CUST-501507,Renters,2025-03-25,Fire,1934.06,1000.0,934.06,Paid,Candle left unattended started a small bedroom fire.
+CLM-100955,POL-1003641,CUST-503641,Renters,2023-04-10,Fire,776.47,5000.0,0.0,Denied,Candle left unattended started a small bedroom fire.
+CLM-100967,POL-1004826,CUST-504826,Renters,2025-08-21,Fire,8576.28,500.0,8076.28,Paid,Candle left unattended started a small bedroom fire.
+CLM-100969,POL-1004826,CUST-504826,Renters,2025-10-12,Theft,2479.88,500.0,0.0,Denied,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-100968,POL-1004826,CUST-504826,Renters,2026-02-26,Theft,2933.25,500.0,2433.25,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-100993,POL-1001173,CUST-501173,Renters,2025-08-25,Fire,8206.95,250.0,7956.95,Paid,Candle left unattended started a small bedroom fire.
+CLM-101003,POL-1000378,CUST-500378,Renters,2022-02-06,Water Damage,500.0,500.0,0.0,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101018,POL-1003259,CUST-503259,Renters,2024-04-06,Water Damage,2226.02,500.0,1726.02,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101019,POL-1003259,CUST-503259,Renters,2024-09-14,Theft,5197.07,500.0,4697.07,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101048,POL-1004918,CUST-504918,Renters,2024-11-11,Fire,992.22,2500.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101062,POL-1004870,CUST-504870,Renters,2025-09-25,Theft,1310.38,2500.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101073,POL-1000927,CUST-500927,Renters,2025-07-30,Theft,10376.47,250.0,10126.47,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101078,POL-1001921,CUST-501921,Renters,2026-01-27,Water Damage,5549.53,2500.0,3049.53,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101081,POL-1003393,CUST-503393,Renters,2024-08-06,Theft,1331.94,5000.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101085,POL-1002702,CUST-502702,Renters,2021-09-01,Water Damage,3191.94,2500.0,691.94,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101092,POL-1000366,CUST-500366,Renters,2024-04-15,Fire,780.24,500.0,280.24,Paid,Candle left unattended started a small bedroom fire.
+CLM-101112,POL-1003288,CUST-503288,Renters,2023-08-06,Fire,2752.87,5000.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101133,POL-1003085,CUST-503085,Renters,2022-07-10,Fire,1335.62,500.0,835.62,Paid,Candle left unattended started a small bedroom fire.
+CLM-101138,POL-1001281,CUST-501281,Renters,2021-08-09,Fire,1121.72,500.0,621.72,Paid,Candle left unattended started a small bedroom fire.
+CLM-101151,POL-1003286,CUST-503286,Renters,2025-10-28,Fire,5348.08,250.0,5098.08,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101150,POL-1003286,CUST-503286,Renters,2026-05-05,Theft,4078.78,250.0,3828.78,Approved,Bicycle stolen from the apartment complex bike rack.
+CLM-101152,POL-1002650,CUST-502650,Renters,2022-02-15,Water Damage,5506.92,2500.0,0.0,Denied,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101153,POL-1004453,CUST-504453,Renters,2022-06-14,Fire,500.0,1000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101160,POL-1003379,CUST-503379,Renters,2022-03-09,Fire,2864.35,2500.0,364.35,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101176,POL-1002414,CUST-502414,Renters,2022-03-25,Fire,500.0,1000.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101175,POL-1002414,CUST-502414,Renters,2022-04-13,Water Damage,792.13,1000.0,0.0,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101174,POL-1002414,CUST-502414,Renters,2022-12-13,Water Damage,6955.18,1000.0,5955.18,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101183,POL-1004105,CUST-504105,Renters,2025-05-24,Fire,7667.77,2500.0,5167.77,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101190,POL-1000879,CUST-500879,Renters,2025-08-03,Water Damage,2051.66,1000.0,1051.66,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101189,POL-1000879,CUST-500879,Renters,2025-10-08,Fire,1483.48,1000.0,483.48,Paid,Candle left unattended started a small bedroom fire.
+CLM-101207,POL-1000139,CUST-500139,Renters,2024-12-08,Theft,5640.49,1000.0,4640.49,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101208,POL-1000139,CUST-500139,Renters,2025-03-07,Theft,500.0,1000.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101225,POL-1000594,CUST-500594,Renters,2025-12-13,Theft,3086.02,1000.0,2086.02,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101238,POL-1001034,CUST-501034,Renters,2025-10-09,Theft,1905.73,5000.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101255,POL-1003227,CUST-503227,Renters,2023-01-02,Fire,1482.71,1000.0,482.71,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101254,POL-1003227,CUST-503227,Renters,2023-06-16,Water Damage,1035.94,1000.0,35.94,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101268,POL-1002775,CUST-502775,Renters,2024-08-19,Water Damage,8751.24,250.0,8501.24,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101271,POL-1004939,CUST-504939,Renters,2026-01-06,Theft,2391.73,1000.0,1391.73,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101274,POL-1004231,CUST-504231,Renters,2022-07-28,Water Damage,1001.29,2500.0,0.0,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101275,POL-1004231,CUST-504231,Renters,2023-03-27,Fire,500.0,2500.0,0.0,Denied,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101276,POL-1004231,CUST-504231,Renters,2024-05-18,Theft,8299.15,2500.0,5799.15,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101290,POL-1004227,CUST-504227,Renters,2025-11-09,Fire,690.05,2500.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101288,POL-1004227,CUST-504227,Renters,2025-12-08,Fire,5149.26,2500.0,2649.26,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101289,POL-1004227,CUST-504227,Renters,2026-01-15,Fire,500.0,2500.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101303,POL-1002970,CUST-502970,Renters,2024-08-19,Water Damage,2818.1,2500.0,318.1,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101304,POL-1002970,CUST-502970,Renters,2025-01-23,Water Damage,1462.26,2500.0,0.0,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101309,POL-1002024,CUST-502024,Renters,2022-10-31,Water Damage,3776.94,500.0,3276.94,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101310,POL-1002274,CUST-502274,Renters,2023-12-29,Fire,5646.18,1000.0,4646.18,Paid,Candle left unattended started a small bedroom fire.
+CLM-101369,POL-1002980,CUST-502980,Renters,2026-03-28,Fire,500.0,250.0,250.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101404,POL-1003997,CUST-503997,Renters,2026-03-09,Water Damage,652.64,500.0,152.64,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101407,POL-1003290,CUST-503290,Renters,2023-01-07,Theft,2275.08,5000.0,0.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101419,POL-1003683,CUST-503683,Renters,2023-02-17,Fire,5603.36,500.0,0.0,Denied,Candle left unattended started a small bedroom fire.
+CLM-101444,POL-1003381,CUST-503381,Renters,2022-05-27,Fire,822.85,5000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101482,POL-1003322,CUST-503322,Renters,2024-07-17,Theft,10429.92,1000.0,0.0,Denied,Bicycle stolen from the apartment complex bike rack.
+CLM-101483,POL-1004999,CUST-504999,Renters,2022-03-04,Water Damage,4512.86,5000.0,0.0,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101501,POL-1003159,CUST-503159,Renters,2024-02-12,Water Damage,1421.06,500.0,921.06,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101500,POL-1003159,CUST-503159,Renters,2024-03-18,Water Damage,5181.28,500.0,4681.28,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101513,POL-1003786,CUST-503786,Renters,2024-06-03,Theft,542.56,1000.0,0.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101521,POL-1000073,CUST-500073,Renters,2026-05-05,Fire,4753.16,2500.0,2253.16,Under Review,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101545,POL-1002402,CUST-502402,Renters,2022-03-03,Water Damage,10790.88,2500.0,8290.88,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101598,POL-1000247,CUST-500247,Renters,2026-04-28,Water Damage,1508.15,2500.0,0.0,Under Review,Leaking pipe in the wall damaged living room furniture.
+CLM-101619,POL-1001740,CUST-501740,Renters,2025-02-03,Water Damage,6533.41,1000.0,5533.41,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101638,POL-1000433,CUST-500433,Renters,2022-06-21,Water Damage,6896.01,500.0,6396.01,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101639,POL-1000433,CUST-500433,Renters,2022-07-30,Water Damage,3775.75,500.0,3275.75,Paid,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101656,POL-1001448,CUST-501448,Renters,2024-07-08,Fire,500.0,2500.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101664,POL-1000615,CUST-500615,Renters,2023-05-04,Theft,1543.75,1000.0,0.0,Denied,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101671,POL-1004454,CUST-504454,Renters,2024-04-18,Theft,2636.75,250.0,2386.75,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101675,POL-1000330,CUST-500330,Renters,2023-12-09,Theft,500.0,500.0,0.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101681,POL-1001595,CUST-501595,Renters,2025-06-02,Fire,500.0,5000.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101733,POL-1003119,CUST-503119,Renters,2024-07-26,Fire,790.37,1000.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101755,POL-1004207,CUST-504207,Renters,2025-10-23,Fire,3430.06,5000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101761,POL-1003319,CUST-503319,Renters,2022-11-04,Theft,8908.16,1000.0,7908.16,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101763,POL-1003864,CUST-503864,Renters,2026-04-04,Fire,500.0,1000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101770,POL-1002879,CUST-502879,Renters,2025-12-01,Theft,3538.52,250.0,3288.52,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101789,POL-1001593,CUST-501593,Renters,2025-10-01,Theft,4989.66,5000.0,0.0,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101810,POL-1001684,CUST-501684,Renters,2023-09-10,Fire,588.14,250.0,338.14,Paid,Candle left unattended started a small bedroom fire.
+CLM-101819,POL-1001554,CUST-501554,Renters,2025-01-29,Water Damage,2406.57,1000.0,1406.57,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101820,POL-1001554,CUST-501554,Renters,2025-09-25,Theft,500.0,1000.0,0.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101833,POL-1002238,CUST-502238,Renters,2025-07-17,Water Damage,500.0,5000.0,0.0,Denied,Bathtub overflow from the apartment above leaked through ceiling.
+CLM-101834,POL-1002238,CUST-502238,Renters,2025-10-16,Theft,12838.29,5000.0,7838.29,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101841,POL-1000611,CUST-500611,Renters,2022-10-20,Fire,2676.34,5000.0,0.0,Paid,Candle left unattended started a small bedroom fire.
+CLM-101843,POL-1003711,CUST-503711,Renters,2025-02-18,Water Damage,885.83,500.0,385.83,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101862,POL-1000293,CUST-500293,Renters,2024-02-06,Fire,4131.6,5000.0,0.0,Paid,"Toaster oven caught fire, causing kitchen smoke damage."
+CLM-101861,POL-1000293,CUST-500293,Renters,2025-01-21,Fire,5692.3,5000.0,692.3,Paid,Candle left unattended started a small bedroom fire.
+CLM-101863,POL-1000293,CUST-500293,Renters,2025-01-24,Theft,7444.99,5000.0,2444.99,Paid,"Apartment burglary; laptop, tablet, and gaming console stolen."
+CLM-101871,POL-1001264,CUST-501264,Renters,2022-08-28,Theft,1773.57,5000.0,0.0,Paid,Bicycle stolen from the apartment complex bike rack.
+CLM-101870,POL-1001264,CUST-501264,Renters,2023-02-07,Water Damage,2811.78,5000.0,0.0,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101897,POL-1003473,CUST-503473,Renters,2022-07-07,Water Damage,1722.21,5000.0,0.0,Paid,Leaking pipe in the wall damaged living room furniture.
+CLM-101896,POL-1003473,CUST-503473,Renters,2022-11-22,Fire,2149.22,5000.0,0.0,Paid,Candle left unattended started a small bedroom fire.

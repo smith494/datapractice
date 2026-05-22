@@ -1,0 +1,862 @@
+claim_id,policy_id,customer_id,policy_type,claim_date,claim_type,claim_amount,deductible,amount_paid,claim_status,incident_description
+CLM-100003,POL-1002653,CUST-502653,Auto,2023-09-19,Collision,14417.68,1000.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-100004,POL-1002653,CUST-502653,Auto,2024-05-07,Uninsured Motorist,3644.21,1000.0,2644.21,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100005,POL-1001055,CUST-501055,Auto,2022-01-27,Collision,4512.58,1000.0,3512.58,Paid,Collided with a stationary utility pole while parking.
+CLM-100009,POL-1002468,CUST-502468,Auto,2021-11-11,Uninsured Motorist,2803.89,250.0,2553.89,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100010,POL-1002413,CUST-502413,Auto,2022-01-06,Comprehensive,5647.11,500.0,5147.11,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100013,POL-1002464,CUST-502464,Auto,2024-01-19,Uninsured Motorist,4576.57,1000.0,3576.57,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100014,POL-1000228,CUST-500228,Auto,2025-07-04,Liability,1227.59,2500.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-100017,POL-1000794,CUST-500794,Auto,2024-08-14,Liability,4823.73,250.0,4573.73,Paid,Third-party property damage to a storefront fence.
+CLM-100018,POL-1000794,CUST-500794,Auto,2025-05-17,Liability,1441.48,250.0,1191.48,Paid,Third-party property damage to a storefront fence.
+CLM-100021,POL-1001073,CUST-501073,Auto,2021-07-05,Comprehensive,500.0,500.0,0.0,Denied,Windshield cracked by a rock flying from a dump truck.
+CLM-100028,POL-1001117,CUST-501117,Auto,2023-07-28,Comprehensive,905.86,1000.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-100031,POL-1004767,CUST-504767,Auto,2025-11-30,Comprehensive,5321.42,250.0,5071.42,Paid,Collided with a deer crossing the road at night.
+CLM-100030,POL-1004767,CUST-504767,Auto,2026-02-02,Uninsured Motorist,13830.04,250.0,13580.04,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100032,POL-1000501,CUST-500501,Auto,2025-10-22,Uninsured Motorist,23949.82,2500.0,21449.82,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100034,POL-1000333,CUST-500333,Auto,2025-12-24,Comprehensive,3509.67,5000.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100035,POL-1004684,CUST-504684,Auto,2026-02-18,Liability,500.0,250.0,250.0,Paid,Third-party property damage to a storefront fence.
+CLM-100036,POL-1000486,CUST-500486,Auto,2026-04-21,Uninsured Motorist,16509.77,500.0,16009.77,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100038,POL-1000393,CUST-500393,Auto,2026-02-11,Collision,22869.94,1000.0,21869.94,Paid,Rear-end collision at a traffic intersection.
+CLM-100039,POL-1004842,CUST-504842,Auto,2024-10-07,Comprehensive,12112.6,500.0,11612.6,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100042,POL-1002515,CUST-502515,Auto,2025-08-31,Collision,9623.93,250.0,9373.93,Paid,Rear-end collision at a traffic intersection.
+CLM-100043,POL-1002515,CUST-502515,Auto,2025-09-08,Liability,15929.44,250.0,15679.44,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100047,POL-1004966,CUST-504966,Auto,2023-08-03,Collision,2196.24,5000.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100048,POL-1004966,CUST-504966,Auto,2023-10-10,Comprehensive,983.68,5000.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100055,POL-1000838,CUST-500838,Auto,2022-10-05,Comprehensive,3549.51,5000.0,0.0,Denied,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100056,POL-1000838,CUST-500838,Auto,2026-01-27,Uninsured Motorist,6671.94,5000.0,1671.94,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100057,POL-1003906,CUST-503906,Auto,2025-04-11,Uninsured Motorist,6873.09,2500.0,4373.09,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100065,POL-1004615,CUST-504615,Auto,2026-02-11,Collision,5744.44,1000.0,4744.44,Paid,Rear-end collision at a traffic intersection.
+CLM-100064,POL-1004615,CUST-504615,Auto,2026-04-27,Comprehensive,2028.64,1000.0,1028.64,Under Review,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100072,POL-1001144,CUST-501144,Auto,2025-06-13,Collision,2606.94,1000.0,1606.94,Paid,Multi-vehicle accident on wet roadway.
+CLM-100070,POL-1001144,CUST-501144,Auto,2025-07-02,Uninsured Motorist,4697.55,1000.0,3697.55,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100071,POL-1001144,CUST-501144,Auto,2025-12-24,Uninsured Motorist,6068.5,1000.0,5068.5,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100073,POL-1003078,CUST-503078,Auto,2025-05-18,Uninsured Motorist,6501.36,5000.0,1501.36,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100076,POL-1000168,CUST-500168,Auto,2024-07-23,Liability,3058.22,2500.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-100081,POL-1004257,CUST-504257,Auto,2026-03-19,Collision,4063.01,1000.0,3063.01,Paid,Rear-end collision at a traffic intersection.
+CLM-100082,POL-1004257,CUST-504257,Auto,2026-04-15,Collision,17923.99,1000.0,16923.99,Paid,Rear-end collision at a traffic intersection.
+CLM-100085,POL-1002633,CUST-502633,Auto,2025-06-10,Uninsured Motorist,2296.16,250.0,2046.16,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100088,POL-1002215,CUST-502215,Auto,2024-11-04,Uninsured Motorist,9981.89,2500.0,7481.89,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100087,POL-1002215,CUST-502215,Auto,2025-02-19,Liability,6557.04,2500.0,4057.04,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100089,POL-1003682,CUST-503682,Auto,2024-11-05,Comprehensive,2131.51,1000.0,1131.51,Paid,Collided with a deer crossing the road at night.
+CLM-100090,POL-1004724,CUST-504724,Auto,2022-05-21,Collision,13737.38,5000.0,8737.38,Paid,Rear-end collision at a traffic intersection.
+CLM-100091,POL-1004724,CUST-504724,Auto,2022-08-28,Collision,1136.24,5000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-100092,POL-1001907,CUST-501907,Auto,2025-12-05,Uninsured Motorist,4847.0,1000.0,3847.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100097,POL-1000227,CUST-500227,Auto,2023-08-11,Uninsured Motorist,19905.73,1000.0,18905.73,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100096,POL-1000227,CUST-500227,Auto,2023-10-28,Comprehensive,4355.73,1000.0,3355.73,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100098,POL-1000296,CUST-500296,Auto,2025-07-27,Comprehensive,6667.0,250.0,6417.0,Paid,Collided with a deer crossing the road at night.
+CLM-100100,POL-1001001,CUST-501001,Auto,2022-07-20,Liability,3330.73,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100099,POL-1001001,CUST-501001,Auto,2022-09-13,Liability,10305.58,5000.0,5305.58,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100101,POL-1002138,CUST-502138,Auto,2024-04-18,Collision,1391.26,250.0,1141.26,Paid,Rear-end collision at a traffic intersection.
+CLM-100104,POL-1002801,CUST-502801,Auto,2025-08-10,Liability,2457.81,250.0,2207.81,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100103,POL-1002801,CUST-502801,Auto,2026-03-06,Comprehensive,23690.88,250.0,23440.88,Paid,Collided with a deer crossing the road at night.
+CLM-100107,POL-1003321,CUST-503321,Auto,2024-07-20,Collision,10509.03,250.0,0.0,Denied,Sideswiped by another vehicle merging onto the highway.
+CLM-100108,POL-1003321,CUST-503321,Auto,2024-08-15,Collision,12171.98,250.0,11921.98,Paid,Collided with a stationary utility pole while parking.
+CLM-100110,POL-1004183,CUST-504183,Auto,2023-12-04,Comprehensive,500.0,500.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-100111,POL-1001615,CUST-501615,Auto,2025-08-30,Comprehensive,6679.01,1000.0,5679.01,Paid,Collided with a deer crossing the road at night.
+CLM-100116,POL-1004797,CUST-504797,Auto,2026-01-10,Comprehensive,7877.78,500.0,7377.78,Paid,Collided with a deer crossing the road at night.
+CLM-100117,POL-1003849,CUST-503849,Auto,2022-04-08,Uninsured Motorist,3227.72,2500.0,727.72,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100120,POL-1000468,CUST-500468,Auto,2026-02-09,Liability,1949.33,5000.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-100128,POL-1002940,CUST-502940,Auto,2021-10-26,Comprehensive,942.5,500.0,442.5,Paid,Collided with a deer crossing the road at night.
+CLM-100127,POL-1002940,CUST-502940,Auto,2022-01-05,Comprehensive,2990.71,500.0,2490.71,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100126,POL-1002940,CUST-502940,Auto,2022-05-10,Comprehensive,3382.73,500.0,2882.73,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100133,POL-1001553,CUST-501553,Auto,2025-08-24,Comprehensive,500.0,5000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100135,POL-1001553,CUST-501553,Auto,2025-08-25,Collision,1481.6,5000.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-100134,POL-1001553,CUST-501553,Auto,2025-10-29,Liability,5619.43,5000.0,619.43,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100137,POL-1001669,CUST-501669,Auto,2024-08-05,Liability,33691.28,500.0,33191.28,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100136,POL-1001669,CUST-501669,Auto,2025-01-21,Liability,5659.31,500.0,5159.31,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100140,POL-1000465,CUST-500465,Auto,2024-02-04,Comprehensive,4491.66,1000.0,3491.66,Paid,Collided with a deer crossing the road at night.
+CLM-100144,POL-1004524,CUST-504524,Auto,2026-04-28,Collision,12541.13,2500.0,10041.13,Under Review,Multi-vehicle accident on wet roadway.
+CLM-100145,POL-1004524,CUST-504524,Auto,2026-05-06,Comprehensive,5733.6,2500.0,3233.6,Under Review,Collided with a deer crossing the road at night.
+CLM-100150,POL-1001090,CUST-501090,Auto,2026-01-26,Liability,3799.82,250.0,3549.82,Paid,Third-party property damage to a storefront fence.
+CLM-100152,POL-1000742,CUST-500742,Auto,2026-04-04,Liability,8657.36,2500.0,6157.36,Paid,Third-party property damage to a storefront fence.
+CLM-100153,POL-1002323,CUST-502323,Auto,2024-06-04,Comprehensive,8408.3,1000.0,7408.3,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100156,POL-1002123,CUST-502123,Auto,2024-10-28,Liability,4239.72,250.0,3989.72,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100155,POL-1002123,CUST-502123,Auto,2025-04-24,Liability,1621.36,250.0,1371.36,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100157,POL-1002123,CUST-502123,Auto,2025-05-31,Uninsured Motorist,500.0,250.0,250.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100160,POL-1000240,CUST-500240,Auto,2025-08-26,Comprehensive,5427.63,500.0,4927.63,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100164,POL-1001057,CUST-501057,Auto,2023-01-17,Comprehensive,6329.54,2500.0,3829.54,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100166,POL-1000199,CUST-500199,Auto,2026-01-16,Comprehensive,15262.45,250.0,0.0,Denied,Hail storm caused extensive denting on hood and roof.
+CLM-100170,POL-1002220,CUST-502220,Auto,2025-11-28,Uninsured Motorist,2340.33,500.0,1840.33,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100169,POL-1002220,CUST-502220,Auto,2026-05-01,Uninsured Motorist,7625.42,500.0,7125.42,Under Review,Rear-ended by an uninsured driver who fled the scene.
+CLM-100172,POL-1002819,CUST-502819,Auto,2025-12-14,Comprehensive,4672.43,1000.0,3672.43,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100173,POL-1003150,CUST-503150,Auto,2025-10-23,Liability,18640.1,500.0,18140.1,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100174,POL-1004256,CUST-504256,Auto,2024-06-29,Uninsured Motorist,1079.88,500.0,579.88,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100187,POL-1003698,CUST-503698,Auto,2021-08-26,Comprehensive,4149.86,500.0,3649.86,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100188,POL-1003698,CUST-503698,Auto,2022-07-27,Collision,544.62,500.0,44.62,Paid,Multi-vehicle accident on wet roadway.
+CLM-100189,POL-1003698,CUST-503698,Auto,2022-10-25,Collision,4986.2,500.0,4486.2,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100193,POL-1003899,CUST-503899,Auto,2024-10-17,Uninsured Motorist,1018.69,1000.0,18.69,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100197,POL-1003238,CUST-503238,Auto,2023-08-30,Collision,2939.92,250.0,2689.92,Paid,Rear-end collision at a traffic intersection.
+CLM-100196,POL-1003238,CUST-503238,Auto,2024-01-28,Comprehensive,8959.55,250.0,8709.55,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100195,POL-1003238,CUST-503238,Auto,2025-04-05,Uninsured Motorist,776.5,250.0,526.5,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100200,POL-1003580,CUST-503580,Auto,2025-04-24,Uninsured Motorist,2831.44,500.0,2331.44,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100203,POL-1002575,CUST-502575,Auto,2024-01-14,Liability,500.0,500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100209,POL-1001860,CUST-501860,Auto,2024-03-10,Uninsured Motorist,11772.98,5000.0,6772.98,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100211,POL-1000008,CUST-500008,Auto,2025-11-17,Liability,20627.52,500.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-100210,POL-1000008,CUST-500008,Auto,2026-04-23,Comprehensive,6035.31,500.0,5535.31,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100213,POL-1002894,CUST-502894,Auto,2023-08-02,Collision,7913.46,5000.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-100212,POL-1002894,CUST-502894,Auto,2025-03-27,Collision,2887.96,5000.0,0.0,Denied,Collided with a stationary utility pole while parking.
+CLM-100214,POL-1002847,CUST-502847,Auto,2023-06-07,Uninsured Motorist,2936.56,250.0,2686.56,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100222,POL-1000151,CUST-500151,Auto,2025-06-26,Uninsured Motorist,7614.92,1000.0,6614.92,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100224,POL-1001052,CUST-501052,Auto,2025-11-04,Comprehensive,4288.61,1000.0,3288.61,Paid,Collided with a deer crossing the road at night.
+CLM-100226,POL-1003008,CUST-503008,Auto,2025-03-06,Uninsured Motorist,5959.88,1000.0,4959.88,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100228,POL-1002029,CUST-502029,Auto,2025-06-14,Uninsured Motorist,9006.75,250.0,8756.75,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100227,POL-1002029,CUST-502029,Auto,2025-07-29,Comprehensive,2823.3,250.0,2573.3,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100230,POL-1001807,CUST-501807,Auto,2023-07-10,Collision,3615.99,500.0,3115.99,Paid,Multi-vehicle accident on wet roadway.
+CLM-100231,POL-1002696,CUST-502696,Auto,2025-04-12,Comprehensive,2347.04,5000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100232,POL-1003039,CUST-503039,Auto,2024-12-04,Liability,9075.37,2500.0,6575.37,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100235,POL-1004074,CUST-504074,Auto,2025-04-14,Comprehensive,7623.64,500.0,7123.64,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100237,POL-1000279,CUST-500279,Auto,2025-05-07,Uninsured Motorist,3026.81,2500.0,526.81,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100241,POL-1002886,CUST-502886,Auto,2026-03-16,Liability,4008.8,500.0,3508.8,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100242,POL-1001941,CUST-501941,Auto,2023-03-08,Liability,5071.76,5000.0,71.76,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100243,POL-1001941,CUST-501941,Auto,2023-09-21,Liability,43478.29,5000.0,38478.29,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100249,POL-1003684,CUST-503684,Auto,2025-08-26,Liability,1678.7,2500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100250,POL-1003661,CUST-503661,Auto,2024-09-06,Liability,18876.53,1000.0,17876.53,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100251,POL-1003661,CUST-503661,Auto,2024-11-30,Comprehensive,1754.09,1000.0,754.09,Paid,Collided with a deer crossing the road at night.
+CLM-100252,POL-1000530,CUST-500530,Auto,2023-04-25,Comprehensive,2457.33,250.0,2207.33,Paid,Collided with a deer crossing the road at night.
+CLM-100256,POL-1003794,CUST-503794,Auto,2023-09-16,Liability,1439.03,500.0,939.03,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100257,POL-1003794,CUST-503794,Auto,2024-05-12,Uninsured Motorist,500.0,500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100261,POL-1002018,CUST-502018,Auto,2022-10-21,Comprehensive,3744.79,500.0,3244.79,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100262,POL-1001096,CUST-501096,Auto,2026-02-26,Liability,1234.17,500.0,734.17,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100267,POL-1004381,CUST-504381,Auto,2023-08-01,Uninsured Motorist,6446.78,2500.0,3946.78,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100278,POL-1002194,CUST-502194,Auto,2024-03-08,Uninsured Motorist,2693.86,500.0,2193.86,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100281,POL-1003425,CUST-503425,Auto,2025-01-06,Comprehensive,6932.75,2500.0,4432.75,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100280,POL-1003425,CUST-503425,Auto,2025-09-25,Comprehensive,4271.1,2500.0,1771.1,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100283,POL-1003979,CUST-503979,Auto,2024-05-01,Comprehensive,6385.65,1000.0,0.0,Denied,Collided with a deer crossing the road at night.
+CLM-100282,POL-1003979,CUST-503979,Auto,2024-08-15,Comprehensive,500.0,1000.0,0.0,Denied,Windshield cracked by a rock flying from a dump truck.
+CLM-100284,POL-1003979,CUST-503979,Auto,2025-01-30,Liability,975.11,1000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100286,POL-1003145,CUST-503145,Auto,2025-02-21,Uninsured Motorist,7087.97,2500.0,4587.97,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100293,POL-1004838,CUST-504838,Auto,2024-10-16,Uninsured Motorist,2546.79,1000.0,1546.79,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100294,POL-1004838,CUST-504838,Auto,2024-12-08,Comprehensive,3723.25,1000.0,2723.25,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100295,POL-1000033,CUST-500033,Auto,2025-12-21,Uninsured Motorist,1599.57,250.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-100302,POL-1004582,CUST-504582,Auto,2023-07-29,Liability,2885.81,2500.0,385.81,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100307,POL-1002707,CUST-502707,Auto,2022-04-26,Uninsured Motorist,5124.86,250.0,4874.86,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100308,POL-1000297,CUST-500297,Auto,2025-12-28,Collision,3210.52,5000.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-100312,POL-1003774,CUST-503774,Auto,2023-12-17,Comprehensive,1614.49,500.0,1114.49,Paid,Collided with a deer crossing the road at night.
+CLM-100311,POL-1003774,CUST-503774,Auto,2024-08-24,Collision,502.91,500.0,2.91,Paid,Rear-end collision at a traffic intersection.
+CLM-100321,POL-1000969,CUST-500969,Auto,2025-07-12,Liability,2804.95,2500.0,304.95,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100322,POL-1000633,CUST-500633,Auto,2025-11-30,Liability,1438.95,1000.0,438.95,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100326,POL-1001321,CUST-501321,Auto,2025-06-01,Liability,11850.86,500.0,11350.86,Paid,Third-party property damage to a storefront fence.
+CLM-100328,POL-1002178,CUST-502178,Auto,2023-06-24,Comprehensive,3921.01,2500.0,1421.01,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100331,POL-1004715,CUST-504715,Auto,2026-05-03,Uninsured Motorist,13190.33,250.0,12940.33,Approved,Hit-and-run incident in a shopping mall parking structure.
+CLM-100334,POL-1004118,CUST-504118,Auto,2026-03-25,Liability,3082.28,250.0,2832.28,Under Review,Backed into neighbor's parked car causing bumper damage.
+CLM-100335,POL-1001652,CUST-501652,Auto,2023-01-10,Collision,500.0,500.0,0.0,Denied,Multi-vehicle accident on wet roadway.
+CLM-100342,POL-1000426,CUST-500426,Auto,2022-05-09,Comprehensive,1317.92,1000.0,317.92,Paid,Collided with a deer crossing the road at night.
+CLM-100344,POL-1001589,CUST-501589,Auto,2024-08-25,Collision,7997.8,500.0,7497.8,Paid,Multi-vehicle accident on wet roadway.
+CLM-100347,POL-1004483,CUST-504483,Auto,2021-07-22,Liability,5928.74,2500.0,0.0,Denied,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100352,POL-1002584,CUST-502584,Auto,2025-12-12,Uninsured Motorist,13387.15,500.0,12887.15,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100353,POL-1002893,CUST-502893,Auto,2022-02-22,Comprehensive,5318.76,2500.0,2818.76,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100356,POL-1000676,CUST-500676,Auto,2023-04-30,Comprehensive,15356.52,5000.0,10356.52,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100359,POL-1000012,CUST-500012,Auto,2022-11-02,Liability,500.0,500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100360,POL-1001833,CUST-501833,Auto,2025-05-11,Uninsured Motorist,9182.07,250.0,8932.07,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100364,POL-1001491,CUST-501491,Auto,2022-02-07,Collision,8326.61,250.0,8076.61,Paid,Multi-vehicle accident on wet roadway.
+CLM-100363,POL-1001491,CUST-501491,Auto,2022-03-07,Uninsured Motorist,7287.24,250.0,7037.24,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100365,POL-1001491,CUST-501491,Auto,2023-08-31,Comprehensive,8136.64,250.0,7886.64,Paid,Collided with a deer crossing the road at night.
+CLM-100368,POL-1003686,CUST-503686,Auto,2022-12-17,Collision,9032.03,500.0,8532.03,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100369,POL-1003686,CUST-503686,Auto,2023-12-04,Collision,4110.55,500.0,3610.55,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100372,POL-1004605,CUST-504605,Auto,2026-03-09,Comprehensive,21728.57,250.0,21478.57,Paid,Collided with a deer crossing the road at night.
+CLM-100371,POL-1004605,CUST-504605,Auto,2026-03-25,Uninsured Motorist,31808.91,250.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-100373,POL-1004595,CUST-504595,Auto,2026-01-10,Liability,9783.49,5000.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-100376,POL-1001634,CUST-501634,Auto,2023-04-04,Comprehensive,3443.75,500.0,2943.75,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100378,POL-1001210,CUST-501210,Auto,2024-06-27,Uninsured Motorist,15930.54,250.0,15680.54,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100379,POL-1003268,CUST-503268,Auto,2023-05-16,Collision,6990.23,500.0,0.0,Denied,Multi-vehicle accident on wet roadway.
+CLM-100380,POL-1003268,CUST-503268,Auto,2023-12-15,Liability,19399.35,500.0,18899.35,Paid,Third-party property damage to a storefront fence.
+CLM-100381,POL-1003268,CUST-503268,Auto,2024-01-10,Liability,500.0,500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100382,POL-1001934,CUST-501934,Auto,2025-10-30,Comprehensive,1506.04,1000.0,506.04,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100383,POL-1000553,CUST-500553,Auto,2025-01-17,Liability,500.0,2500.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-100388,POL-1002195,CUST-502195,Auto,2024-04-02,Collision,15351.79,250.0,15101.79,Paid,Collided with a stationary utility pole while parking.
+CLM-100389,POL-1002195,CUST-502195,Auto,2025-06-08,Comprehensive,1182.08,250.0,932.08,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100390,POL-1003064,CUST-503064,Auto,2023-08-05,Liability,21368.82,250.0,21118.82,Paid,Third-party property damage to a storefront fence.
+CLM-100393,POL-1002225,CUST-502225,Auto,2026-04-01,Collision,5211.51,1000.0,4211.51,Paid,Multi-vehicle accident on wet roadway.
+CLM-100394,POL-1004264,CUST-504264,Auto,2022-06-14,Uninsured Motorist,6456.32,500.0,5956.32,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100395,POL-1001170,CUST-501170,Auto,2025-11-26,Liability,13818.03,500.0,13318.03,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100396,POL-1000132,CUST-500132,Auto,2024-06-11,Uninsured Motorist,16712.22,2500.0,14212.22,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100400,POL-1002876,CUST-502876,Auto,2022-04-12,Comprehensive,914.57,5000.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100401,POL-1002876,CUST-502876,Auto,2022-10-12,Collision,11098.7,5000.0,6098.7,Paid,Collided with a stationary utility pole while parking.
+CLM-100402,POL-1004504,CUST-504504,Auto,2023-04-20,Collision,677.18,1000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-100405,POL-1002826,CUST-502826,Auto,2024-05-24,Comprehensive,500.0,5000.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100404,POL-1002826,CUST-502826,Auto,2024-05-30,Comprehensive,11868.91,5000.0,6868.91,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100407,POL-1001869,CUST-501869,Auto,2025-01-18,Collision,2621.87,500.0,2121.87,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100411,POL-1002312,CUST-502312,Auto,2024-01-04,Liability,24640.26,2500.0,22140.26,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100412,POL-1004923,CUST-504923,Auto,2024-02-02,Liability,18758.54,1000.0,17758.54,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100419,POL-1004802,CUST-504802,Auto,2022-01-18,Uninsured Motorist,6160.94,5000.0,1160.94,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100421,POL-1004831,CUST-504831,Auto,2022-03-28,Collision,8967.29,5000.0,3967.29,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100424,POL-1002107,CUST-502107,Auto,2024-02-26,Liability,500.0,1000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100425,POL-1002107,CUST-502107,Auto,2024-04-29,Uninsured Motorist,1010.5,1000.0,10.5,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100426,POL-1003044,CUST-503044,Auto,2023-04-01,Collision,10711.64,250.0,10461.64,Paid,Collided with a stationary utility pole while parking.
+CLM-100427,POL-1000416,CUST-500416,Auto,2024-01-15,Uninsured Motorist,5275.4,5000.0,275.4,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100430,POL-1000505,CUST-500505,Auto,2022-06-02,Uninsured Motorist,5604.73,500.0,5104.73,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100434,POL-1004255,CUST-504255,Auto,2024-07-28,Liability,8507.32,500.0,8007.32,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100435,POL-1004255,CUST-504255,Auto,2025-11-11,Collision,8709.99,500.0,8209.99,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100438,POL-1004148,CUST-504148,Auto,2023-06-15,Liability,27950.7,2500.0,25450.7,Paid,Third-party property damage to a storefront fence.
+CLM-100441,POL-1000893,CUST-500893,Auto,2023-05-01,Uninsured Motorist,7745.75,250.0,7495.75,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100443,POL-1000555,CUST-500555,Auto,2025-12-09,Collision,4786.81,5000.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100444,POL-1003825,CUST-503825,Auto,2026-04-12,Comprehensive,13986.88,1000.0,12986.88,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100447,POL-1004253,CUST-504253,Auto,2022-10-29,Liability,13934.93,500.0,13434.93,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100450,POL-1002221,CUST-502221,Auto,2023-11-18,Collision,6648.16,500.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-100454,POL-1003006,CUST-503006,Auto,2024-08-23,Collision,4263.31,1000.0,3263.31,Paid,Rear-end collision at a traffic intersection.
+CLM-100456,POL-1002187,CUST-502187,Auto,2023-08-27,Collision,10336.23,250.0,10086.23,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100457,POL-1002187,CUST-502187,Auto,2025-11-10,Uninsured Motorist,728.78,250.0,478.78,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100458,POL-1003036,CUST-503036,Auto,2024-03-26,Uninsured Motorist,1856.03,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100459,POL-1003918,CUST-503918,Auto,2025-11-24,Collision,15119.77,1000.0,14119.77,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100463,POL-1000252,CUST-500252,Auto,2023-09-10,Uninsured Motorist,2654.39,2500.0,154.39,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100467,POL-1000350,CUST-500350,Auto,2022-06-22,Uninsured Motorist,5577.37,5000.0,577.37,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100466,POL-1000350,CUST-500350,Auto,2022-11-14,Liability,976.49,5000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100469,POL-1001961,CUST-501961,Auto,2024-09-03,Comprehensive,1952.68,500.0,1452.68,Paid,Collided with a deer crossing the road at night.
+CLM-100471,POL-1000090,CUST-500090,Auto,2026-03-30,Uninsured Motorist,7830.45,1000.0,6830.45,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100474,POL-1000670,CUST-500670,Auto,2025-05-31,Uninsured Motorist,12728.88,500.0,12228.88,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100479,POL-1000429,CUST-500429,Auto,2025-05-08,Uninsured Motorist,500.0,500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100480,POL-1000683,CUST-500683,Auto,2023-09-15,Liability,7005.44,1000.0,6005.44,Paid,Third-party property damage to a storefront fence.
+CLM-100482,POL-1003945,CUST-503945,Auto,2024-02-16,Collision,957.87,250.0,707.87,Paid,Rear-end collision at a traffic intersection.
+CLM-100483,POL-1003523,CUST-503523,Auto,2025-09-30,Comprehensive,500.0,2500.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-100488,POL-1002232,CUST-502232,Auto,2023-05-06,Uninsured Motorist,5722.66,1000.0,4722.66,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100486,POL-1002232,CUST-502232,Auto,2023-06-16,Comprehensive,6136.67,1000.0,5136.67,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100487,POL-1002232,CUST-502232,Auto,2023-12-10,Comprehensive,9132.3,1000.0,8132.3,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100490,POL-1003235,CUST-503235,Auto,2023-11-22,Liability,3924.2,1000.0,2924.2,Paid,Third-party property damage to a storefront fence.
+CLM-100494,POL-1003800,CUST-503800,Auto,2025-01-18,Collision,5501.36,2500.0,3001.36,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100496,POL-1002509,CUST-502509,Auto,2025-08-13,Uninsured Motorist,3154.12,1000.0,2154.12,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100502,POL-1004647,CUST-504647,Auto,2024-01-06,Comprehensive,5839.77,500.0,5339.77,Paid,Collided with a deer crossing the road at night.
+CLM-100506,POL-1002450,CUST-502450,Auto,2022-06-28,Comprehensive,6078.11,500.0,5578.11,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100510,POL-1000069,CUST-500069,Auto,2024-06-04,Liability,1060.09,500.0,560.09,Paid,Third-party property damage to a storefront fence.
+CLM-100511,POL-1000859,CUST-500859,Auto,2024-12-27,Liability,1624.62,5000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100515,POL-1003860,CUST-503860,Auto,2024-05-14,Comprehensive,11912.63,5000.0,6912.63,Paid,Collided with a deer crossing the road at night.
+CLM-100516,POL-1003106,CUST-503106,Auto,2024-10-14,Uninsured Motorist,15503.6,5000.0,10503.6,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100519,POL-1004001,CUST-504001,Auto,2026-04-23,Comprehensive,10319.04,2500.0,7819.04,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100522,POL-1002605,CUST-502605,Auto,2025-10-29,Comprehensive,500.0,500.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-100525,POL-1001874,CUST-501874,Auto,2023-04-27,Collision,4893.65,2500.0,2393.65,Paid,Rear-end collision at a traffic intersection.
+CLM-100527,POL-1000811,CUST-500811,Auto,2024-05-21,Comprehensive,14949.16,1000.0,13949.16,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100526,POL-1000811,CUST-500811,Auto,2025-05-30,Comprehensive,11095.26,1000.0,10095.26,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100528,POL-1000387,CUST-500387,Auto,2026-03-27,Comprehensive,14080.99,5000.0,9080.99,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100532,POL-1001175,CUST-501175,Auto,2023-08-11,Comprehensive,23027.59,1000.0,22027.59,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100540,POL-1000109,CUST-500109,Auto,2026-04-15,Collision,2740.42,500.0,2240.42,Approved,Sideswiped by another vehicle merging onto the highway.
+CLM-100544,POL-1002594,CUST-502594,Auto,2023-05-15,Liability,1990.96,1000.0,990.96,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100549,POL-1002146,CUST-502146,Auto,2023-08-21,Liability,10969.03,250.0,10719.03,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100548,POL-1002146,CUST-502146,Auto,2023-10-24,Collision,3395.46,250.0,3145.46,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100553,POL-1004996,CUST-504996,Auto,2023-08-04,Collision,4118.31,1000.0,3118.31,Paid,Rear-end collision at a traffic intersection.
+CLM-100554,POL-1000538,CUST-500538,Auto,2024-10-11,Comprehensive,1346.0,500.0,846.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100555,POL-1000721,CUST-500721,Auto,2026-04-18,Uninsured Motorist,9520.43,5000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-100557,POL-1004410,CUST-504410,Auto,2025-03-09,Collision,4679.07,1000.0,3679.07,Paid,Collided with a stationary utility pole while parking.
+CLM-100556,POL-1004410,CUST-504410,Auto,2025-08-27,Comprehensive,4786.72,1000.0,3786.72,Paid,Collided with a deer crossing the road at night.
+CLM-100558,POL-1004410,CUST-504410,Auto,2026-01-08,Uninsured Motorist,1845.43,1000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-100559,POL-1001872,CUST-501872,Auto,2021-11-21,Uninsured Motorist,34038.17,2500.0,31538.17,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100563,POL-1002907,CUST-502907,Auto,2022-08-24,Comprehensive,7765.69,2500.0,5265.69,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100570,POL-1002890,CUST-502890,Auto,2025-11-07,Liability,2149.19,2500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100571,POL-1003673,CUST-503673,Auto,2021-10-19,Liability,2219.29,1000.0,1219.29,Paid,Third-party property damage to a storefront fence.
+CLM-100574,POL-1000080,CUST-500080,Auto,2024-01-14,Collision,2185.13,2500.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-100572,POL-1000080,CUST-500080,Auto,2024-04-27,Comprehensive,20059.34,2500.0,17559.34,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100573,POL-1000080,CUST-500080,Auto,2024-10-27,Uninsured Motorist,3309.75,2500.0,809.75,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100575,POL-1002561,CUST-502561,Auto,2022-12-04,Liability,15203.9,250.0,14953.9,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100577,POL-1001617,CUST-501617,Auto,2022-10-16,Liability,5374.64,2500.0,2874.64,Paid,Third-party property damage to a storefront fence.
+CLM-100578,POL-1001654,CUST-501654,Auto,2025-09-03,Uninsured Motorist,2759.03,2500.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-100579,POL-1002328,CUST-502328,Auto,2022-07-28,Comprehensive,2731.41,5000.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-100581,POL-1000221,CUST-500221,Auto,2025-10-01,Liability,6887.15,2500.0,4387.15,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100582,POL-1000221,CUST-500221,Auto,2025-10-20,Uninsured Motorist,500.0,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100584,POL-1000093,CUST-500093,Auto,2025-08-06,Comprehensive,7041.54,500.0,6541.54,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100583,POL-1000093,CUST-500093,Auto,2025-09-27,Uninsured Motorist,645.2,500.0,145.2,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100586,POL-1002609,CUST-502609,Auto,2026-01-10,Liability,5673.38,1000.0,4673.38,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100585,POL-1002609,CUST-502609,Auto,2026-04-09,Uninsured Motorist,1123.84,1000.0,123.84,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100587,POL-1003382,CUST-503382,Auto,2026-03-04,Collision,5780.44,2500.0,3280.44,Paid,Multi-vehicle accident on wet roadway.
+CLM-100588,POL-1004415,CUST-504415,Auto,2022-06-29,Comprehensive,3566.8,250.0,3316.8,Paid,Collided with a deer crossing the road at night.
+CLM-100591,POL-1001292,CUST-501292,Auto,2024-01-22,Uninsured Motorist,15939.72,1000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-100592,POL-1002164,CUST-502164,Auto,2025-02-11,Liability,942.62,2500.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100595,POL-1000812,CUST-500812,Auto,2025-01-28,Uninsured Motorist,4109.26,1000.0,3109.26,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100598,POL-1000889,CUST-500889,Auto,2025-07-13,Collision,28973.02,5000.0,23973.02,Paid,Collided with a stationary utility pole while parking.
+CLM-100599,POL-1001451,CUST-501451,Auto,2024-10-12,Comprehensive,626.3,1000.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-100600,POL-1003316,CUST-503316,Auto,2024-12-22,Uninsured Motorist,500.0,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100601,POL-1003316,CUST-503316,Auto,2025-04-25,Comprehensive,3194.64,5000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100606,POL-1002680,CUST-502680,Auto,2025-01-20,Collision,500.0,1000.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-100605,POL-1002680,CUST-502680,Auto,2025-08-13,Liability,660.21,1000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100604,POL-1002680,CUST-502680,Auto,2026-03-22,Liability,8082.85,1000.0,7082.85,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100607,POL-1004651,CUST-504651,Auto,2025-02-09,Uninsured Motorist,21969.27,500.0,21469.27,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100614,POL-1000561,CUST-500561,Auto,2026-04-22,Collision,17690.33,2500.0,15190.33,Approved,Sideswiped by another vehicle merging onto the highway.
+CLM-100618,POL-1002817,CUST-502817,Auto,2025-07-31,Comprehensive,10474.72,2500.0,7974.72,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100620,POL-1001756,CUST-501756,Auto,2026-04-21,Comprehensive,16302.18,250.0,16052.18,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100624,POL-1004139,CUST-504139,Auto,2021-11-09,Collision,7536.89,5000.0,0.0,Denied,Multi-vehicle accident on wet roadway.
+CLM-100623,POL-1004139,CUST-504139,Auto,2021-12-26,Collision,9108.1,5000.0,4108.1,Paid,Collided with a stationary utility pole while parking.
+CLM-100627,POL-1001588,CUST-501588,Auto,2025-10-21,Collision,11048.81,250.0,10798.81,Paid,Rear-end collision at a traffic intersection.
+CLM-100631,POL-1004707,CUST-504707,Auto,2022-10-10,Liability,14915.27,1000.0,13915.27,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100632,POL-1000043,CUST-500043,Auto,2025-12-16,Liability,876.34,2500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100636,POL-1000677,CUST-500677,Auto,2022-09-01,Comprehensive,500.0,500.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100638,POL-1001433,CUST-501433,Auto,2022-11-24,Collision,9779.54,500.0,9279.54,Paid,Rear-end collision at a traffic intersection.
+CLM-100641,POL-1002843,CUST-502843,Auto,2025-05-14,Liability,1607.76,250.0,1357.76,Paid,Third-party property damage to a storefront fence.
+CLM-100644,POL-1003928,CUST-503928,Auto,2024-07-03,Collision,4784.29,2500.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-100645,POL-1000544,CUST-500544,Auto,2025-05-18,Uninsured Motorist,3938.23,2500.0,1438.23,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100646,POL-1000367,CUST-500367,Auto,2024-07-13,Uninsured Motorist,6963.19,5000.0,1963.19,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100648,POL-1003550,CUST-503550,Auto,2023-04-23,Liability,9372.64,5000.0,4372.64,Paid,Third-party property damage to a storefront fence.
+CLM-100650,POL-1003779,CUST-503779,Auto,2023-12-20,Liability,2482.39,250.0,2232.39,Paid,Third-party property damage to a storefront fence.
+CLM-100657,POL-1000734,CUST-500734,Auto,2025-06-18,Liability,15174.11,1000.0,14174.11,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100658,POL-1001534,CUST-501534,Auto,2025-09-27,Uninsured Motorist,500.0,1000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100663,POL-1003795,CUST-503795,Auto,2025-09-05,Liability,571.35,250.0,321.35,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100662,POL-1003795,CUST-503795,Auto,2025-11-29,Liability,9044.41,250.0,8794.41,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100664,POL-1002519,CUST-502519,Auto,2023-03-27,Uninsured Motorist,2344.07,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100665,POL-1001972,CUST-501972,Auto,2023-10-02,Collision,10052.36,5000.0,5052.36,Paid,Rear-end collision at a traffic intersection.
+CLM-100668,POL-1000061,CUST-500061,Auto,2023-10-22,Uninsured Motorist,16419.96,250.0,16169.96,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100669,POL-1000061,CUST-500061,Auto,2025-04-11,Comprehensive,4701.59,250.0,4451.59,Paid,Collided with a deer crossing the road at night.
+CLM-100678,POL-1001101,CUST-501101,Auto,2022-06-12,Collision,19240.81,500.0,18740.81,Paid,Collided with a stationary utility pole while parking.
+CLM-100680,POL-1001101,CUST-501101,Auto,2023-02-09,Uninsured Motorist,6732.87,500.0,6232.87,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100679,POL-1001101,CUST-501101,Auto,2023-05-20,Liability,500.0,500.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100681,POL-1002746,CUST-502746,Auto,2022-07-09,Comprehensive,4043.91,250.0,3793.91,Paid,Collided with a deer crossing the road at night.
+CLM-100682,POL-1002170,CUST-502170,Auto,2024-04-16,Liability,500.0,1000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100684,POL-1004254,CUST-504254,Auto,2024-08-03,Uninsured Motorist,10026.98,1000.0,9026.98,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100686,POL-1003537,CUST-503537,Auto,2022-08-07,Collision,1064.72,5000.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-100687,POL-1003537,CUST-503537,Auto,2022-12-14,Liability,500.0,5000.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-100688,POL-1004925,CUST-504925,Auto,2026-05-08,Collision,2830.06,250.0,2580.06,Under Review,Multi-vehicle accident on wet roadway.
+CLM-100689,POL-1002924,CUST-502924,Auto,2023-03-29,Comprehensive,2900.67,5000.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100691,POL-1003617,CUST-503617,Auto,2023-10-03,Uninsured Motorist,4619.27,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100692,POL-1000291,CUST-500291,Auto,2026-05-07,Comprehensive,11577.74,5000.0,6577.74,Under Review,Windshield cracked by a rock flying from a dump truck.
+CLM-100695,POL-1003586,CUST-503586,Auto,2022-07-27,Comprehensive,2813.93,2500.0,313.93,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100697,POL-1003607,CUST-503607,Auto,2022-07-04,Uninsured Motorist,7036.49,500.0,6536.49,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100699,POL-1004810,CUST-504810,Auto,2024-12-12,Uninsured Motorist,19322.9,1000.0,18322.9,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100710,POL-1003626,CUST-503626,Auto,2026-02-26,Liability,2018.62,5000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100719,POL-1001391,CUST-501391,Auto,2021-07-16,Uninsured Motorist,21444.92,250.0,21194.92,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100721,POL-1004525,CUST-504525,Auto,2026-02-17,Comprehensive,13581.36,5000.0,8581.36,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100720,POL-1004525,CUST-504525,Auto,2026-03-08,Uninsured Motorist,31725.44,5000.0,26725.44,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100725,POL-1004281,CUST-504281,Auto,2026-03-13,Collision,10062.81,2500.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-100728,POL-1003338,CUST-503338,Auto,2022-09-17,Uninsured Motorist,6803.28,500.0,6303.28,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100727,POL-1003338,CUST-503338,Auto,2022-11-27,Uninsured Motorist,10679.53,500.0,10179.53,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100726,POL-1003338,CUST-503338,Auto,2023-07-29,Comprehensive,5449.42,500.0,4949.42,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100730,POL-1003220,CUST-503220,Auto,2025-05-20,Liability,8909.65,1000.0,7909.65,Paid,Third-party property damage to a storefront fence.
+CLM-100729,POL-1003220,CUST-503220,Auto,2025-08-19,Liability,3470.05,1000.0,2470.05,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100734,POL-1003811,CUST-503811,Auto,2022-06-10,Uninsured Motorist,9210.74,500.0,8710.74,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100735,POL-1001867,CUST-501867,Auto,2021-12-14,Collision,16298.2,2500.0,13798.2,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100737,POL-1003866,CUST-503866,Auto,2025-12-21,Liability,5963.02,2500.0,3463.02,Paid,Third-party property damage to a storefront fence.
+CLM-100740,POL-1003846,CUST-503846,Auto,2024-07-05,Uninsured Motorist,4649.11,2500.0,2149.11,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100742,POL-1003846,CUST-503846,Auto,2025-02-21,Collision,9290.92,2500.0,6790.92,Paid,Collided with a stationary utility pole while parking.
+CLM-100741,POL-1003846,CUST-503846,Auto,2025-06-18,Liability,14581.03,2500.0,12081.03,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100747,POL-1004024,CUST-504024,Auto,2023-07-06,Collision,587.38,500.0,87.38,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100748,POL-1004024,CUST-504024,Auto,2023-08-11,Liability,13252.02,500.0,12752.02,Paid,Third-party property damage to a storefront fence.
+CLM-100749,POL-1003250,CUST-503250,Auto,2024-08-04,Collision,24015.13,5000.0,19015.13,Paid,Rear-end collision at a traffic intersection.
+CLM-100751,POL-1001095,CUST-501095,Auto,2025-09-30,Liability,24621.92,500.0,24121.92,Paid,Third-party property damage to a storefront fence.
+CLM-100756,POL-1001425,CUST-501425,Auto,2025-12-20,Uninsured Motorist,1866.62,250.0,1616.62,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100758,POL-1004519,CUST-504519,Auto,2024-09-16,Uninsured Motorist,14303.43,250.0,14053.43,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100761,POL-1000807,CUST-500807,Auto,2025-05-12,Comprehensive,500.0,2500.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100762,POL-1000807,CUST-500807,Auto,2025-09-17,Uninsured Motorist,4897.04,2500.0,2397.04,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100764,POL-1004743,CUST-504743,Auto,2025-04-11,Uninsured Motorist,1841.56,1000.0,841.56,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100763,POL-1004743,CUST-504743,Auto,2026-02-07,Comprehensive,1751.89,1000.0,0.0,Denied,Hail storm caused extensive denting on hood and roof.
+CLM-100770,POL-1001025,CUST-501025,Auto,2025-06-17,Collision,14661.59,1000.0,13661.59,Paid,Rear-end collision at a traffic intersection.
+CLM-100771,POL-1003109,CUST-503109,Auto,2024-10-13,Liability,2162.4,5000.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-100773,POL-1001041,CUST-501041,Auto,2025-08-20,Collision,500.0,1000.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100775,POL-1000881,CUST-500881,Auto,2024-09-15,Uninsured Motorist,1212.09,500.0,712.09,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100776,POL-1004299,CUST-504299,Auto,2026-03-30,Uninsured Motorist,1621.08,500.0,1121.08,Under Review,Hit-and-run incident in a shopping mall parking structure.
+CLM-100779,POL-1004510,CUST-504510,Auto,2024-03-08,Uninsured Motorist,2024.83,1000.0,1024.83,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100782,POL-1000624,CUST-500624,Auto,2025-07-27,Uninsured Motorist,828.19,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100787,POL-1004968,CUST-504968,Auto,2021-11-26,Comprehensive,12537.27,250.0,12287.27,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100789,POL-1004566,CUST-504566,Auto,2024-11-15,Collision,18273.75,1000.0,0.0,Denied,Collided with a stationary utility pole while parking.
+CLM-100791,POL-1001662,CUST-501662,Auto,2026-03-29,Comprehensive,500.0,5000.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100790,POL-1001662,CUST-501662,Auto,2026-05-06,Collision,16233.2,5000.0,11233.2,Under Review,Multi-vehicle accident on wet roadway.
+CLM-100792,POL-1001662,CUST-501662,Auto,2026-05-08,Collision,19498.54,5000.0,14498.54,Under Review,Collided with a stationary utility pole while parking.
+CLM-100797,POL-1000746,CUST-500746,Auto,2025-12-03,Liability,10604.61,2500.0,8104.61,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100799,POL-1001200,CUST-501200,Auto,2025-06-26,Uninsured Motorist,776.75,500.0,276.75,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100802,POL-1003253,CUST-503253,Auto,2025-11-02,Liability,500.0,500.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100801,POL-1003253,CUST-503253,Auto,2026-01-28,Uninsured Motorist,1185.53,500.0,685.53,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100803,POL-1000596,CUST-500596,Auto,2025-02-07,Uninsured Motorist,10400.26,250.0,10150.26,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100808,POL-1004719,CUST-504719,Auto,2022-09-19,Liability,6982.74,500.0,6482.74,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100807,POL-1004719,CUST-504719,Auto,2023-08-07,Comprehensive,5545.72,500.0,5045.72,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100806,POL-1004719,CUST-504719,Auto,2023-08-12,Uninsured Motorist,3580.38,500.0,3080.38,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100811,POL-1001412,CUST-501412,Auto,2026-04-18,Comprehensive,17732.85,500.0,17232.85,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100810,POL-1001412,CUST-501412,Auto,2026-05-08,Liability,3382.15,500.0,2882.15,Under Review,Backed into neighbor's parked car causing bumper damage.
+CLM-100816,POL-1000598,CUST-500598,Auto,2026-03-23,Collision,7782.48,500.0,7282.48,Paid,Collided with a stationary utility pole while parking.
+CLM-100826,POL-1000810,CUST-500810,Auto,2026-05-01,Liability,574.61,500.0,74.61,Under Review,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100825,POL-1000810,CUST-500810,Auto,2026-05-08,Liability,3467.46,500.0,2967.46,Under Review,Backed into neighbor's parked car causing bumper damage.
+CLM-100824,POL-1000810,CUST-500810,Auto,2026-05-09,Uninsured Motorist,3861.83,500.0,3361.83,Under Review,Rear-ended by an uninsured driver who fled the scene.
+CLM-100828,POL-1004324,CUST-504324,Auto,2026-04-18,Comprehensive,500.0,2500.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100829,POL-1004760,CUST-504760,Auto,2022-10-02,Uninsured Motorist,19418.64,2500.0,16918.64,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100834,POL-1002749,CUST-502749,Auto,2022-05-18,Liability,7714.34,5000.0,2714.34,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100836,POL-1004192,CUST-504192,Auto,2024-04-29,Collision,5337.16,2500.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-100840,POL-1000803,CUST-500803,Auto,2025-08-28,Comprehensive,15345.56,5000.0,0.0,Denied,Windshield cracked by a rock flying from a dump truck.
+CLM-100844,POL-1000751,CUST-500751,Auto,2023-05-28,Uninsured Motorist,2927.37,5000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-100848,POL-1002531,CUST-502531,Auto,2022-01-24,Collision,500.0,1000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-100849,POL-1000621,CUST-500621,Auto,2024-02-24,Comprehensive,6096.69,1000.0,0.0,Denied,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100854,POL-1000566,CUST-500566,Auto,2025-10-17,Liability,43000.0,1000.0,42000.0,Paid,Third-party property damage to a storefront fence.
+CLM-100855,POL-1001135,CUST-501135,Auto,2026-02-24,Collision,31401.36,2500.0,28901.36,Paid,Rear-end collision at a traffic intersection.
+CLM-100857,POL-1001047,CUST-501047,Auto,2023-03-28,Uninsured Motorist,18342.98,5000.0,13342.98,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100859,POL-1003651,CUST-503651,Auto,2022-04-10,Collision,5875.62,500.0,5375.62,Paid,Multi-vehicle accident on wet roadway.
+CLM-100860,POL-1001044,CUST-501044,Auto,2024-09-01,Liability,8926.43,5000.0,3926.43,Paid,Third-party property damage to a storefront fence.
+CLM-100865,POL-1003857,CUST-503857,Auto,2026-03-13,Collision,4082.05,5000.0,0.0,Denied,Collided with a stationary utility pole while parking.
+CLM-100867,POL-1003604,CUST-503604,Auto,2026-04-03,Comprehensive,9668.23,5000.0,4668.23,Under Review,Hail storm caused extensive denting on hood and roof.
+CLM-100873,POL-1001945,CUST-501945,Auto,2025-08-21,Comprehensive,15725.52,5000.0,10725.52,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-100874,POL-1003247,CUST-503247,Auto,2024-08-28,Uninsured Motorist,700.09,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100877,POL-1001432,CUST-501432,Auto,2025-12-04,Uninsured Motorist,21795.9,250.0,21545.9,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100879,POL-1003095,CUST-503095,Auto,2024-04-20,Collision,13499.86,1000.0,12499.86,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100887,POL-1004403,CUST-504403,Auto,2025-12-01,Uninsured Motorist,12965.98,500.0,12465.98,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100888,POL-1004403,CUST-504403,Auto,2026-03-06,Uninsured Motorist,4328.68,500.0,3828.68,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100889,POL-1000120,CUST-500120,Auto,2023-07-21,Collision,4801.41,5000.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100890,POL-1002052,CUST-502052,Auto,2026-03-02,Collision,15348.16,2500.0,12848.16,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100901,POL-1002463,CUST-502463,Auto,2023-01-09,Comprehensive,9358.71,500.0,8858.71,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100902,POL-1000184,CUST-500184,Auto,2025-05-22,Comprehensive,684.56,1000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100905,POL-1000511,CUST-500511,Auto,2023-10-07,Uninsured Motorist,10504.66,5000.0,5504.66,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100910,POL-1002669,CUST-502669,Auto,2022-03-17,Uninsured Motorist,13759.35,1000.0,12759.35,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100912,POL-1004861,CUST-504861,Auto,2025-11-23,Uninsured Motorist,5858.55,1000.0,4858.55,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100913,POL-1002117,CUST-502117,Auto,2022-11-02,Liability,1056.29,250.0,806.29,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100914,POL-1000251,CUST-500251,Auto,2022-04-08,Comprehensive,3103.36,500.0,2603.36,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100916,POL-1003559,CUST-503559,Auto,2025-03-15,Uninsured Motorist,4834.83,5000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100917,POL-1004011,CUST-504011,Auto,2025-09-05,Collision,6007.36,5000.0,1007.36,Paid,Multi-vehicle accident on wet roadway.
+CLM-100921,POL-1004259,CUST-504259,Auto,2025-06-13,Uninsured Motorist,1792.28,250.0,1542.28,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100922,POL-1003333,CUST-503333,Auto,2022-08-30,Uninsured Motorist,3008.93,250.0,2758.93,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100925,POL-1000567,CUST-500567,Auto,2024-10-20,Collision,31747.74,1000.0,30747.74,Paid,Rear-end collision at a traffic intersection.
+CLM-100927,POL-1003185,CUST-503185,Auto,2024-10-05,Collision,4135.1,5000.0,0.0,Denied,Multi-vehicle accident on wet roadway.
+CLM-100929,POL-1001056,CUST-501056,Auto,2023-11-10,Collision,5631.3,250.0,5381.3,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100933,POL-1004769,CUST-504769,Auto,2026-02-11,Liability,4783.63,1000.0,3783.63,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100934,POL-1000776,CUST-500776,Auto,2023-04-05,Comprehensive,8388.14,250.0,8138.14,Paid,Collided with a deer crossing the road at night.
+CLM-100936,POL-1002710,CUST-502710,Auto,2026-03-18,Uninsured Motorist,17341.6,1000.0,16341.6,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100937,POL-1002654,CUST-502654,Auto,2023-02-20,Comprehensive,6783.06,500.0,6283.06,Paid,Collided with a deer crossing the road at night.
+CLM-100938,POL-1002654,CUST-502654,Auto,2023-09-09,Liability,10271.55,500.0,9771.55,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-100941,POL-1003822,CUST-503822,Auto,2024-07-28,Uninsured Motorist,2374.64,250.0,2124.64,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100942,POL-1001244,CUST-501244,Auto,2025-05-15,Liability,1775.27,1000.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-100944,POL-1004841,CUST-504841,Auto,2023-06-28,Comprehensive,20268.89,2500.0,17768.89,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100947,POL-1000318,CUST-500318,Auto,2023-09-15,Uninsured Motorist,2437.75,500.0,1937.75,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100946,POL-1000318,CUST-500318,Auto,2023-11-05,Uninsured Motorist,17955.07,500.0,17455.07,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100945,POL-1000318,CUST-500318,Auto,2024-02-08,Comprehensive,7551.89,500.0,7051.89,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100949,POL-1000828,CUST-500828,Auto,2023-03-25,Comprehensive,12445.1,1000.0,11445.1,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100948,POL-1000828,CUST-500828,Auto,2024-02-10,Uninsured Motorist,5288.4,1000.0,4288.4,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100951,POL-1003263,CUST-503263,Auto,2021-05-22,Comprehensive,21465.99,500.0,20965.99,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-100950,POL-1003263,CUST-503263,Auto,2022-03-19,Uninsured Motorist,9434.61,500.0,8934.61,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100958,POL-1002934,CUST-502934,Auto,2026-03-06,Collision,3873.11,5000.0,0.0,Denied,Sideswiped by another vehicle merging onto the highway.
+CLM-100959,POL-1000605,CUST-500605,Auto,2023-08-28,Uninsured Motorist,3497.56,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100963,POL-1002347,CUST-502347,Auto,2025-10-14,Collision,767.03,5000.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-100966,POL-1004998,CUST-504998,Auto,2025-04-26,Uninsured Motorist,19969.43,250.0,19719.43,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100970,POL-1003922,CUST-503922,Auto,2024-06-21,Uninsured Motorist,15934.78,2500.0,13434.78,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-100973,POL-1002119,CUST-502119,Auto,2025-08-26,Uninsured Motorist,26080.24,500.0,25580.24,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100974,POL-1002119,CUST-502119,Auto,2025-12-30,Uninsured Motorist,7781.55,500.0,7281.55,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-100978,POL-1003254,CUST-503254,Auto,2023-09-07,Liability,865.1,250.0,615.1,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100983,POL-1001558,CUST-501558,Auto,2025-08-15,Collision,500.0,1000.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-100984,POL-1003269,CUST-503269,Auto,2026-02-12,Comprehensive,7979.75,1000.0,6979.75,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-100985,POL-1004046,CUST-504046,Auto,2023-04-27,Comprehensive,5608.03,2500.0,3108.03,Paid,Collided with a deer crossing the road at night.
+CLM-100987,POL-1001010,CUST-501010,Auto,2023-03-07,Liability,5290.86,5000.0,290.86,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-100988,POL-1001010,CUST-501010,Auto,2023-09-03,Collision,3043.7,5000.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-100989,POL-1002794,CUST-502794,Auto,2023-05-31,Liability,6603.34,500.0,6103.34,Paid,Third-party property damage to a storefront fence.
+CLM-100992,POL-1002229,CUST-502229,Auto,2022-01-01,Collision,8837.14,250.0,8587.14,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-100997,POL-1000376,CUST-500376,Auto,2024-01-15,Comprehensive,1074.71,2500.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101000,POL-1003616,CUST-503616,Auto,2026-04-15,Uninsured Motorist,13109.45,500.0,12609.45,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101002,POL-1000798,CUST-500798,Auto,2021-12-18,Uninsured Motorist,2498.53,1000.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101001,POL-1000798,CUST-500798,Auto,2022-03-11,Liability,4277.28,1000.0,3277.28,Paid,Third-party property damage to a storefront fence.
+CLM-101005,POL-1001158,CUST-501158,Auto,2026-03-11,Uninsured Motorist,24812.82,250.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101004,POL-1001158,CUST-501158,Auto,2026-03-20,Liability,4736.05,250.0,4486.05,Paid,Third-party property damage to a storefront fence.
+CLM-101006,POL-1003819,CUST-503819,Auto,2025-06-13,Collision,1876.25,1000.0,876.25,Paid,Rear-end collision at a traffic intersection.
+CLM-101007,POL-1002792,CUST-502792,Auto,2023-04-13,Liability,6240.05,1000.0,5240.05,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101008,POL-1002792,CUST-502792,Auto,2023-05-22,Uninsured Motorist,2375.55,1000.0,1375.55,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101013,POL-1004012,CUST-504012,Auto,2026-03-19,Uninsured Motorist,6967.75,1000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-101014,POL-1002957,CUST-502957,Auto,2023-03-09,Comprehensive,898.6,500.0,398.6,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101020,POL-1001344,CUST-501344,Auto,2022-09-21,Collision,4680.82,1000.0,3680.82,Paid,Multi-vehicle accident on wet roadway.
+CLM-101021,POL-1002505,CUST-502505,Auto,2025-07-07,Liability,4690.8,2500.0,0.0,Denied,Third-party property damage to a storefront fence.
+CLM-101022,POL-1002505,CUST-502505,Auto,2025-09-21,Comprehensive,4643.9,2500.0,2143.9,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101024,POL-1001721,CUST-501721,Auto,2025-09-07,Comprehensive,8638.38,2500.0,6138.38,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101023,POL-1001721,CUST-501721,Auto,2026-02-21,Collision,6998.65,2500.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-101026,POL-1000175,CUST-500175,Auto,2021-10-10,Uninsured Motorist,1868.36,250.0,1618.36,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101027,POL-1004893,CUST-504893,Auto,2025-06-06,Liability,1073.88,5000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101029,POL-1001909,CUST-501909,Auto,2023-04-13,Comprehensive,12769.68,500.0,12269.68,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101028,POL-1001909,CUST-501909,Auto,2024-04-07,Comprehensive,11930.7,500.0,11430.7,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101032,POL-1003409,CUST-503409,Auto,2022-11-11,Uninsured Motorist,3918.33,250.0,3668.33,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101033,POL-1004674,CUST-504674,Auto,2025-06-04,Comprehensive,1596.14,250.0,1346.14,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101034,POL-1001075,CUST-501075,Auto,2023-05-02,Collision,5399.48,250.0,5149.48,Paid,Collided with a stationary utility pole while parking.
+CLM-101035,POL-1002829,CUST-502829,Auto,2025-08-17,Liability,8769.51,250.0,8519.51,Paid,Third-party property damage to a storefront fence.
+CLM-101039,POL-1002309,CUST-502309,Auto,2025-03-12,Uninsured Motorist,60309.35,2500.0,57809.35,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101040,POL-1001436,CUST-501436,Auto,2024-04-17,Liability,2719.27,250.0,2469.27,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101043,POL-1003098,CUST-503098,Auto,2025-12-17,Liability,2095.02,250.0,1845.02,Paid,Third-party property damage to a storefront fence.
+CLM-101051,POL-1001513,CUST-501513,Auto,2022-08-17,Liability,11078.02,250.0,10828.02,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101052,POL-1001168,CUST-501168,Auto,2026-02-19,Uninsured Motorist,3567.66,500.0,3067.66,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101055,POL-1001592,CUST-501592,Auto,2023-03-17,Liability,1429.91,2500.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101054,POL-1001592,CUST-501592,Auto,2023-05-16,Collision,5424.52,2500.0,2924.52,Paid,Rear-end collision at a traffic intersection.
+CLM-101053,POL-1001592,CUST-501592,Auto,2024-09-12,Comprehensive,953.75,2500.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101061,POL-1003575,CUST-503575,Auto,2022-01-09,Liability,8592.91,500.0,8092.91,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101059,POL-1003575,CUST-503575,Auto,2022-12-23,Uninsured Motorist,7485.53,500.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-101060,POL-1003575,CUST-503575,Auto,2023-08-02,Comprehensive,14716.21,500.0,14216.21,Paid,Collided with a deer crossing the road at night.
+CLM-101063,POL-1002305,CUST-502305,Auto,2024-06-22,Liability,1851.86,500.0,1351.86,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101064,POL-1002305,CUST-502305,Auto,2024-07-18,Collision,500.0,500.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101066,POL-1000952,CUST-500952,Auto,2023-05-06,Collision,1879.88,500.0,1379.88,Paid,Multi-vehicle accident on wet roadway.
+CLM-101065,POL-1000952,CUST-500952,Auto,2023-11-19,Comprehensive,7966.05,500.0,7466.05,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101071,POL-1002685,CUST-502685,Auto,2026-03-21,Liability,3563.61,500.0,3063.61,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101072,POL-1001489,CUST-501489,Auto,2023-11-18,Comprehensive,981.92,1000.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-101074,POL-1001209,CUST-501209,Auto,2025-01-30,Uninsured Motorist,506.45,5000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101075,POL-1003973,CUST-503973,Auto,2022-05-06,Collision,28201.76,250.0,27951.76,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101079,POL-1000351,CUST-500351,Auto,2024-02-05,Comprehensive,2791.96,2500.0,291.96,Paid,Collided with a deer crossing the road at night.
+CLM-101083,POL-1004981,CUST-504981,Auto,2023-08-08,Uninsured Motorist,1685.1,5000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101084,POL-1000718,CUST-500718,Auto,2025-08-19,Comprehensive,8536.94,2500.0,6036.94,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101089,POL-1000308,CUST-500308,Auto,2021-09-05,Collision,19498.02,5000.0,14498.02,Paid,Collided with a stationary utility pole while parking.
+CLM-101090,POL-1001675,CUST-501675,Auto,2025-01-07,Collision,4604.99,1000.0,3604.99,Paid,Multi-vehicle accident on wet roadway.
+CLM-101093,POL-1004506,CUST-504506,Auto,2023-10-24,Uninsured Motorist,5275.82,500.0,4775.82,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101097,POL-1004846,CUST-504846,Auto,2023-11-08,Uninsured Motorist,5150.61,5000.0,150.61,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101100,POL-1001746,CUST-501746,Auto,2024-12-03,Liability,500.0,2500.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-101101,POL-1000019,CUST-500019,Auto,2022-10-26,Liability,8696.29,2500.0,6196.29,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101105,POL-1002521,CUST-502521,Auto,2025-03-22,Liability,2693.2,2500.0,193.2,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101104,POL-1002521,CUST-502521,Auto,2025-08-11,Uninsured Motorist,11659.6,2500.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-101106,POL-1000218,CUST-500218,Auto,2025-11-20,Comprehensive,10878.61,5000.0,5878.61,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101107,POL-1001487,CUST-501487,Auto,2022-11-19,Uninsured Motorist,6376.09,5000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-101108,POL-1001487,CUST-501487,Auto,2023-06-20,Collision,23631.11,5000.0,18631.11,Paid,Collided with a stationary utility pole while parking.
+CLM-101109,POL-1000438,CUST-500438,Auto,2025-01-06,Uninsured Motorist,7526.49,5000.0,2526.49,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101110,POL-1004174,CUST-504174,Auto,2025-08-22,Collision,9057.72,1000.0,8057.72,Paid,Multi-vehicle accident on wet roadway.
+CLM-101113,POL-1003433,CUST-503433,Auto,2024-12-14,Liability,1681.38,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101116,POL-1003688,CUST-503688,Auto,2024-09-28,Collision,7046.64,5000.0,2046.64,Paid,Collided with a stationary utility pole while parking.
+CLM-101117,POL-1002763,CUST-502763,Auto,2025-10-19,Comprehensive,542.63,500.0,42.63,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101122,POL-1004785,CUST-504785,Auto,2023-03-07,Liability,4014.28,250.0,3764.28,Paid,Third-party property damage to a storefront fence.
+CLM-101123,POL-1004785,CUST-504785,Auto,2023-12-08,Collision,2618.53,250.0,2368.53,Paid,Collided with a stationary utility pole while parking.
+CLM-101124,POL-1002077,CUST-502077,Auto,2022-10-29,Comprehensive,500.0,5000.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101125,POL-1002077,CUST-502077,Auto,2023-02-05,Comprehensive,6776.6,5000.0,1776.6,Paid,Collided with a deer crossing the road at night.
+CLM-101127,POL-1000203,CUST-500203,Auto,2024-02-08,Comprehensive,2419.97,250.0,2169.97,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101135,POL-1001583,CUST-501583,Auto,2025-11-27,Collision,3856.41,5000.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-101137,POL-1001718,CUST-501718,Auto,2026-01-21,Liability,15244.51,1000.0,14244.51,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101140,POL-1003350,CUST-503350,Auto,2023-04-13,Uninsured Motorist,1118.25,2500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101144,POL-1004652,CUST-504652,Auto,2024-07-13,Uninsured Motorist,6846.65,5000.0,1846.65,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101143,POL-1004652,CUST-504652,Auto,2026-04-18,Comprehensive,10954.99,5000.0,5954.99,Under Review,Collided with a deer crossing the road at night.
+CLM-101145,POL-1003732,CUST-503732,Auto,2023-09-28,Comprehensive,6382.46,500.0,5882.46,Paid,Collided with a deer crossing the road at night.
+CLM-101148,POL-1003026,CUST-503026,Auto,2022-09-27,Uninsured Motorist,1566.95,2500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101149,POL-1004932,CUST-504932,Auto,2025-03-04,Comprehensive,1233.1,500.0,733.1,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101154,POL-1003192,CUST-503192,Auto,2022-04-10,Liability,1531.32,1000.0,0.0,Denied,Third-party property damage to a storefront fence.
+CLM-101157,POL-1003392,CUST-503392,Auto,2022-02-28,Comprehensive,533.4,500.0,0.0,Denied,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101159,POL-1000759,CUST-500759,Auto,2025-09-04,Collision,7547.89,2500.0,5047.89,Paid,Collided with a stationary utility pole while parking.
+CLM-101162,POL-1002526,CUST-502526,Auto,2026-01-22,Liability,500.0,500.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-101165,POL-1002683,CUST-502683,Auto,2025-05-11,Uninsured Motorist,2566.18,2500.0,66.18,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101167,POL-1000214,CUST-500214,Auto,2025-04-26,Collision,6646.11,250.0,6396.11,Paid,Collided with a stationary utility pole while parking.
+CLM-101166,POL-1000214,CUST-500214,Auto,2025-06-08,Uninsured Motorist,22670.91,250.0,22420.91,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101168,POL-1003331,CUST-503331,Auto,2025-09-12,Comprehensive,1067.85,2500.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101173,POL-1001503,CUST-501503,Auto,2023-10-08,Collision,12424.44,250.0,12174.44,Paid,Collided with a stationary utility pole while parking.
+CLM-101178,POL-1002118,CUST-502118,Auto,2022-01-24,Liability,6133.84,250.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-101177,POL-1002118,CUST-502118,Auto,2022-06-19,Collision,5685.34,250.0,5435.34,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101180,POL-1002462,CUST-502462,Auto,2025-09-01,Liability,11765.37,5000.0,6765.37,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101181,POL-1002462,CUST-502462,Auto,2026-04-15,Liability,2133.66,5000.0,0.0,Under Review,Backed into neighbor's parked car causing bumper damage.
+CLM-101185,POL-1000196,CUST-500196,Auto,2023-10-27,Uninsured Motorist,897.22,250.0,647.22,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101188,POL-1001330,CUST-501330,Auto,2023-07-04,Collision,5779.82,500.0,5279.82,Paid,Collided with a stationary utility pole while parking.
+CLM-101191,POL-1004502,CUST-504502,Auto,2023-12-02,Collision,3903.38,2500.0,1403.38,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101192,POL-1003501,CUST-503501,Auto,2025-12-14,Comprehensive,907.56,250.0,657.56,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101194,POL-1004990,CUST-504990,Auto,2024-11-20,Collision,3700.01,5000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101196,POL-1000887,CUST-500887,Auto,2026-02-16,Uninsured Motorist,1791.47,5000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101195,POL-1000887,CUST-500887,Auto,2026-03-16,Uninsured Motorist,13480.42,5000.0,8480.42,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101198,POL-1000068,CUST-500068,Auto,2023-12-01,Collision,4462.05,500.0,3962.05,Paid,Multi-vehicle accident on wet roadway.
+CLM-101200,POL-1001815,CUST-501815,Auto,2025-03-05,Collision,5205.05,2500.0,2705.05,Paid,Rear-end collision at a traffic intersection.
+CLM-101201,POL-1000568,CUST-500568,Auto,2024-06-01,Collision,9743.91,5000.0,4743.91,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101202,POL-1002167,CUST-502167,Auto,2021-12-22,Collision,624.76,1000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101205,POL-1004181,CUST-504181,Auto,2022-11-24,Uninsured Motorist,14760.45,250.0,14510.45,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101206,POL-1003353,CUST-503353,Auto,2024-07-01,Comprehensive,5717.96,250.0,5467.96,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101210,POL-1004954,CUST-504954,Auto,2024-03-10,Liability,9129.66,250.0,8879.66,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101209,POL-1004954,CUST-504954,Auto,2024-04-11,Liability,6029.81,250.0,5779.81,Paid,Third-party property damage to a storefront fence.
+CLM-101211,POL-1002602,CUST-502602,Auto,2026-03-28,Collision,11512.43,5000.0,6512.43,Paid,Multi-vehicle accident on wet roadway.
+CLM-101212,POL-1004023,CUST-504023,Auto,2024-11-23,Uninsured Motorist,2562.56,500.0,2062.56,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101216,POL-1001539,CUST-501539,Auto,2022-12-20,Collision,832.88,250.0,582.88,Paid,Rear-end collision at a traffic intersection.
+CLM-101219,POL-1002059,CUST-502059,Auto,2024-09-16,Uninsured Motorist,6377.91,500.0,5877.91,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101220,POL-1002059,CUST-502059,Auto,2025-03-20,Liability,3853.21,500.0,3353.21,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101221,POL-1000463,CUST-500463,Auto,2026-04-23,Uninsured Motorist,15836.78,2500.0,13336.78,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101222,POL-1002330,CUST-502330,Auto,2026-02-16,Uninsured Motorist,1384.59,250.0,1134.59,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101223,POL-1003043,CUST-503043,Auto,2026-01-17,Uninsured Motorist,500.0,250.0,250.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101224,POL-1004734,CUST-504734,Auto,2023-08-13,Uninsured Motorist,11323.78,250.0,11073.78,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101227,POL-1000625,CUST-500625,Auto,2022-10-23,Collision,9927.7,2500.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-101232,POL-1002456,CUST-502456,Auto,2022-09-23,Uninsured Motorist,3074.06,1000.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101233,POL-1004722,CUST-504722,Auto,2023-03-26,Uninsured Motorist,16363.19,500.0,15863.19,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101234,POL-1004722,CUST-504722,Auto,2025-08-09,Comprehensive,9403.13,500.0,0.0,Denied,Windshield cracked by a rock flying from a dump truck.
+CLM-101236,POL-1002984,CUST-502984,Auto,2021-10-30,Comprehensive,629.15,500.0,129.15,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101235,POL-1002984,CUST-502984,Auto,2022-02-28,Comprehensive,4279.95,500.0,3779.95,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101240,POL-1001557,CUST-501557,Auto,2025-07-18,Collision,3479.45,2500.0,979.45,Paid,Rear-end collision at a traffic intersection.
+CLM-101247,POL-1002686,CUST-502686,Auto,2025-07-20,Collision,8662.31,2500.0,6162.31,Paid,Rear-end collision at a traffic intersection.
+CLM-101251,POL-1001305,CUST-501305,Auto,2025-09-11,Uninsured Motorist,500.0,500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101258,POL-1003646,CUST-503646,Auto,2023-05-21,Liability,13235.19,500.0,12735.19,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101259,POL-1000831,CUST-500831,Auto,2024-07-14,Liability,4844.23,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101260,POL-1000239,CUST-500239,Auto,2023-02-18,Comprehensive,45976.14,1000.0,44976.14,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101261,POL-1000239,CUST-500239,Auto,2024-04-07,Uninsured Motorist,15900.1,1000.0,14900.1,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101262,POL-1004681,CUST-504681,Auto,2025-04-16,Uninsured Motorist,5638.08,5000.0,638.08,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101266,POL-1003148,CUST-503148,Auto,2024-03-15,Liability,4747.43,1000.0,3747.43,Paid,Third-party property damage to a storefront fence.
+CLM-101265,POL-1003148,CUST-503148,Auto,2026-04-27,Collision,12689.2,1000.0,11689.2,Under Review,Collided with a stationary utility pole while parking.
+CLM-101269,POL-1000192,CUST-500192,Auto,2024-12-13,Comprehensive,4139.8,1000.0,3139.8,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101270,POL-1004849,CUST-504849,Auto,2025-02-07,Comprehensive,2669.76,500.0,2169.76,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101273,POL-1001268,CUST-501268,Auto,2024-07-31,Uninsured Motorist,500.0,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101279,POL-1004711,CUST-504711,Auto,2025-06-23,Collision,5941.3,250.0,5691.3,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101280,POL-1002313,CUST-502313,Auto,2025-03-23,Uninsured Motorist,41762.24,5000.0,36762.24,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101283,POL-1002732,CUST-502732,Auto,2025-02-02,Liability,8495.85,2500.0,5995.85,Paid,Third-party property damage to a storefront fence.
+CLM-101284,POL-1002732,CUST-502732,Auto,2025-05-17,Collision,27471.41,2500.0,24971.41,Paid,Rear-end collision at a traffic intersection.
+CLM-101287,POL-1001926,CUST-501926,Auto,2023-01-08,Liability,8727.55,500.0,8227.55,Paid,Third-party property damage to a storefront fence.
+CLM-101285,POL-1001926,CUST-501926,Auto,2023-08-23,Comprehensive,44505.96,500.0,44005.96,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101286,POL-1001926,CUST-501926,Auto,2023-12-31,Collision,3000.35,500.0,2500.35,Paid,Collided with a stationary utility pole while parking.
+CLM-101293,POL-1003671,CUST-503671,Auto,2023-12-14,Liability,5416.11,1000.0,4416.11,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101294,POL-1003671,CUST-503671,Auto,2024-05-21,Collision,7015.15,1000.0,6015.15,Paid,Multi-vehicle accident on wet roadway.
+CLM-101299,POL-1004793,CUST-504793,Auto,2021-09-10,Uninsured Motorist,1759.68,250.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101300,POL-1004793,CUST-504793,Auto,2022-07-26,Comprehensive,10662.15,250.0,10412.15,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101301,POL-1004368,CUST-504368,Auto,2026-03-24,Liability,5104.17,2500.0,2604.17,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101305,POL-1003867,CUST-503867,Auto,2026-04-21,Uninsured Motorist,2633.9,1000.0,1633.9,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101308,POL-1003802,CUST-503802,Auto,2024-03-22,Uninsured Motorist,15992.71,500.0,15492.71,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101311,POL-1000099,CUST-500099,Auto,2024-07-28,Liability,13623.43,1000.0,12623.43,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101312,POL-1000099,CUST-500099,Auto,2026-01-14,Liability,13191.22,1000.0,12191.22,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101314,POL-1003407,CUST-503407,Auto,2025-02-14,Uninsured Motorist,4056.97,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101315,POL-1004245,CUST-504245,Auto,2025-11-01,Collision,1157.87,250.0,907.87,Paid,Rear-end collision at a traffic intersection.
+CLM-101316,POL-1004245,CUST-504245,Auto,2025-11-02,Comprehensive,5316.44,250.0,5066.44,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101317,POL-1004245,CUST-504245,Auto,2026-02-17,Uninsured Motorist,5099.68,250.0,4849.68,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101319,POL-1004916,CUST-504916,Auto,2024-10-25,Comprehensive,11331.56,1000.0,10331.56,Paid,Collided with a deer crossing the road at night.
+CLM-101321,POL-1000191,CUST-500191,Auto,2025-03-08,Comprehensive,2034.59,5000.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101320,POL-1000191,CUST-500191,Auto,2025-09-15,Uninsured Motorist,17415.76,5000.0,12415.76,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101322,POL-1004696,CUST-504696,Auto,2026-04-28,Liability,10603.4,5000.0,5603.4,Under Review,Third-party property damage to a storefront fence.
+CLM-101324,POL-1001784,CUST-501784,Auto,2025-02-26,Collision,2777.74,250.0,2527.74,Paid,Multi-vehicle accident on wet roadway.
+CLM-101323,POL-1001784,CUST-501784,Auto,2025-04-28,Liability,690.9,250.0,0.0,Denied,Third-party property damage to a storefront fence.
+CLM-101328,POL-1004444,CUST-504444,Auto,2023-08-20,Uninsured Motorist,15407.34,1000.0,14407.34,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101329,POL-1004915,CUST-504915,Auto,2022-01-04,Uninsured Motorist,909.06,1000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101330,POL-1001598,CUST-501598,Auto,2026-03-16,Collision,6363.82,5000.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-101335,POL-1002574,CUST-502574,Auto,2023-12-19,Collision,3362.69,5000.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-101337,POL-1003975,CUST-503975,Auto,2023-05-27,Collision,3669.04,500.0,3169.04,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101338,POL-1003975,CUST-503975,Auto,2024-08-31,Uninsured Motorist,9522.7,500.0,9022.7,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101342,POL-1001751,CUST-501751,Auto,2023-07-02,Comprehensive,5233.07,2500.0,2733.07,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101348,POL-1001788,CUST-501788,Auto,2024-08-27,Collision,13586.17,500.0,13086.17,Paid,Rear-end collision at a traffic intersection.
+CLM-101347,POL-1001788,CUST-501788,Auto,2024-09-04,Liability,12321.88,500.0,11821.88,Paid,Third-party property damage to a storefront fence.
+CLM-101346,POL-1001788,CUST-501788,Auto,2024-10-11,Collision,32605.75,500.0,0.0,Denied,Multi-vehicle accident on wet roadway.
+CLM-101350,POL-1002473,CUST-502473,Auto,2025-01-25,Collision,4752.99,250.0,4502.99,Paid,Rear-end collision at a traffic intersection.
+CLM-101353,POL-1001220,CUST-501220,Auto,2024-10-22,Comprehensive,500.0,500.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101354,POL-1001666,CUST-501666,Auto,2025-10-01,Collision,4519.22,250.0,4269.22,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101357,POL-1002960,CUST-502960,Auto,2022-12-27,Collision,5997.67,250.0,5747.67,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101355,POL-1002960,CUST-502960,Auto,2023-06-07,Collision,8607.8,250.0,8357.8,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101356,POL-1002960,CUST-502960,Auto,2023-09-18,Comprehensive,883.55,250.0,633.55,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101364,POL-1001978,CUST-501978,Auto,2023-01-30,Collision,27104.45,5000.0,22104.45,Paid,Rear-end collision at a traffic intersection.
+CLM-101367,POL-1002512,CUST-502512,Auto,2022-07-17,Collision,5231.7,2500.0,2731.7,Paid,Rear-end collision at a traffic intersection.
+CLM-101371,POL-1004822,CUST-504822,Auto,2024-08-14,Liability,3093.93,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101370,POL-1004822,CUST-504822,Auto,2024-08-25,Collision,7468.04,5000.0,2468.04,Paid,Collided with a stationary utility pole while parking.
+CLM-101372,POL-1004822,CUST-504822,Auto,2025-05-21,Uninsured Motorist,2117.64,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101374,POL-1001566,CUST-501566,Auto,2022-11-05,Comprehensive,10864.18,500.0,10364.18,Paid,Collided with a deer crossing the road at night.
+CLM-101375,POL-1001566,CUST-501566,Auto,2023-06-18,Uninsured Motorist,2157.03,500.0,1657.03,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101381,POL-1001129,CUST-501129,Auto,2022-07-10,Collision,1097.43,500.0,597.43,Paid,Collided with a stationary utility pole while parking.
+CLM-101388,POL-1003113,CUST-503113,Auto,2024-01-19,Collision,8508.37,1000.0,7508.37,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101390,POL-1000205,CUST-500205,Auto,2022-11-14,Liability,15483.76,500.0,14983.76,Paid,Third-party property damage to a storefront fence.
+CLM-101394,POL-1000305,CUST-500305,Auto,2025-01-12,Collision,2311.99,5000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101395,POL-1003793,CUST-503793,Auto,2026-04-06,Comprehensive,5574.68,5000.0,574.68,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101397,POL-1002201,CUST-502201,Auto,2025-02-14,Uninsured Motorist,2660.16,5000.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101396,POL-1002201,CUST-502201,Auto,2026-03-19,Uninsured Motorist,6935.56,5000.0,1935.56,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101398,POL-1001061,CUST-501061,Auto,2025-09-18,Liability,3429.08,250.0,3179.08,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101399,POL-1000843,CUST-500843,Auto,2023-11-04,Comprehensive,1618.59,5000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101405,POL-1000679,CUST-500679,Auto,2025-09-01,Uninsured Motorist,7037.31,500.0,6537.31,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101410,POL-1000680,CUST-500680,Auto,2024-12-27,Comprehensive,988.02,5000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101409,POL-1000680,CUST-500680,Auto,2026-02-12,Liability,2840.42,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101414,POL-1002316,CUST-502316,Auto,2024-10-16,Liability,9711.96,1000.0,8711.96,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101415,POL-1002316,CUST-502316,Auto,2025-09-04,Liability,1620.9,1000.0,620.9,Paid,Third-party property damage to a storefront fence.
+CLM-101417,POL-1004273,CUST-504273,Auto,2025-07-01,Collision,15775.37,5000.0,10775.37,Paid,Collided with a stationary utility pole while parking.
+CLM-101416,POL-1004273,CUST-504273,Auto,2026-01-30,Liability,14809.53,5000.0,9809.53,Paid,Third-party property damage to a storefront fence.
+CLM-101418,POL-1000278,CUST-500278,Auto,2021-09-07,Comprehensive,19427.15,500.0,18927.15,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101420,POL-1004762,CUST-504762,Auto,2026-03-24,Collision,14780.11,1000.0,13780.11,Paid,Multi-vehicle accident on wet roadway.
+CLM-101421,POL-1004762,CUST-504762,Auto,2026-03-24,Uninsured Motorist,1473.41,1000.0,473.41,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101422,POL-1000432,CUST-500432,Auto,2023-01-14,Collision,17850.4,5000.0,12850.4,Paid,Multi-vehicle accident on wet roadway.
+CLM-101424,POL-1001027,CUST-501027,Auto,2022-12-31,Uninsured Motorist,32948.37,5000.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-101428,POL-1000188,CUST-500188,Auto,2023-09-15,Comprehensive,14386.85,250.0,14136.85,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101427,POL-1000188,CUST-500188,Auto,2024-03-31,Comprehensive,6521.24,250.0,6271.24,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101430,POL-1003915,CUST-503915,Auto,2025-10-20,Uninsured Motorist,500.0,500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101431,POL-1001862,CUST-501862,Auto,2025-12-06,Comprehensive,15385.85,250.0,15135.85,Paid,Collided with a deer crossing the road at night.
+CLM-101432,POL-1000270,CUST-500270,Auto,2026-04-10,Liability,500.0,500.0,0.0,Under Review,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101433,POL-1001728,CUST-501728,Auto,2025-11-22,Comprehensive,10341.79,1000.0,9341.79,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101438,POL-1000111,CUST-500111,Auto,2024-01-03,Liability,7402.36,250.0,7152.36,Paid,Third-party property damage to a storefront fence.
+CLM-101442,POL-1000627,CUST-500627,Auto,2026-03-18,Liability,12576.78,250.0,12326.78,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101443,POL-1001181,CUST-501181,Auto,2026-04-21,Collision,2340.12,5000.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101445,POL-1002422,CUST-502422,Auto,2023-10-07,Collision,26078.0,250.0,25828.0,Paid,Collided with a stationary utility pole while parking.
+CLM-101447,POL-1004275,CUST-504275,Auto,2024-03-20,Liability,12257.17,250.0,12007.17,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101448,POL-1000461,CUST-500461,Auto,2026-03-22,Liability,8578.62,5000.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-101451,POL-1000551,CUST-500551,Auto,2023-07-30,Comprehensive,2542.28,250.0,2292.28,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101453,POL-1003129,CUST-503129,Auto,2024-05-22,Uninsured Motorist,5423.82,250.0,5173.82,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101452,POL-1003129,CUST-503129,Auto,2024-08-27,Liability,1287.3,250.0,1037.3,Paid,Third-party property damage to a storefront fence.
+CLM-101454,POL-1001444,CUST-501444,Auto,2024-06-10,Liability,14023.81,500.0,13523.81,Paid,Third-party property damage to a storefront fence.
+CLM-101455,POL-1000198,CUST-500198,Auto,2023-07-29,Collision,16628.96,2500.0,14128.96,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101458,POL-1003959,CUST-503959,Auto,2023-09-11,Comprehensive,889.82,250.0,639.82,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101459,POL-1004189,CUST-504189,Auto,2024-03-13,Uninsured Motorist,15480.73,2500.0,12980.73,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101460,POL-1004763,CUST-504763,Auto,2023-02-06,Comprehensive,9007.31,250.0,8757.31,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101461,POL-1002095,CUST-502095,Auto,2026-03-10,Collision,6819.54,250.0,6569.54,Paid,Multi-vehicle accident on wet roadway.
+CLM-101463,POL-1004462,CUST-504462,Auto,2025-06-04,Liability,2770.08,250.0,2520.08,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101466,POL-1001480,CUST-501480,Auto,2023-05-17,Comprehensive,9812.98,2500.0,7312.98,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101467,POL-1004414,CUST-504414,Auto,2025-11-05,Liability,2026.54,2500.0,0.0,Denied,Third-party property damage to a storefront fence.
+CLM-101470,POL-1001769,CUST-501769,Auto,2026-04-06,Collision,5374.69,2500.0,2874.69,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101472,POL-1003761,CUST-503761,Auto,2024-04-25,Collision,23058.64,500.0,22558.64,Paid,Collided with a stationary utility pole while parking.
+CLM-101474,POL-1004909,CUST-504909,Auto,2022-08-11,Comprehensive,13304.25,2500.0,10804.25,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101473,POL-1004909,CUST-504909,Auto,2022-09-14,Uninsured Motorist,42000.0,2500.0,39500.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101478,POL-1002910,CUST-502910,Auto,2023-04-06,Liability,11812.19,500.0,11312.19,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101477,POL-1002910,CUST-502910,Auto,2023-12-20,Uninsured Motorist,14692.35,500.0,14192.35,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101479,POL-1003405,CUST-503405,Auto,2025-02-23,Comprehensive,7380.71,250.0,7130.71,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101480,POL-1003405,CUST-503405,Auto,2025-05-16,Uninsured Motorist,17529.01,250.0,17279.01,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101495,POL-1004176,CUST-504176,Auto,2026-04-28,Uninsured Motorist,9252.66,250.0,9002.66,Approved,Hit-and-run incident in a shopping mall parking structure.
+CLM-101499,POL-1004094,CUST-504094,Auto,2021-12-16,Collision,10220.59,1000.0,9220.59,Paid,Rear-end collision at a traffic intersection.
+CLM-101502,POL-1001813,CUST-501813,Auto,2024-05-02,Collision,500.0,250.0,250.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101511,POL-1001626,CUST-501626,Auto,2025-12-29,Uninsured Motorist,10154.94,5000.0,5154.94,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101515,POL-1001864,CUST-501864,Auto,2024-08-19,Comprehensive,9937.99,1000.0,8937.99,Paid,Collided with a deer crossing the road at night.
+CLM-101514,POL-1001864,CUST-501864,Auto,2025-04-12,Comprehensive,18228.0,1000.0,17228.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101518,POL-1000871,CUST-500871,Auto,2023-04-21,Collision,5224.02,5000.0,224.02,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101517,POL-1000871,CUST-500871,Auto,2023-04-22,Collision,3326.75,5000.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-101520,POL-1003833,CUST-503833,Auto,2026-03-15,Comprehensive,6975.61,500.0,6475.61,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101528,POL-1004369,CUST-504369,Auto,2025-01-19,Comprehensive,3343.17,5000.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101530,POL-1003809,CUST-503809,Auto,2025-10-10,Uninsured Motorist,1418.82,1000.0,418.82,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101533,POL-1002445,CUST-502445,Auto,2025-01-21,Liability,500.0,1000.0,0.0,Denied,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101534,POL-1000494,CUST-500494,Auto,2026-03-25,Collision,4721.53,500.0,4221.53,Paid,Collided with a stationary utility pole while parking.
+CLM-101538,POL-1004397,CUST-504397,Auto,2025-03-17,Collision,675.32,250.0,425.32,Paid,Multi-vehicle accident on wet roadway.
+CLM-101540,POL-1001164,CUST-501164,Auto,2026-02-28,Liability,6003.4,250.0,5753.4,Paid,Third-party property damage to a storefront fence.
+CLM-101539,POL-1001164,CUST-501164,Auto,2026-04-24,Comprehensive,16120.71,250.0,15870.71,Approved,Windshield cracked by a rock flying from a dump truck.
+CLM-101542,POL-1003734,CUST-503734,Auto,2023-10-03,Uninsured Motorist,5078.7,500.0,4578.7,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101541,POL-1003734,CUST-503734,Auto,2024-03-29,Uninsured Motorist,8353.71,500.0,7853.71,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101552,POL-1001957,CUST-501957,Auto,2024-05-19,Liability,15493.7,5000.0,10493.7,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101550,POL-1001957,CUST-501957,Auto,2025-03-18,Collision,7402.27,5000.0,0.0,Denied,Collided with a stationary utility pole while parking.
+CLM-101551,POL-1001957,CUST-501957,Auto,2026-05-04,Uninsured Motorist,1819.35,5000.0,0.0,Under Review,Rear-ended by an uninsured driver who fled the scene.
+CLM-101553,POL-1001221,CUST-501221,Auto,2022-11-24,Collision,2510.67,2500.0,10.67,Paid,Collided with a stationary utility pole while parking.
+CLM-101554,POL-1002073,CUST-502073,Auto,2025-12-13,Uninsured Motorist,8882.41,1000.0,7882.41,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101557,POL-1002718,CUST-502718,Auto,2023-10-22,Liability,7637.99,250.0,7387.99,Paid,Third-party property damage to a storefront fence.
+CLM-101560,POL-1000356,CUST-500356,Auto,2026-02-15,Uninsured Motorist,7976.41,1000.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101561,POL-1001162,CUST-501162,Auto,2022-05-15,Collision,10049.63,2500.0,7549.63,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101563,POL-1002765,CUST-502765,Auto,2023-12-21,Liability,4593.82,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101562,POL-1002765,CUST-502765,Auto,2024-01-02,Comprehensive,21226.58,5000.0,16226.58,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101565,POL-1001438,CUST-501438,Auto,2025-05-19,Comprehensive,6010.05,1000.0,5010.05,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101570,POL-1001253,CUST-501253,Auto,2025-07-30,Comprehensive,500.0,1000.0,0.0,Denied,Hail storm caused extensive denting on hood and roof.
+CLM-101571,POL-1001253,CUST-501253,Auto,2025-09-22,Collision,1007.79,1000.0,7.79,Paid,Multi-vehicle accident on wet roadway.
+CLM-101572,POL-1003365,CUST-503365,Auto,2024-08-29,Uninsured Motorist,14490.1,5000.0,9490.1,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101573,POL-1000332,CUST-500332,Auto,2024-12-29,Comprehensive,6770.23,500.0,6270.23,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101574,POL-1003694,CUST-503694,Auto,2025-07-12,Comprehensive,17090.01,500.0,16590.01,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101575,POL-1003568,CUST-503568,Auto,2024-01-23,Comprehensive,500.0,1000.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101576,POL-1002728,CUST-502728,Auto,2026-04-24,Collision,3755.54,500.0,3255.54,Under Review,Collided with a stationary utility pole while parking.
+CLM-101579,POL-1001116,CUST-501116,Auto,2025-02-04,Liability,3189.2,5000.0,0.0,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101584,POL-1003265,CUST-503265,Auto,2024-10-27,Liability,10530.36,500.0,10030.36,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101586,POL-1001665,CUST-501665,Auto,2026-04-04,Collision,13968.06,1000.0,12968.06,Approved,Collided with a stationary utility pole while parking.
+CLM-101585,POL-1001665,CUST-501665,Auto,2026-05-07,Liability,5259.21,1000.0,4259.21,Under Review,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101587,POL-1000445,CUST-500445,Auto,2023-08-14,Uninsured Motorist,9842.1,5000.0,4842.1,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101588,POL-1002245,CUST-502245,Auto,2023-12-18,Collision,32447.17,5000.0,27447.17,Paid,Collided with a stationary utility pole while parking.
+CLM-101589,POL-1002245,CUST-502245,Auto,2025-02-14,Uninsured Motorist,4295.15,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101591,POL-1001551,CUST-501551,Auto,2025-12-22,Collision,500.0,500.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101595,POL-1000014,CUST-500014,Auto,2024-01-15,Liability,11722.01,2500.0,9222.01,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101596,POL-1003628,CUST-503628,Auto,2024-05-18,Uninsured Motorist,8253.08,5000.0,3253.08,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101597,POL-1000945,CUST-500945,Auto,2024-01-06,Uninsured Motorist,28590.37,5000.0,23590.37,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101599,POL-1004697,CUST-504697,Auto,2025-10-25,Comprehensive,7922.6,2500.0,5422.6,Paid,Collided with a deer crossing the road at night.
+CLM-101602,POL-1004656,CUST-504656,Auto,2023-11-05,Collision,960.51,500.0,460.51,Paid,Rear-end collision at a traffic intersection.
+CLM-101601,POL-1004656,CUST-504656,Auto,2024-02-10,Uninsured Motorist,500.0,500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101603,POL-1004656,CUST-504656,Auto,2024-10-12,Collision,50660.16,500.0,50160.16,Paid,Rear-end collision at a traffic intersection.
+CLM-101608,POL-1003168,CUST-503168,Auto,2022-04-14,Uninsured Motorist,1504.13,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101609,POL-1002478,CUST-502478,Auto,2026-05-04,Liability,12286.65,500.0,11786.65,Approved,Third-party property damage to a storefront fence.
+CLM-101612,POL-1004180,CUST-504180,Auto,2022-09-29,Liability,2422.31,1000.0,0.0,Denied,Third-party property damage to a storefront fence.
+CLM-101615,POL-1003163,CUST-503163,Auto,2026-01-10,Uninsured Motorist,2132.64,2500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101616,POL-1003163,CUST-503163,Auto,2026-01-20,Collision,2400.36,2500.0,0.0,Paid,Collided with a stationary utility pole while parking.
+CLM-101617,POL-1000490,CUST-500490,Auto,2023-03-21,Comprehensive,19707.46,250.0,19457.46,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101625,POL-1004230,CUST-504230,Auto,2023-01-21,Uninsured Motorist,6565.22,1000.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101633,POL-1001113,CUST-501113,Auto,2022-06-30,Collision,5907.27,500.0,5407.27,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101634,POL-1001905,CUST-501905,Auto,2025-12-03,Collision,13007.12,2500.0,10507.12,Paid,Collided with a stationary utility pole while parking.
+CLM-101636,POL-1001877,CUST-501877,Auto,2026-03-13,Uninsured Motorist,7116.34,500.0,6616.34,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101641,POL-1002364,CUST-502364,Auto,2022-12-29,Comprehensive,12012.0,250.0,11762.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101640,POL-1002364,CUST-502364,Auto,2023-09-04,Liability,16598.15,250.0,16348.15,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101649,POL-1003162,CUST-503162,Auto,2023-04-04,Liability,8455.57,5000.0,3455.57,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101650,POL-1003162,CUST-503162,Auto,2023-11-14,Uninsured Motorist,3549.85,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101651,POL-1002945,CUST-502945,Auto,2025-04-15,Collision,3177.25,500.0,2677.25,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101655,POL-1001102,CUST-501102,Auto,2025-11-29,Collision,2204.74,2500.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101657,POL-1001720,CUST-501720,Auto,2022-06-10,Liability,6480.32,2500.0,3980.32,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101659,POL-1003842,CUST-503842,Auto,2025-10-18,Liability,12029.11,5000.0,7029.11,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101660,POL-1000156,CUST-500156,Auto,2023-01-12,Liability,4752.84,250.0,4502.84,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101661,POL-1000156,CUST-500156,Auto,2023-03-09,Comprehensive,4299.74,250.0,4049.74,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101662,POL-1002978,CUST-502978,Auto,2024-08-02,Comprehensive,2192.43,2500.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101666,POL-1001935,CUST-501935,Auto,2025-03-12,Collision,13174.86,1000.0,12174.86,Paid,Multi-vehicle accident on wet roadway.
+CLM-101667,POL-1004277,CUST-504277,Auto,2026-03-23,Collision,24702.24,5000.0,0.0,Denied,Rear-end collision at a traffic intersection.
+CLM-101669,POL-1001068,CUST-501068,Auto,2025-07-14,Uninsured Motorist,7882.1,5000.0,2882.1,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101668,POL-1001068,CUST-501068,Auto,2026-01-01,Liability,4467.74,5000.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-101670,POL-1001068,CUST-501068,Auto,2026-01-10,Comprehensive,1072.29,5000.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-101674,POL-1004868,CUST-504868,Auto,2022-08-05,Uninsured Motorist,28000.0,1000.0,27000.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101676,POL-1002057,CUST-502057,Auto,2023-04-01,Collision,500.0,2500.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101677,POL-1002057,CUST-502057,Auto,2023-10-02,Comprehensive,6698.52,2500.0,4198.52,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101678,POL-1002646,CUST-502646,Auto,2023-03-01,Liability,12508.19,2500.0,10008.19,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101682,POL-1002915,CUST-502915,Auto,2024-11-11,Comprehensive,972.26,1000.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101683,POL-1004821,CUST-504821,Auto,2024-08-28,Comprehensive,3644.63,250.0,3394.63,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101684,POL-1004821,CUST-504821,Auto,2025-01-16,Liability,8922.83,250.0,8672.83,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101686,POL-1003898,CUST-503898,Auto,2022-08-03,Comprehensive,5537.96,250.0,5287.96,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101685,POL-1003898,CUST-503898,Auto,2022-11-24,Liability,892.8,250.0,642.8,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101687,POL-1001919,CUST-501919,Auto,2023-02-15,Liability,9063.02,250.0,8813.02,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101688,POL-1004173,CUST-504173,Auto,2023-01-14,Uninsured Motorist,5408.86,2500.0,2908.86,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101689,POL-1004477,CUST-504477,Auto,2025-05-02,Comprehensive,765.5,1000.0,0.0,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101690,POL-1004477,CUST-504477,Auto,2025-09-21,Collision,13107.01,1000.0,12107.01,Paid,Collided with a stationary utility pole while parking.
+CLM-101695,POL-1000518,CUST-500518,Auto,2021-09-26,Comprehensive,500.0,2500.0,0.0,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101696,POL-1000518,CUST-500518,Auto,2021-11-25,Liability,2793.22,2500.0,293.22,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101694,POL-1000518,CUST-500518,Auto,2021-12-13,Collision,1765.48,2500.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-101697,POL-1003803,CUST-503803,Auto,2024-06-17,Collision,3329.47,2500.0,0.0,Denied,Multi-vehicle accident on wet roadway.
+CLM-101699,POL-1002937,CUST-502937,Auto,2023-12-16,Liability,500.0,250.0,250.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101702,POL-1001497,CUST-501497,Auto,2021-09-22,Comprehensive,6696.37,2500.0,4196.37,Paid,Collided with a deer crossing the road at night.
+CLM-101704,POL-1003755,CUST-503755,Auto,2023-05-20,Uninsured Motorist,11793.61,2500.0,9293.61,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101709,POL-1003493,CUST-503493,Auto,2025-10-30,Uninsured Motorist,30775.16,5000.0,25775.16,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101710,POL-1002949,CUST-502949,Auto,2023-10-27,Comprehensive,13049.57,5000.0,8049.57,Paid,Collided with a deer crossing the road at night.
+CLM-101711,POL-1002949,CUST-502949,Auto,2024-01-11,Liability,2292.97,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101719,POL-1000408,CUST-500408,Auto,2023-01-09,Collision,500.0,2500.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-101718,POL-1000408,CUST-500408,Auto,2023-02-15,Uninsured Motorist,858.5,2500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101720,POL-1000170,CUST-500170,Auto,2023-04-21,Collision,10486.94,5000.0,5486.94,Paid,Rear-end collision at a traffic intersection.
+CLM-101721,POL-1000540,CUST-500540,Auto,2025-11-22,Uninsured Motorist,3569.22,500.0,3069.22,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101726,POL-1000613,CUST-500613,Auto,2022-07-13,Comprehensive,1887.56,500.0,1387.56,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101727,POL-1002101,CUST-502101,Auto,2026-03-18,Comprehensive,18542.05,2500.0,16042.05,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101728,POL-1001808,CUST-501808,Auto,2021-11-19,Liability,7263.76,5000.0,2263.76,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101737,POL-1001932,CUST-501932,Auto,2023-12-23,Comprehensive,4595.16,500.0,4095.16,Paid,Collided with a deer crossing the road at night.
+CLM-101741,POL-1003571,CUST-503571,Auto,2024-06-25,Uninsured Motorist,5767.5,2500.0,3267.5,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101742,POL-1004247,CUST-504247,Auto,2026-03-31,Collision,7059.14,250.0,6809.14,Paid,Multi-vehicle accident on wet roadway.
+CLM-101743,POL-1002388,CUST-502388,Auto,2026-02-20,Comprehensive,11360.55,500.0,10860.55,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101745,POL-1002388,CUST-502388,Auto,2026-03-07,Uninsured Motorist,8172.24,500.0,7672.24,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101744,POL-1002388,CUST-502388,Auto,2026-03-25,Liability,7666.51,500.0,0.0,Denied,Backed into neighbor's parked car causing bumper damage.
+CLM-101746,POL-1001471,CUST-501471,Auto,2025-11-15,Comprehensive,21257.93,5000.0,16257.93,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101747,POL-1001471,CUST-501471,Auto,2026-01-29,Uninsured Motorist,655.43,5000.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101751,POL-1003475,CUST-503475,Auto,2025-11-07,Comprehensive,18715.48,2500.0,16215.48,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101756,POL-1001172,CUST-501172,Auto,2023-06-15,Collision,500.0,500.0,0.0,Paid,Rear-end collision at a traffic intersection.
+CLM-101759,POL-1000325,CUST-500325,Auto,2024-06-30,Collision,26225.39,2500.0,23725.39,Paid,Collided with a stationary utility pole while parking.
+CLM-101760,POL-1001051,CUST-501051,Auto,2024-05-07,Comprehensive,11503.1,5000.0,6503.1,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101765,POL-1001738,CUST-501738,Auto,2022-10-13,Liability,4765.72,250.0,4515.72,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101766,POL-1001738,CUST-501738,Auto,2022-10-21,Uninsured Motorist,5171.01,250.0,4921.01,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101769,POL-1001374,CUST-501374,Auto,2026-04-17,Uninsured Motorist,1400.57,1000.0,400.57,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101771,POL-1001189,CUST-501189,Auto,2024-02-06,Comprehensive,6611.2,250.0,6361.2,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101772,POL-1001189,CUST-501189,Auto,2024-12-04,Liability,9714.71,250.0,9464.71,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101773,POL-1000328,CUST-500328,Auto,2025-01-29,Collision,25033.37,5000.0,20033.37,Paid,Rear-end collision at a traffic intersection.
+CLM-101778,POL-1000897,CUST-500897,Auto,2025-09-02,Comprehensive,15176.3,500.0,14676.3,Paid,Collided with a deer crossing the road at night.
+CLM-101777,POL-1000897,CUST-500897,Auto,2025-10-29,Uninsured Motorist,3658.19,500.0,3158.19,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101780,POL-1001123,CUST-501123,Auto,2023-04-26,Collision,4412.22,500.0,3912.22,Paid,Rear-end collision at a traffic intersection.
+CLM-101781,POL-1001123,CUST-501123,Auto,2023-10-16,Uninsured Motorist,500.0,500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101783,POL-1004643,CUST-504643,Auto,2024-05-19,Uninsured Motorist,24852.02,2500.0,22352.02,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101784,POL-1004643,CUST-504643,Auto,2024-07-25,Liability,3064.0,2500.0,564.0,Paid,Third-party property damage to a storefront fence.
+CLM-101785,POL-1004791,CUST-504791,Auto,2026-02-19,Collision,3802.05,5000.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101786,POL-1004529,CUST-504529,Auto,2023-12-17,Comprehensive,19076.67,1000.0,18076.67,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101787,POL-1004234,CUST-504234,Auto,2023-11-28,Uninsured Motorist,2499.51,2500.0,0.0,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101788,POL-1004234,CUST-504234,Auto,2024-06-11,Liability,500.0,2500.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101790,POL-1003312,CUST-503312,Auto,2025-02-06,Liability,5500.54,5000.0,500.54,Paid,Third-party property damage to a storefront fence.
+CLM-101791,POL-1002547,CUST-502547,Auto,2022-07-10,Liability,3249.5,1000.0,2249.5,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101792,POL-1001545,CUST-501545,Auto,2023-05-11,Uninsured Motorist,596.19,2500.0,0.0,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101793,POL-1004336,CUST-504336,Auto,2024-07-24,Comprehensive,6263.29,2500.0,3763.29,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101795,POL-1001971,CUST-501971,Auto,2023-04-24,Liability,2216.16,250.0,1966.16,Paid,Third-party property damage to a storefront fence.
+CLM-101798,POL-1001714,CUST-501714,Auto,2026-03-21,Liability,1763.42,250.0,1513.42,Paid,Third-party property damage to a storefront fence.
+CLM-101799,POL-1001717,CUST-501717,Auto,2024-04-23,Uninsured Motorist,10866.28,2500.0,8366.28,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101805,POL-1002850,CUST-502850,Auto,2023-04-19,Liability,500.0,2500.0,0.0,Denied,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101806,POL-1000978,CUST-500978,Auto,2025-07-19,Liability,9043.46,5000.0,4043.46,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101811,POL-1004660,CUST-504660,Auto,2025-07-13,Collision,21775.57,1000.0,20775.57,Paid,Multi-vehicle accident on wet roadway.
+CLM-101813,POL-1001514,CUST-501514,Auto,2025-05-12,Liability,16167.99,5000.0,11167.99,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101812,POL-1001514,CUST-501514,Auto,2026-03-19,Uninsured Motorist,18310.76,5000.0,0.0,Denied,Hit-and-run incident in a shopping mall parking structure.
+CLM-101814,POL-1002404,CUST-502404,Auto,2025-08-21,Collision,4448.62,250.0,4198.62,Paid,Rear-end collision at a traffic intersection.
+CLM-101815,POL-1002021,CUST-502021,Auto,2025-04-05,Uninsured Motorist,16267.89,5000.0,11267.89,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101816,POL-1004553,CUST-504553,Auto,2022-10-01,Collision,20937.1,2500.0,18437.1,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101817,POL-1001767,CUST-501767,Auto,2026-03-14,Uninsured Motorist,12370.53,250.0,12120.53,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101823,POL-1004461,CUST-504461,Auto,2024-01-06,Comprehensive,12632.95,2500.0,10132.95,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101825,POL-1003914,CUST-503914,Auto,2025-09-19,Comprehensive,3976.38,2500.0,1476.38,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101826,POL-1003720,CUST-503720,Auto,2022-03-13,Liability,797.75,250.0,547.75,Paid,Third-party property damage to a storefront fence.
+CLM-101828,POL-1003720,CUST-503720,Auto,2022-07-16,Comprehensive,1320.64,250.0,1070.64,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101827,POL-1003720,CUST-503720,Auto,2024-03-05,Uninsured Motorist,4175.17,250.0,3925.17,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101829,POL-1000690,CUST-500690,Auto,2024-08-28,Liability,24964.93,2500.0,22464.93,Paid,Third-party property damage to a storefront fence.
+CLM-101830,POL-1002577,CUST-502577,Auto,2025-07-17,Uninsured Motorist,13584.3,2500.0,11084.3,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101852,POL-1000888,CUST-500888,Auto,2025-06-16,Uninsured Motorist,10678.88,1000.0,9678.88,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101855,POL-1002663,CUST-502663,Auto,2022-08-23,Collision,5498.74,500.0,4998.74,Paid,Multi-vehicle accident on wet roadway.
+CLM-101857,POL-1000817,CUST-500817,Auto,2024-05-02,Liability,7967.79,2500.0,5467.79,Paid,Third-party property damage to a storefront fence.
+CLM-101856,POL-1000817,CUST-500817,Auto,2024-05-15,Liability,16922.01,2500.0,14422.01,Paid,Third-party property damage to a storefront fence.
+CLM-101866,POL-1001119,CUST-501119,Auto,2025-07-27,Collision,2404.63,5000.0,0.0,Paid,Multi-vehicle accident on wet roadway.
+CLM-101864,POL-1001119,CUST-501119,Auto,2025-09-03,Collision,8094.24,5000.0,3094.24,Paid,Multi-vehicle accident on wet roadway.
+CLM-101865,POL-1001119,CUST-501119,Auto,2026-01-01,Collision,12866.02,5000.0,7866.02,Paid,Multi-vehicle accident on wet roadway.
+CLM-101868,POL-1001609,CUST-501609,Auto,2022-12-08,Uninsured Motorist,6256.66,500.0,0.0,Denied,Rear-ended by an uninsured driver who fled the scene.
+CLM-101869,POL-1001609,CUST-501609,Auto,2023-06-06,Uninsured Motorist,13286.6,500.0,12786.6,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101872,POL-1000990,CUST-500990,Auto,2026-03-15,Uninsured Motorist,6328.3,2500.0,3828.3,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101876,POL-1000353,CUST-500353,Auto,2026-04-16,Liability,11687.0,500.0,0.0,Denied,Third-party property damage to a storefront fence.
+CLM-101877,POL-1004557,CUST-504557,Auto,2025-10-19,Collision,951.16,2500.0,0.0,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101878,POL-1002022,CUST-502022,Auto,2023-09-12,Liability,18183.75,1000.0,17183.75,Paid,Third-party property damage to a storefront fence.
+CLM-101882,POL-1002555,CUST-502555,Auto,2024-03-07,Collision,21403.17,1000.0,0.0,Denied,Collided with a stationary utility pole while parking.
+CLM-101883,POL-1002555,CUST-502555,Auto,2025-08-09,Comprehensive,500.0,1000.0,0.0,Paid,Collided with a deer crossing the road at night.
+CLM-101887,POL-1001519,CUST-501519,Auto,2025-08-12,Comprehensive,7210.05,1000.0,6210.05,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101891,POL-1004739,CUST-504739,Auto,2024-11-22,Collision,8364.98,250.0,8114.98,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101890,POL-1004739,CUST-504739,Auto,2025-01-14,Collision,9281.54,250.0,9031.54,Paid,Sideswiped by another vehicle merging onto the highway.
+CLM-101889,POL-1004739,CUST-504739,Auto,2025-02-10,Comprehensive,17074.53,250.0,16824.53,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101892,POL-1001770,CUST-501770,Auto,2025-08-25,Liability,5934.64,250.0,5684.64,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101899,POL-1004683,CUST-504683,Auto,2024-10-26,Comprehensive,18913.44,500.0,18413.44,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101898,POL-1004683,CUST-504683,Auto,2024-12-31,Uninsured Motorist,8356.33,500.0,7856.33,Paid,Rear-ended by an uninsured driver who fled the scene.
+CLM-101900,POL-1004411,CUST-504411,Auto,2025-11-08,Collision,1932.88,250.0,1682.88,Paid,Rear-end collision at a traffic intersection.
+CLM-101906,POL-1001097,CUST-501097,Auto,2025-02-22,Liability,14279.44,1000.0,13279.44,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101907,POL-1001097,CUST-501097,Auto,2025-04-27,Liability,8766.1,1000.0,7766.1,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101908,POL-1000543,CUST-500543,Auto,2026-02-04,Liability,4422.62,500.0,3922.62,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101909,POL-1001046,CUST-501046,Auto,2022-02-11,Liability,5710.83,500.0,0.0,Denied,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101910,POL-1001046,CUST-501046,Auto,2022-10-28,Comprehensive,2646.71,500.0,2146.71,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101911,POL-1001894,CUST-501894,Auto,2024-03-06,Comprehensive,1029.76,2500.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101912,POL-1004376,CUST-504376,Auto,2025-12-23,Comprehensive,1397.88,2500.0,0.0,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101914,POL-1000725,CUST-500725,Auto,2022-10-20,Comprehensive,11439.01,5000.0,6439.01,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101918,POL-1004718,CUST-504718,Auto,2022-05-03,Comprehensive,3889.72,250.0,3639.72,Paid,Collided with a deer crossing the road at night.
+CLM-101917,POL-1004718,CUST-504718,Auto,2023-11-11,Comprehensive,3586.14,250.0,3336.14,Paid,Hail storm caused extensive denting on hood and roof.
+CLM-101921,POL-1002497,CUST-502497,Auto,2021-07-02,Liability,7140.22,2500.0,4640.22,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101925,POL-1000912,CUST-500912,Auto,2025-10-11,Comprehensive,6130.09,5000.0,1130.09,Paid,Windshield cracked by a rock flying from a dump truck.
+CLM-101926,POL-1004222,CUST-504222,Auto,2023-08-27,Liability,941.83,5000.0,0.0,Paid,Third-party property damage to a storefront fence.
+CLM-101928,POL-1004352,CUST-504352,Auto,2023-01-26,Liability,3079.67,1000.0,2079.67,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101927,POL-1004352,CUST-504352,Auto,2024-03-20,Comprehensive,3461.59,1000.0,2461.59,Paid,Vehicle vandalized with spray paint in a public parking lot.
+CLM-101931,POL-1002287,CUST-502287,Auto,2025-05-11,Liability,26733.51,500.0,26233.51,Paid,Backed into neighbor's parked car causing bumper damage.
+CLM-101935,POL-1003620,CUST-503620,Auto,2024-06-30,Liability,3311.94,5000.0,0.0,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101939,POL-1003221,CUST-503221,Auto,2025-02-19,Liability,7746.75,500.0,7246.75,Paid,"Ran a stop sign and hit a bicyclist, causing minor injuries."
+CLM-101941,POL-1001564,CUST-501564,Auto,2023-01-01,Uninsured Motorist,4923.56,1000.0,3923.56,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101950,POL-1002380,CUST-502380,Auto,2026-02-06,Uninsured Motorist,2841.38,250.0,2591.38,Paid,Hit-and-run incident in a shopping mall parking structure.
+CLM-101949,POL-1002380,CUST-502380,Auto,2026-04-25,Liability,12235.29,250.0,11985.29,Under Review,"Ran a stop sign and hit a bicyclist, causing minor injuries."

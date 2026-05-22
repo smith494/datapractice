@@ -1,0 +1,236 @@
+claim_id,policy_id,customer_id,policy_type,claim_date,claim_type,claim_amount,deductible,amount_paid,claim_status,incident_description
+CLM-100025,POL-1001084,CUST-501084,Life,2026-03-16,Death Benefit,276000.0,1000.0,276000.0,Paid,Fatal cardiovascular event.
+CLM-100024,POL-1001084,CUST-501084,Life,2026-03-19,Death Benefit,276000.0,1000.0,276000.0,Paid,Fatal cardiovascular event.
+CLM-100037,POL-1001962,CUST-501962,Life,2022-11-14,Death Benefit,563000.0,2500.0,563000.0,Paid,Accidental death in a domestic incident.
+CLM-100050,POL-1003599,CUST-503599,Life,2024-08-21,Death Benefit,1627000.0,5000.0,1627000.0,Paid,Passed away from complications of pneumonia.
+CLM-100052,POL-1000029,CUST-500029,Life,2026-02-24,Death Benefit,1926000.0,5000.0,1926000.0,Paid,Fatal cardiovascular event.
+CLM-100063,POL-1002659,CUST-502659,Life,2022-10-10,Death Benefit,709000.0,250.0,0.0,Denied,Passed away due to natural causes.
+CLM-100066,POL-1004628,CUST-504628,Life,2025-03-15,Death Benefit,494000.0,1000.0,494000.0,Paid,Passed away due to natural causes.
+CLM-100078,POL-1002570,CUST-502570,Life,2022-03-18,Death Benefit,880000.0,5000.0,880000.0,Paid,Fatal cardiovascular event.
+CLM-100102,POL-1000711,CUST-500711,Life,2022-05-10,Death Benefit,1358000.0,5000.0,1358000.0,Paid,Passed away due to natural causes.
+CLM-100122,POL-1001295,CUST-501295,Life,2025-02-19,Death Benefit,1238000.0,5000.0,1238000.0,Paid,Passed away from complications of pneumonia.
+CLM-100132,POL-1000079,CUST-500079,Life,2024-09-18,Death Benefit,306000.0,5000.0,306000.0,Paid,Accidental death in a domestic incident.
+CLM-100146,POL-1001338,CUST-501338,Life,2026-04-16,Death Benefit,1588000.0,5000.0,1588000.0,Under Review,Passed away due to natural causes.
+CLM-100162,POL-1002351,CUST-502351,Life,2024-08-13,Death Benefit,1391000.0,500.0,1391000.0,Paid,Fatal cardiovascular event.
+CLM-100161,POL-1002351,CUST-502351,Life,2024-09-07,Death Benefit,1391000.0,500.0,1391000.0,Paid,Passed away due to natural causes.
+CLM-100168,POL-1004749,CUST-504749,Life,2025-03-14,Death Benefit,590000.0,500.0,590000.0,Paid,Passed away due to natural causes.
+CLM-100177,POL-1001973,CUST-501973,Life,2022-09-15,Death Benefit,1331000.0,1000.0,1331000.0,Paid,Accidental death in a domestic incident.
+CLM-100182,POL-1004445,CUST-504445,Life,2022-10-03,Death Benefit,1672000.0,5000.0,1672000.0,Paid,Fatal cardiovascular event.
+CLM-100181,POL-1004445,CUST-504445,Life,2023-11-11,Death Benefit,1672000.0,5000.0,1672000.0,Paid,Passed away due to natural causes.
+CLM-100186,POL-1000179,CUST-500179,Life,2023-03-14,Death Benefit,886000.0,5000.0,886000.0,Paid,Accidental death in a domestic incident.
+CLM-100217,POL-1002104,CUST-502104,Life,2025-09-06,Death Benefit,131000.0,500.0,131000.0,Paid,Passed away due to natural causes.
+CLM-100221,POL-1001128,CUST-501128,Life,2025-08-03,Death Benefit,600000.0,1000.0,0.0,Denied,Accidental death in a domestic incident.
+CLM-100220,POL-1001128,CUST-501128,Life,2026-02-02,Death Benefit,600000.0,1000.0,600000.0,Paid,Passed away from complications of pneumonia.
+CLM-100223,POL-1003591,CUST-503591,Life,2024-10-15,Death Benefit,1493000.0,500.0,1493000.0,Paid,Fatal cardiovascular event.
+CLM-100234,POL-1003289,CUST-503289,Life,2022-11-15,Death Benefit,1339000.0,250.0,1339000.0,Paid,Fatal cardiovascular event.
+CLM-100240,POL-1004624,CUST-504624,Life,2022-07-05,Death Benefit,443000.0,5000.0,0.0,Denied,Passed away from complications of pneumonia.
+CLM-100253,POL-1001886,CUST-501886,Life,2023-10-26,Death Benefit,1663000.0,500.0,1663000.0,Paid,Passed away from complications of pneumonia.
+CLM-100260,POL-1004666,CUST-504666,Life,2026-01-29,Death Benefit,741000.0,250.0,741000.0,Paid,Passed away due to natural causes.
+CLM-100259,POL-1004666,CUST-504666,Life,2026-02-18,Death Benefit,741000.0,250.0,741000.0,Paid,Passed away due to natural causes.
+CLM-100266,POL-1003829,CUST-503829,Life,2023-09-03,Death Benefit,227000.0,250.0,227000.0,Paid,Passed away from complications of pneumonia.
+CLM-100287,POL-1000999,CUST-500999,Life,2023-03-19,Death Benefit,1194000.0,500.0,1194000.0,Paid,Accidental death in a domestic incident.
+CLM-100305,POL-1003135,CUST-503135,Life,2025-08-07,Death Benefit,1747000.0,1000.0,1747000.0,Paid,Accidental death in a domestic incident.
+CLM-100316,POL-1003276,CUST-503276,Life,2024-07-23,Death Benefit,1139000.0,1000.0,1139000.0,Paid,Passed away from complications of pneumonia.
+CLM-100320,POL-1004863,CUST-504863,Life,2025-07-25,Death Benefit,1306000.0,250.0,1306000.0,Paid,Fatal cardiovascular event.
+CLM-100338,POL-1000877,CUST-500877,Life,2026-04-19,Death Benefit,1616000.0,2500.0,1616000.0,Paid,Passed away from complications of pneumonia.
+CLM-100341,POL-1002016,CUST-502016,Life,2025-08-24,Death Benefit,863000.0,1000.0,863000.0,Paid,Passed away due to natural causes.
+CLM-100370,POL-1001424,CUST-501424,Life,2024-01-13,Death Benefit,959000.0,2500.0,959000.0,Paid,Passed away from complications of pneumonia.
+CLM-100377,POL-1003936,CUST-503936,Life,2022-11-02,Death Benefit,1641000.0,1000.0,1641000.0,Paid,Passed away from complications of pneumonia.
+CLM-100385,POL-1002962,CUST-502962,Life,2022-03-31,Death Benefit,1539000.0,250.0,1539000.0,Paid,Accidental death in a domestic incident.
+CLM-100408,POL-1003114,CUST-503114,Life,2021-08-25,Death Benefit,1211000.0,5000.0,1211000.0,Paid,Passed away from complications of pneumonia.
+CLM-100409,POL-1003114,CUST-503114,Life,2021-09-09,Death Benefit,1211000.0,5000.0,1211000.0,Paid,Passed away due to natural causes.
+CLM-100414,POL-1001618,CUST-501618,Life,2022-09-01,Death Benefit,1201000.0,250.0,1201000.0,Paid,Accidental death in a domestic incident.
+CLM-100413,POL-1001618,CUST-501618,Life,2023-01-08,Death Benefit,1201000.0,250.0,0.0,Denied,Passed away due to natural causes.
+CLM-100415,POL-1001618,CUST-501618,Life,2024-05-04,Death Benefit,1201000.0,250.0,1201000.0,Paid,Accidental death in a domestic incident.
+CLM-100417,POL-1001803,CUST-501803,Life,2025-02-15,Death Benefit,975000.0,1000.0,975000.0,Paid,Accidental death in a domestic incident.
+CLM-100448,POL-1004058,CUST-504058,Life,2024-08-01,Death Benefit,1074000.0,500.0,1074000.0,Paid,Fatal cardiovascular event.
+CLM-100449,POL-1001293,CUST-501293,Life,2023-01-15,Death Benefit,1828000.0,2500.0,0.0,Denied,Passed away due to natural causes.
+CLM-100452,POL-1003654,CUST-503654,Life,2024-05-21,Death Benefit,1966000.0,500.0,1966000.0,Paid,Passed away from complications of pneumonia.
+CLM-100462,POL-1004827,CUST-504827,Life,2025-08-13,Death Benefit,776000.0,250.0,776000.0,Paid,Passed away due to natural causes.
+CLM-100475,POL-1003040,CUST-503040,Life,2022-10-02,Death Benefit,1567000.0,500.0,1567000.0,Paid,Passed away due to natural causes.
+CLM-100476,POL-1003040,CUST-503040,Life,2023-12-06,Death Benefit,1567000.0,500.0,1567000.0,Paid,Accidental death in a domestic incident.
+CLM-100477,POL-1003040,CUST-503040,Life,2025-12-22,Death Benefit,1567000.0,500.0,1567000.0,Paid,Passed away due to natural causes.
+CLM-100495,POL-1004310,CUST-504310,Life,2023-08-29,Death Benefit,1227000.0,2500.0,1227000.0,Paid,Passed away from complications of pneumonia.
+CLM-100514,POL-1001650,CUST-501650,Life,2024-04-07,Death Benefit,1550000.0,2500.0,1550000.0,Paid,Passed away from complications of pneumonia.
+CLM-100521,POL-1000787,CUST-500787,Life,2023-08-23,Death Benefit,428000.0,250.0,428000.0,Paid,Passed away from complications of pneumonia.
+CLM-100520,POL-1000787,CUST-500787,Life,2025-05-27,Death Benefit,428000.0,250.0,428000.0,Paid,Passed away from complications of pneumonia.
+CLM-100524,POL-1002121,CUST-502121,Life,2024-04-19,Death Benefit,755000.0,5000.0,755000.0,Paid,Passed away due to natural causes.
+CLM-100539,POL-1004212,CUST-504212,Life,2026-02-07,Death Benefit,419000.0,1000.0,419000.0,Paid,Passed away due to natural causes.
+CLM-100550,POL-1004975,CUST-504975,Life,2022-08-17,Death Benefit,628000.0,250.0,628000.0,Paid,Passed away from complications of pneumonia.
+CLM-100565,POL-1002254,CUST-502254,Life,2022-10-10,Death Benefit,205000.0,500.0,205000.0,Paid,Accidental death in a domestic incident.
+CLM-100564,POL-1002254,CUST-502254,Life,2023-06-12,Death Benefit,205000.0,500.0,205000.0,Paid,Passed away from complications of pneumonia.
+CLM-100566,POL-1002254,CUST-502254,Life,2025-01-11,Death Benefit,205000.0,500.0,205000.0,Paid,Accidental death in a domestic incident.
+CLM-100619,POL-1002758,CUST-502758,Life,2022-11-23,Death Benefit,418000.0,500.0,418000.0,Paid,Passed away from complications of pneumonia.
+CLM-100625,POL-1003957,CUST-503957,Life,2024-09-27,Death Benefit,57000.0,1000.0,57000.0,Paid,Fatal cardiovascular event.
+CLM-100626,POL-1003957,CUST-503957,Life,2024-12-23,Death Benefit,57000.0,1000.0,57000.0,Paid,Fatal cardiovascular event.
+CLM-100630,POL-1003970,CUST-503970,Life,2025-09-01,Death Benefit,845000.0,2500.0,845000.0,Paid,Passed away from complications of pneumonia.
+CLM-100637,POL-1000354,CUST-500354,Life,2025-05-25,Death Benefit,1485000.0,250.0,1485000.0,Paid,Passed away due to natural causes.
+CLM-100640,POL-1000949,CUST-500949,Life,2025-09-26,Death Benefit,932000.0,250.0,932000.0,Paid,Passed away due to natural causes.
+CLM-100639,POL-1000949,CUST-500949,Life,2025-11-01,Death Benefit,932000.0,250.0,932000.0,Paid,Fatal cardiovascular event.
+CLM-100651,POL-1000135,CUST-500135,Life,2024-05-04,Death Benefit,1723000.0,250.0,1723000.0,Paid,Passed away from complications of pneumonia.
+CLM-100670,POL-1001108,CUST-501108,Life,2025-06-30,Death Benefit,1027000.0,5000.0,1027000.0,Paid,Passed away due to natural causes.
+CLM-100673,POL-1000478,CUST-500478,Life,2026-02-05,Death Benefit,825000.0,1000.0,825000.0,Paid,Fatal cardiovascular event.
+CLM-100675,POL-1004112,CUST-504112,Life,2022-12-09,Death Benefit,1460000.0,1000.0,1460000.0,Paid,Fatal cardiovascular event.
+CLM-100690,POL-1001149,CUST-501149,Life,2024-08-13,Death Benefit,1397000.0,250.0,1397000.0,Paid,Fatal cardiovascular event.
+CLM-100698,POL-1002648,CUST-502648,Life,2022-02-18,Death Benefit,779000.0,250.0,779000.0,Paid,Passed away from complications of pneumonia.
+CLM-100701,POL-1002932,CUST-502932,Life,2024-02-16,Death Benefit,103000.0,250.0,103000.0,Paid,Passed away from complications of pneumonia.
+CLM-100703,POL-1004534,CUST-504534,Life,2023-12-24,Death Benefit,615000.0,250.0,615000.0,Paid,Passed away from complications of pneumonia.
+CLM-100705,POL-1004172,CUST-504172,Life,2025-05-24,Death Benefit,139000.0,500.0,139000.0,Paid,Fatal cardiovascular event.
+CLM-100704,POL-1004172,CUST-504172,Life,2026-02-15,Death Benefit,139000.0,500.0,0.0,Denied,Fatal cardiovascular event.
+CLM-100713,POL-1002298,CUST-502298,Life,2024-01-04,Death Benefit,1294000.0,2500.0,1294000.0,Paid,Accidental death in a domestic incident.
+CLM-100722,POL-1004920,CUST-504920,Life,2026-02-28,Death Benefit,1120000.0,500.0,1120000.0,Paid,Accidental death in a domestic incident.
+CLM-100724,POL-1003240,CUST-503240,Life,2025-06-21,Death Benefit,1674000.0,500.0,1674000.0,Paid,Passed away from complications of pneumonia.
+CLM-100731,POL-1002111,CUST-502111,Life,2026-04-02,Death Benefit,461000.0,5000.0,461000.0,Paid,Passed away from complications of pneumonia.
+CLM-100739,POL-1003778,CUST-503778,Life,2022-06-18,Death Benefit,1584000.0,250.0,0.0,Denied,Fatal cardiovascular event.
+CLM-100750,POL-1003901,CUST-503901,Life,2024-09-30,Death Benefit,1406000.0,1000.0,1406000.0,Paid,Fatal cardiovascular event.
+CLM-100752,POL-1004545,CUST-504545,Life,2025-11-08,Death Benefit,1773000.0,250.0,1773000.0,Paid,Passed away from complications of pneumonia.
+CLM-100753,POL-1004545,CUST-504545,Life,2026-03-15,Death Benefit,1773000.0,250.0,1773000.0,Paid,Fatal cardiovascular event.
+CLM-100777,POL-1001192,CUST-501192,Life,2025-11-11,Death Benefit,1702000.0,2500.0,1702000.0,Paid,Fatal cardiovascular event.
+CLM-100788,POL-1000233,CUST-500233,Life,2022-07-11,Death Benefit,1557000.0,500.0,1557000.0,Paid,Passed away due to natural causes.
+CLM-100794,POL-1004246,CUST-504246,Life,2026-04-07,Death Benefit,1624000.0,500.0,1624000.0,Paid,Passed away from complications of pneumonia.
+CLM-100804,POL-1003226,CUST-503226,Life,2026-03-01,Death Benefit,1702000.0,500.0,1702000.0,Paid,Fatal cardiovascular event.
+CLM-100809,POL-1001505,CUST-501505,Life,2025-09-24,Death Benefit,190000.0,2500.0,190000.0,Paid,Accidental death in a domestic incident.
+CLM-100812,POL-1001965,CUST-501965,Life,2023-06-14,Death Benefit,203000.0,2500.0,203000.0,Paid,Passed away due to natural causes.
+CLM-100831,POL-1003464,CUST-503464,Life,2024-08-09,Death Benefit,903000.0,1000.0,903000.0,Paid,Fatal cardiovascular event.
+CLM-100833,POL-1003103,CUST-503103,Life,2023-12-14,Death Benefit,62000.0,2500.0,62000.0,Paid,Accidental death in a domestic incident.
+CLM-100832,POL-1003103,CUST-503103,Life,2023-12-19,Death Benefit,62000.0,2500.0,62000.0,Paid,Passed away from complications of pneumonia.
+CLM-100866,POL-1000443,CUST-500443,Life,2025-04-06,Death Benefit,921000.0,250.0,921000.0,Paid,Fatal cardiovascular event.
+CLM-100881,POL-1000644,CUST-500644,Life,2025-01-23,Death Benefit,1527000.0,2500.0,1527000.0,Paid,Accidental death in a domestic incident.
+CLM-100882,POL-1000644,CUST-500644,Life,2026-04-22,Death Benefit,1527000.0,2500.0,1527000.0,Under Review,Accidental death in a domestic incident.
+CLM-100884,POL-1003745,CUST-503745,Life,2022-02-23,Death Benefit,1749000.0,500.0,0.0,Denied,Passed away from complications of pneumonia.
+CLM-100903,POL-1001392,CUST-501392,Life,2023-09-11,Death Benefit,322000.0,250.0,322000.0,Paid,Passed away from complications of pneumonia.
+CLM-100911,POL-1004773,CUST-504773,Life,2024-02-16,Death Benefit,1792000.0,1000.0,1792000.0,Paid,Fatal cardiovascular event.
+CLM-100915,POL-1003526,CUST-503526,Life,2024-06-23,Death Benefit,1160000.0,2500.0,0.0,Denied,Accidental death in a domestic incident.
+CLM-100923,POL-1001871,CUST-501871,Life,2025-08-31,Death Benefit,1982000.0,2500.0,1982000.0,Paid,Passed away due to natural causes.
+CLM-100943,POL-1004845,CUST-504845,Life,2024-10-06,Death Benefit,195000.0,500.0,195000.0,Paid,Passed away from complications of pneumonia.
+CLM-100956,POL-1004053,CUST-504053,Life,2026-03-15,Death Benefit,664000.0,500.0,664000.0,Paid,Passed away from complications of pneumonia.
+CLM-100977,POL-1004203,CUST-504203,Life,2025-08-27,Death Benefit,1977000.0,5000.0,1977000.0,Paid,Passed away from complications of pneumonia.
+CLM-100996,POL-1001832,CUST-501832,Life,2023-05-19,Death Benefit,1350000.0,500.0,1350000.0,Paid,Passed away due to natural causes.
+CLM-100994,POL-1001832,CUST-501832,Life,2023-11-28,Death Benefit,1350000.0,500.0,1350000.0,Paid,Passed away from complications of pneumonia.
+CLM-100995,POL-1001832,CUST-501832,Life,2024-08-09,Death Benefit,1350000.0,500.0,1350000.0,Paid,Passed away due to natural causes.
+CLM-101010,POL-1004035,CUST-504035,Life,2025-01-10,Death Benefit,552000.0,2500.0,552000.0,Paid,Passed away from complications of pneumonia.
+CLM-101011,POL-1004035,CUST-504035,Life,2025-06-01,Death Benefit,552000.0,2500.0,552000.0,Paid,Accidental death in a domestic incident.
+CLM-101015,POL-1003927,CUST-503927,Life,2024-05-21,Death Benefit,992000.0,2500.0,992000.0,Paid,Accidental death in a domestic incident.
+CLM-101067,POL-1004942,CUST-504942,Life,2022-06-13,Death Benefit,1799000.0,500.0,1799000.0,Paid,Passed away due to natural causes.
+CLM-101069,POL-1004559,CUST-504559,Life,2024-08-04,Death Benefit,1648000.0,1000.0,1648000.0,Paid,Passed away due to natural causes.
+CLM-101070,POL-1004559,CUST-504559,Life,2025-01-06,Death Benefit,1648000.0,1000.0,1648000.0,Paid,Passed away from complications of pneumonia.
+CLM-101102,POL-1001322,CUST-501322,Life,2025-05-26,Death Benefit,366000.0,2500.0,366000.0,Paid,Passed away due to natural causes.
+CLM-101111,POL-1002750,CUST-502750,Life,2024-01-02,Death Benefit,693000.0,2500.0,693000.0,Paid,Fatal cardiovascular event.
+CLM-101114,POL-1002525,CUST-502525,Life,2025-06-20,Death Benefit,1832000.0,2500.0,1832000.0,Paid,Fatal cardiovascular event.
+CLM-101115,POL-1004650,CUST-504650,Life,2022-09-19,Death Benefit,1436000.0,2500.0,1436000.0,Paid,Fatal cardiovascular event.
+CLM-101118,POL-1000802,CUST-500802,Life,2026-02-06,Death Benefit,472000.0,2500.0,472000.0,Paid,Accidental death in a domestic incident.
+CLM-101119,POL-1002997,CUST-502997,Life,2023-10-07,Death Benefit,82000.0,1000.0,82000.0,Paid,Fatal cardiovascular event.
+CLM-101120,POL-1002997,CUST-502997,Life,2024-09-10,Death Benefit,82000.0,1000.0,82000.0,Paid,Accidental death in a domestic incident.
+CLM-101121,POL-1002228,CUST-502228,Life,2026-01-17,Death Benefit,1551000.0,5000.0,1551000.0,Paid,Passed away due to natural causes.
+CLM-101126,POL-1000582,CUST-500582,Life,2023-07-14,Death Benefit,618000.0,1000.0,618000.0,Paid,Passed away from complications of pneumonia.
+CLM-101131,POL-1002929,CUST-502929,Life,2025-12-30,Death Benefit,494000.0,2500.0,494000.0,Paid,Passed away due to natural causes.
+CLM-101132,POL-1002929,CUST-502929,Life,2026-01-24,Death Benefit,494000.0,2500.0,494000.0,Paid,Fatal cardiovascular event.
+CLM-101134,POL-1001018,CUST-501018,Life,2026-03-11,Death Benefit,961000.0,5000.0,961000.0,Paid,Passed away due to natural causes.
+CLM-101158,POL-1003485,CUST-503485,Life,2021-07-23,Death Benefit,1010000.0,1000.0,1010000.0,Paid,Fatal cardiovascular event.
+CLM-101163,POL-1004858,CUST-504858,Life,2024-09-16,Death Benefit,1535000.0,5000.0,1535000.0,Paid,Passed away due to natural causes.
+CLM-101164,POL-1000907,CUST-500907,Life,2025-06-13,Death Benefit,631000.0,1000.0,631000.0,Paid,Fatal cardiovascular event.
+CLM-101186,POL-1004667,CUST-504667,Life,2021-10-11,Death Benefit,271000.0,250.0,271000.0,Paid,Fatal cardiovascular event.
+CLM-101187,POL-1001543,CUST-501543,Life,2023-11-07,Death Benefit,1782000.0,250.0,1782000.0,Paid,Fatal cardiovascular event.
+CLM-101193,POL-1003894,CUST-503894,Life,2024-12-25,Death Benefit,474000.0,1000.0,0.0,Denied,Passed away due to natural causes.
+CLM-101199,POL-1004210,CUST-504210,Life,2024-03-08,Death Benefit,829000.0,250.0,829000.0,Paid,Fatal cardiovascular event.
+CLM-101204,POL-1000096,CUST-500096,Life,2024-01-23,Death Benefit,86000.0,250.0,0.0,Denied,Passed away due to natural causes.
+CLM-101203,POL-1000096,CUST-500096,Life,2024-04-25,Death Benefit,86000.0,250.0,86000.0,Paid,Accidental death in a domestic incident.
+CLM-101218,POL-1001694,CUST-501694,Life,2022-01-13,Death Benefit,1787000.0,5000.0,1787000.0,Paid,Passed away due to natural causes.
+CLM-101217,POL-1001694,CUST-501694,Life,2022-03-18,Death Benefit,1787000.0,5000.0,1787000.0,Paid,Passed away from complications of pneumonia.
+CLM-101245,POL-1001420,CUST-501420,Life,2024-11-14,Death Benefit,1702000.0,500.0,1702000.0,Paid,Passed away due to natural causes.
+CLM-101246,POL-1002011,CUST-502011,Life,2021-12-24,Death Benefit,847000.0,2500.0,847000.0,Paid,Fatal cardiovascular event.
+CLM-101249,POL-1000088,CUST-500088,Life,2022-08-22,Death Benefit,1941000.0,5000.0,1941000.0,Paid,Accidental death in a domestic incident.
+CLM-101250,POL-1000457,CUST-500457,Life,2024-01-22,Death Benefit,1727000.0,1000.0,1727000.0,Paid,Accidental death in a domestic incident.
+CLM-101263,POL-1003022,CUST-503022,Life,2025-08-29,Death Benefit,522000.0,5000.0,522000.0,Paid,Fatal cardiovascular event.
+CLM-101264,POL-1003022,CUST-503022,Life,2025-12-19,Death Benefit,522000.0,5000.0,522000.0,Paid,Passed away from complications of pneumonia.
+CLM-101291,POL-1004676,CUST-504676,Life,2025-04-05,Death Benefit,543000.0,250.0,543000.0,Paid,Passed away due to natural causes.
+CLM-101326,POL-1002834,CUST-502834,Life,2025-03-31,Death Benefit,1144000.0,250.0,0.0,Denied,Accidental death in a domestic incident.
+CLM-101327,POL-1002834,CUST-502834,Life,2025-10-31,Death Benefit,1144000.0,250.0,1144000.0,Paid,Fatal cardiovascular event.
+CLM-101331,POL-1001779,CUST-501779,Life,2024-05-20,Death Benefit,1795000.0,250.0,1795000.0,Paid,Passed away from complications of pneumonia.
+CLM-101332,POL-1004900,CUST-504900,Life,2021-08-14,Death Benefit,56000.0,5000.0,56000.0,Paid,Fatal cardiovascular event.
+CLM-101333,POL-1004900,CUST-504900,Life,2021-08-18,Death Benefit,56000.0,5000.0,56000.0,Paid,Fatal cardiovascular event.
+CLM-101334,POL-1004900,CUST-504900,Life,2022-03-19,Death Benefit,56000.0,5000.0,56000.0,Paid,Passed away from complications of pneumonia.
+CLM-101341,POL-1000166,CUST-500166,Life,2021-10-18,Death Benefit,896000.0,5000.0,896000.0,Paid,Accidental death in a domestic incident.
+CLM-101352,POL-1001822,CUST-501822,Life,2024-08-27,Death Benefit,1322000.0,1000.0,1322000.0,Paid,Accidental death in a domestic incident.
+CLM-101351,POL-1001822,CUST-501822,Life,2025-06-23,Death Benefit,1322000.0,1000.0,1322000.0,Paid,Accidental death in a domestic incident.
+CLM-101362,POL-1002534,CUST-502534,Life,2023-04-21,Death Benefit,1909000.0,250.0,1909000.0,Paid,Accidental death in a domestic incident.
+CLM-101360,POL-1002534,CUST-502534,Life,2023-06-12,Death Benefit,1909000.0,250.0,1909000.0,Paid,Passed away from complications of pneumonia.
+CLM-101361,POL-1002534,CUST-502534,Life,2024-01-24,Death Benefit,1909000.0,250.0,1909000.0,Paid,Passed away from complications of pneumonia.
+CLM-101373,POL-1003017,CUST-503017,Life,2021-07-08,Death Benefit,129000.0,2500.0,129000.0,Paid,Passed away due to natural causes.
+CLM-101382,POL-1000309,CUST-500309,Life,2021-11-16,Death Benefit,1274000.0,2500.0,1274000.0,Paid,Accidental death in a domestic incident.
+CLM-101389,POL-1000495,CUST-500495,Life,2023-12-26,Death Benefit,1268000.0,5000.0,1268000.0,Paid,Fatal cardiovascular event.
+CLM-101393,POL-1003830,CUST-503830,Life,2025-12-13,Death Benefit,1012000.0,5000.0,1012000.0,Paid,Fatal cardiovascular event.
+CLM-101400,POL-1003872,CUST-503872,Life,2024-06-22,Death Benefit,745000.0,5000.0,745000.0,Paid,Passed away due to natural causes.
+CLM-101402,POL-1002251,CUST-502251,Life,2025-11-13,Death Benefit,702000.0,1000.0,702000.0,Paid,Accidental death in a domestic incident.
+CLM-101401,POL-1002251,CUST-502251,Life,2026-02-16,Death Benefit,702000.0,1000.0,702000.0,Paid,Accidental death in a domestic incident.
+CLM-101403,POL-1000211,CUST-500211,Life,2024-05-10,Death Benefit,1326000.0,500.0,1326000.0,Paid,Accidental death in a domestic incident.
+CLM-101411,POL-1000180,CUST-500180,Life,2022-05-30,Death Benefit,1904000.0,250.0,1904000.0,Paid,Passed away from complications of pneumonia.
+CLM-101426,POL-1003631,CUST-503631,Life,2023-03-14,Death Benefit,1407000.0,5000.0,1407000.0,Paid,Accidental death in a domestic incident.
+CLM-101439,POL-1002384,CUST-502384,Life,2024-02-15,Death Benefit,659000.0,5000.0,0.0,Denied,Passed away from complications of pneumonia.
+CLM-101440,POL-1002384,CUST-502384,Life,2025-09-29,Death Benefit,659000.0,5000.0,659000.0,Paid,Passed away from complications of pneumonia.
+CLM-101441,POL-1000220,CUST-500220,Life,2024-02-28,Death Benefit,1414000.0,5000.0,0.0,Denied,Accidental death in a domestic incident.
+CLM-101462,POL-1002900,CUST-502900,Life,2022-02-15,Death Benefit,59000.0,250.0,59000.0,Paid,Passed away from complications of pneumonia.
+CLM-101485,POL-1003194,CUST-503194,Life,2023-12-16,Death Benefit,871000.0,500.0,871000.0,Paid,Passed away from complications of pneumonia.
+CLM-101487,POL-1003414,CUST-503414,Life,2024-05-24,Death Benefit,832000.0,1000.0,832000.0,Paid,Passed away due to natural causes.
+CLM-101490,POL-1001897,CUST-501897,Life,2025-06-04,Death Benefit,143000.0,5000.0,143000.0,Paid,Passed away due to natural causes.
+CLM-101493,POL-1001270,CUST-501270,Life,2025-03-06,Death Benefit,377000.0,5000.0,377000.0,Paid,Fatal cardiovascular event.
+CLM-101494,POL-1001270,CUST-501270,Life,2025-06-05,Death Benefit,377000.0,5000.0,377000.0,Paid,Fatal cardiovascular event.
+CLM-101497,POL-1004883,CUST-504883,Life,2023-06-11,Death Benefit,1747000.0,250.0,1747000.0,Paid,Accidental death in a domestic incident.
+CLM-101498,POL-1004883,CUST-504883,Life,2023-12-11,Death Benefit,1747000.0,250.0,1747000.0,Paid,Passed away due to natural causes.
+CLM-101527,POL-1004693,CUST-504693,Life,2025-01-04,Death Benefit,89000.0,5000.0,0.0,Denied,Passed away from complications of pneumonia.
+CLM-101526,POL-1004693,CUST-504693,Life,2025-02-21,Death Benefit,89000.0,5000.0,89000.0,Paid,Fatal cardiovascular event.
+CLM-101532,POL-1003047,CUST-503047,Life,2024-11-27,Death Benefit,417000.0,250.0,417000.0,Paid,Accidental death in a domestic incident.
+CLM-101537,POL-1004321,CUST-504321,Life,2023-05-03,Death Benefit,834000.0,5000.0,834000.0,Paid,Passed away due to natural causes.
+CLM-101548,POL-1001697,CUST-501697,Life,2026-05-01,Death Benefit,1675000.0,2500.0,1675000.0,Under Review,Fatal cardiovascular event.
+CLM-101549,POL-1003593,CUST-503593,Life,2022-05-01,Death Benefit,1971000.0,2500.0,1971000.0,Paid,Accidental death in a domestic incident.
+CLM-101559,POL-1001361,CUST-501361,Life,2022-06-15,Death Benefit,172000.0,5000.0,172000.0,Paid,Accidental death in a domestic incident.
+CLM-101568,POL-1004593,CUST-504593,Life,2021-10-26,Death Benefit,1403000.0,500.0,1403000.0,Paid,Fatal cardiovascular event.
+CLM-101578,POL-1001630,CUST-501630,Life,2021-11-19,Death Benefit,682000.0,250.0,682000.0,Paid,Passed away due to natural causes.
+CLM-101582,POL-1003554,CUST-503554,Life,2024-10-11,Death Benefit,1928000.0,1000.0,1928000.0,Paid,Fatal cardiovascular event.
+CLM-101604,POL-1001614,CUST-501614,Life,2025-07-24,Death Benefit,1174000.0,250.0,1174000.0,Paid,Passed away from complications of pneumonia.
+CLM-101618,POL-1000862,CUST-500862,Life,2023-06-02,Death Benefit,643000.0,500.0,643000.0,Paid,Passed away from complications of pneumonia.
+CLM-101623,POL-1004385,CUST-504385,Life,2021-08-10,Death Benefit,244000.0,5000.0,244000.0,Paid,Fatal cardiovascular event.
+CLM-101622,POL-1004385,CUST-504385,Life,2022-03-07,Death Benefit,244000.0,5000.0,244000.0,Paid,Passed away due to natural causes.
+CLM-101627,POL-1002677,CUST-502677,Life,2026-02-07,Death Benefit,1166000.0,500.0,1166000.0,Paid,Fatal cardiovascular event.
+CLM-101628,POL-1002995,CUST-502995,Life,2025-11-12,Death Benefit,500000.0,1000.0,500000.0,Paid,Accidental death in a domestic incident.
+CLM-101644,POL-1002835,CUST-502835,Life,2026-02-05,Death Benefit,1247000.0,250.0,1247000.0,Paid,Passed away due to natural causes.
+CLM-101645,POL-1002835,CUST-502835,Life,2026-02-05,Death Benefit,1247000.0,250.0,1247000.0,Paid,Passed away from complications of pneumonia.
+CLM-101648,POL-1003010,CUST-503010,Life,2026-02-18,Death Benefit,439000.0,250.0,439000.0,Paid,Accidental death in a domestic incident.
+CLM-101663,POL-1001773,CUST-501773,Life,2025-05-29,Death Benefit,1650000.0,1000.0,1650000.0,Paid,Fatal cardiovascular event.
+CLM-101712,POL-1000229,CUST-500229,Life,2024-11-30,Death Benefit,1362000.0,1000.0,1362000.0,Paid,Accidental death in a domestic incident.
+CLM-101715,POL-1000857,CUST-500857,Life,2026-04-24,Death Benefit,1183000.0,500.0,1183000.0,Under Review,Passed away due to natural causes.
+CLM-101713,POL-1000857,CUST-500857,Life,2026-04-26,Death Benefit,1183000.0,500.0,1183000.0,Approved,Passed away from complications of pneumonia.
+CLM-101714,POL-1000857,CUST-500857,Life,2026-04-30,Death Benefit,1183000.0,500.0,1183000.0,Under Review,Accidental death in a domestic incident.
+CLM-101754,POL-1002484,CUST-502484,Life,2025-08-27,Death Benefit,1079000.0,1000.0,1079000.0,Paid,Accidental death in a domestic incident.
+CLM-101768,POL-1000620,CUST-500620,Life,2021-07-28,Death Benefit,387000.0,500.0,387000.0,Paid,Fatal cardiovascular event.
+CLM-101779,POL-1003882,CUST-503882,Life,2025-01-22,Death Benefit,245000.0,1000.0,245000.0,Paid,Accidental death in a domestic incident.
+CLM-101801,POL-1001477,CUST-501477,Life,2024-10-24,Death Benefit,1494000.0,2500.0,1494000.0,Paid,Fatal cardiovascular event.
+CLM-101800,POL-1001477,CUST-501477,Life,2025-01-11,Death Benefit,1494000.0,2500.0,1494000.0,Paid,Fatal cardiovascular event.
+CLM-101809,POL-1004895,CUST-504895,Life,2024-11-22,Death Benefit,144000.0,250.0,144000.0,Paid,Fatal cardiovascular event.
+CLM-101821,POL-1004215,CUST-504215,Life,2021-11-06,Death Benefit,535000.0,250.0,535000.0,Paid,Passed away due to natural causes.
+CLM-101840,POL-1002436,CUST-502436,Life,2022-05-29,Death Benefit,928000.0,2500.0,928000.0,Paid,Fatal cardiovascular event.
+CLM-101838,POL-1002436,CUST-502436,Life,2022-07-25,Death Benefit,928000.0,2500.0,928000.0,Paid,Passed away due to natural causes.
+CLM-101839,POL-1002436,CUST-502436,Life,2025-04-10,Death Benefit,928000.0,2500.0,928000.0,Paid,Passed away from complications of pneumonia.
+CLM-101848,POL-1004435,CUST-504435,Life,2023-10-11,Death Benefit,1140000.0,2500.0,1140000.0,Paid,Accidental death in a domestic incident.
+CLM-101849,POL-1004435,CUST-504435,Life,2024-07-12,Death Benefit,1140000.0,2500.0,1140000.0,Paid,Passed away due to natural causes.
+CLM-101850,POL-1001180,CUST-501180,Life,2022-10-27,Death Benefit,504000.0,5000.0,504000.0,Paid,Fatal cardiovascular event.
+CLM-101851,POL-1001180,CUST-501180,Life,2023-01-18,Death Benefit,504000.0,5000.0,504000.0,Paid,Passed away from complications of pneumonia.
+CLM-101858,POL-1003277,CUST-503277,Life,2025-07-15,Death Benefit,1978000.0,500.0,1978000.0,Paid,Passed away from complications of pneumonia.
+CLM-101867,POL-1002213,CUST-502213,Life,2026-03-03,Death Benefit,1311000.0,1000.0,1311000.0,Paid,Fatal cardiovascular event.
+CLM-101873,POL-1004197,CUST-504197,Life,2024-07-17,Death Benefit,1843000.0,1000.0,1843000.0,Paid,Passed away due to natural causes.
+CLM-101875,POL-1001616,CUST-501616,Life,2025-07-05,Death Benefit,1685000.0,5000.0,1685000.0,Paid,Fatal cardiovascular event.
+CLM-101874,POL-1001616,CUST-501616,Life,2025-12-08,Death Benefit,1685000.0,5000.0,1685000.0,Paid,Accidental death in a domestic incident.
+CLM-101880,POL-1003690,CUST-503690,Life,2024-12-04,Death Benefit,1462000.0,2500.0,0.0,Denied,Fatal cardiovascular event.
+CLM-101881,POL-1003690,CUST-503690,Life,2025-11-06,Death Benefit,1462000.0,2500.0,1462000.0,Paid,Passed away due to natural causes.
+CLM-101879,POL-1003690,CUST-503690,Life,2026-01-15,Death Benefit,1462000.0,2500.0,1462000.0,Paid,Accidental death in a domestic incident.
+CLM-101884,POL-1003048,CUST-503048,Life,2023-10-09,Death Benefit,1910000.0,250.0,1910000.0,Paid,Passed away due to natural causes.
+CLM-101894,POL-1004353,CUST-504353,Life,2024-03-02,Death Benefit,1815000.0,500.0,1815000.0,Paid,Passed away from complications of pneumonia.
+CLM-101893,POL-1004353,CUST-504353,Life,2024-05-20,Death Benefit,1815000.0,500.0,1815000.0,Paid,Passed away due to natural causes.
+CLM-101903,POL-1002344,CUST-502344,Life,2024-10-29,Death Benefit,1110000.0,1000.0,1110000.0,Paid,Passed away from complications of pneumonia.
+CLM-101919,POL-1003903,CUST-503903,Life,2024-05-12,Death Benefit,1109000.0,250.0,1109000.0,Paid,Fatal cardiovascular event.
+CLM-101923,POL-1002470,CUST-502470,Life,2026-04-12,Death Benefit,895000.0,2500.0,895000.0,Paid,Fatal cardiovascular event.
+CLM-101924,POL-1002470,CUST-502470,Life,2026-04-16,Death Benefit,895000.0,2500.0,895000.0,Paid,Passed away due to natural causes.
+CLM-101932,POL-1004597,CUST-504597,Life,2024-01-20,Death Benefit,1141000.0,2500.0,1141000.0,Paid,Accidental death in a domestic incident.
+CLM-101940,POL-1000183,CUST-500183,Life,2023-01-24,Death Benefit,698000.0,2500.0,698000.0,Paid,Accidental death in a domestic incident.
+CLM-101942,POL-1002704,CUST-502704,Life,2025-11-15,Death Benefit,395000.0,5000.0,395000.0,Paid,Passed away due to natural causes.
+CLM-101947,POL-1001538,CUST-501538,Life,2023-02-13,Death Benefit,583000.0,1000.0,583000.0,Paid,Passed away from complications of pneumonia.

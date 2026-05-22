@@ -1,0 +1,69 @@
+claim_id,policy_id,customer_id,policy_type,claim_date,claim_type,claim_amount,deductible,amount_paid,claim_status,incident_description
+CLM-100015,POL-1000915,CUST-500915,Umbrella,2025-05-08,Liability,13980.16,250.0,0.0,Denied,Defamation lawsuit settlement.
+CLM-100016,POL-1000915,CUST-500915,Umbrella,2025-08-16,Liability,116806.71,250.0,0.0,Denied,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100019,POL-1003021,CUST-503021,Umbrella,2023-01-23,Liability,47814.0,5000.0,42814.0,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-100067,POL-1002451,CUST-502451,Umbrella,2023-04-05,Liability,39493.32,500.0,38993.32,Paid,Defamation lawsuit settlement.
+CLM-100163,POL-1001370,CUST-501370,Umbrella,2025-03-28,Liability,27210.48,250.0,26960.48,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-100165,POL-1004816,CUST-504816,Umbrella,2025-08-10,Liability,241570.53,500.0,241070.53,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100171,POL-1004771,CUST-504771,Umbrella,2026-05-06,Liability,387120.95,2500.0,384620.95,Under Review,Excess liability claim following a major multi-car auto accident.
+CLM-100199,POL-1002974,CUST-502974,Umbrella,2023-05-18,Liability,120126.88,250.0,119876.88,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-100198,POL-1002974,CUST-502974,Umbrella,2023-08-19,Liability,39700.6,250.0,39450.6,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-100299,POL-1001647,CUST-501647,Umbrella,2022-12-03,Liability,769454.76,1000.0,768454.76,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100300,POL-1001647,CUST-501647,Umbrella,2023-04-11,Liability,196496.39,1000.0,195496.39,Paid,Defamation lawsuit settlement.
+CLM-100315,POL-1000230,CUST-500230,Umbrella,2026-04-15,Liability,127944.79,1000.0,126944.79,Under Review,Defamation lawsuit settlement.
+CLM-100330,POL-1001782,CUST-501782,Umbrella,2022-01-06,Liability,122265.01,2500.0,119765.01,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100337,POL-1002275,CUST-502275,Umbrella,2026-04-24,Liability,364096.24,500.0,363596.24,Under Review,Excess liability claim following a major multi-car auto accident.
+CLM-100355,POL-1000149,CUST-500149,Umbrella,2026-01-06,Liability,47968.5,2500.0,0.0,Denied,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100354,POL-1000149,CUST-500149,Umbrella,2026-02-28,Liability,307558.45,2500.0,305058.45,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100399,POL-1001405,CUST-501405,Umbrella,2024-07-20,Liability,40083.81,500.0,39583.81,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100410,POL-1003625,CUST-503625,Umbrella,2023-10-08,Liability,114748.34,2500.0,112248.34,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100442,POL-1000805,CUST-500805,Umbrella,2022-11-20,Liability,219133.28,5000.0,214133.28,Paid,Defamation lawsuit settlement.
+CLM-100472,POL-1003729,CUST-503729,Umbrella,2024-08-31,Liability,373736.39,250.0,373486.39,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100508,POL-1004625,CUST-504625,Umbrella,2026-03-28,Liability,8852.72,250.0,8602.72,Approved,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100593,POL-1002939,CUST-502939,Umbrella,2022-11-05,Liability,310737.28,1000.0,309737.28,Paid,Defamation lawsuit settlement.
+CLM-100609,POL-1004679,CUST-504679,Umbrella,2024-04-22,Liability,126049.51,500.0,125549.51,Paid,Defamation lawsuit settlement.
+CLM-100683,POL-1000322,CUST-500322,Umbrella,2023-04-15,Liability,192136.77,500.0,191636.77,Paid,Defamation lawsuit settlement.
+CLM-100746,POL-1001126,CUST-501126,Umbrella,2024-06-09,Liability,138292.12,500.0,137792.12,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100772,POL-1002110,CUST-502110,Umbrella,2024-02-25,Liability,68332.13,2500.0,65832.13,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-100852,POL-1003828,CUST-503828,Umbrella,2021-11-19,Liability,68382.71,1000.0,67382.71,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100853,POL-1003828,CUST-503828,Umbrella,2022-06-02,Liability,181803.45,1000.0,180803.45,Paid,Defamation lawsuit settlement.
+CLM-100871,POL-1001115,CUST-501115,Umbrella,2026-04-07,Liability,20129.53,5000.0,15129.53,Paid,Defamation lawsuit settlement.
+CLM-100870,POL-1001115,CUST-501115,Umbrella,2026-04-23,Liability,255682.32,5000.0,250682.32,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-100869,POL-1001115,CUST-501115,Umbrella,2026-05-05,Liability,350251.82,5000.0,345251.82,Approved,Defamation lawsuit settlement.
+CLM-100990,POL-1002905,CUST-502905,Umbrella,2026-02-25,Liability,173280.29,1000.0,172280.29,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101030,POL-1000045,CUST-500045,Umbrella,2022-07-11,Liability,22153.83,250.0,21903.83,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101031,POL-1000045,CUST-500045,Umbrella,2023-10-13,Liability,132554.7,250.0,132304.7,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101056,POL-1003460,CUST-503460,Umbrella,2021-10-11,Liability,183618.81,250.0,183368.81,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101076,POL-1003545,CUST-503545,Umbrella,2023-02-19,Liability,109789.97,250.0,0.0,Denied,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101077,POL-1004361,CUST-504361,Umbrella,2024-03-28,Liability,167200.34,250.0,166950.34,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101091,POL-1000833,CUST-500833,Umbrella,2022-10-27,Liability,50738.3,5000.0,45738.3,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101136,POL-1001032,CUST-501032,Umbrella,2025-02-18,Liability,588.27,2500.0,0.0,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101142,POL-1001747,CUST-501747,Umbrella,2024-10-23,Liability,134216.5,500.0,133716.5,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101229,POL-1000450,CUST-500450,Umbrella,2023-11-01,Liability,14659.65,2500.0,12159.65,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101228,POL-1000450,CUST-500450,Umbrella,2024-06-27,Liability,41747.98,2500.0,0.0,Denied,Defamation lawsuit settlement.
+CLM-101230,POL-1001499,CUST-501499,Umbrella,2026-02-05,Liability,153776.0,1000.0,152776.0,Paid,Defamation lawsuit settlement.
+CLM-101231,POL-1001499,CUST-501499,Umbrella,2026-04-30,Liability,51968.99,1000.0,50968.99,Under Review,Defamation lawsuit settlement.
+CLM-101257,POL-1003754,CUST-503754,Umbrella,2025-02-27,Liability,143912.92,500.0,143412.92,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101336,POL-1003398,CUST-503398,Umbrella,2026-02-02,Liability,216998.13,1000.0,215998.13,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101363,POL-1004688,CUST-504688,Umbrella,2024-05-02,Liability,339206.21,250.0,338956.21,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101377,POL-1000937,CUST-500937,Umbrella,2024-07-19,Liability,12622.79,250.0,0.0,Denied,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101449,POL-1004402,CUST-504402,Umbrella,2026-04-23,Liability,233654.48,1000.0,232654.48,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101450,POL-1004402,CUST-504402,Umbrella,2026-05-01,Liability,48039.38,1000.0,47039.38,Approved,Excess liability claim following a major multi-car auto accident.
+CLM-101475,POL-1000113,CUST-500113,Umbrella,2025-11-15,Liability,199119.23,1000.0,198119.23,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101544,POL-1004812,CUST-504812,Umbrella,2023-09-01,Liability,149364.73,1000.0,148364.73,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101555,POL-1003410,CUST-503410,Umbrella,2025-12-02,Liability,701863.83,1000.0,700863.83,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101566,POL-1003603,CUST-503603,Umbrella,2025-08-28,Liability,354430.21,2500.0,351930.21,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101605,POL-1002303,CUST-502303,Umbrella,2026-02-07,Liability,35270.01,2500.0,32770.01,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101632,POL-1001222,CUST-501222,Umbrella,2025-10-23,Liability,167602.78,1000.0,166602.78,Paid,Defamation lawsuit settlement.
+CLM-101672,POL-1004154,CUST-504154,Umbrella,2021-07-14,Liability,56260.91,250.0,56010.91,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101749,POL-1001835,CUST-501835,Umbrella,2025-07-12,Liability,117638.01,250.0,117388.01,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101753,POL-1004327,CUST-504327,Umbrella,2026-05-05,Liability,76224.49,5000.0,71224.49,Under Review,Defamation lawsuit settlement.
+CLM-101802,POL-1000809,CUST-500809,Umbrella,2025-10-18,Liability,15985.62,5000.0,10985.62,Paid,Defamation lawsuit settlement.
+CLM-101804,POL-1000809,CUST-500809,Umbrella,2026-01-30,Liability,15068.29,5000.0,10068.29,Paid,Defamation lawsuit settlement.
+CLM-101803,POL-1000809,CUST-500809,Umbrella,2026-02-06,Liability,141764.12,5000.0,0.0,Denied,Excess liability claim following a major multi-car auto accident.
+CLM-101853,POL-1003128,CUST-503128,Umbrella,2022-08-27,Liability,1306.03,500.0,0.0,Denied,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101888,POL-1001777,CUST-501777,Umbrella,2025-05-24,Liability,352139.62,250.0,0.0,Denied,Defamation lawsuit settlement.
+CLM-101905,POL-1001033,CUST-501033,Umbrella,2025-10-23,Liability,180975.73,2500.0,178475.73,Paid,Excess liability claim following a major multi-car auto accident.
+CLM-101904,POL-1001033,CUST-501033,Umbrella,2025-11-22,Liability,260300.56,2500.0,257800.56,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101922,POL-1000436,CUST-500436,Umbrella,2025-11-18,Liability,45374.42,5000.0,40374.42,Paid,Settlement for personal injury lawsuit stemming from rental property.
+CLM-101951,POL-1001912,CUST-501912,Umbrella,2025-08-10,Liability,12942.72,500.0,12442.72,Paid,Defamation lawsuit settlement.

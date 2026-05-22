@@ -1,0 +1,33 @@
+claim_id,policy_id,customer_id,policy_type,claim_date,claim_type,claim_amount,deductible,amount_paid,claim_status,incident_description
+CLM-100040,POL-1004866,CUST-504866,Boat,2026-04-06,Storm Damage,6730.48,2500.0,4230.48,Under Review,Lightning strike fried the onboard marine electronics.
+CLM-100106,POL-1003752,CUST-503752,Boat,2022-02-23,Storm Damage,8171.01,5000.0,3171.01,Paid,Lightning strike fried the onboard marine electronics.
+CLM-100115,POL-1000655,CUST-500655,Boat,2022-02-13,Collision,1413.28,1000.0,413.28,Paid,"Collided with a floating log in the lake, damaging the hull."
+CLM-100229,POL-1003418,CUST-503418,Boat,2025-10-18,Theft,17969.78,5000.0,12969.78,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-100327,POL-1001831,CUST-501831,Boat,2023-05-30,Storm Damage,500.0,500.0,0.0,Paid,Lightning strike fried the onboard marine electronics.
+CLM-100345,POL-1002223,CUST-502223,Boat,2023-03-05,Theft,2388.93,2500.0,0.0,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-100350,POL-1001739,CUST-501739,Boat,2025-07-08,Theft,16081.72,500.0,15581.72,Paid,Outboard motor stolen from boat parked in driveway.
+CLM-100361,POL-1003248,CUST-503248,Boat,2022-12-28,Storm Damage,30748.43,5000.0,25748.43,Paid,Lightning strike fried the onboard marine electronics.
+CLM-100362,POL-1003248,CUST-503248,Boat,2023-04-27,Theft,22932.77,5000.0,17932.77,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-100420,POL-1003535,CUST-503535,Boat,2022-08-30,Storm Damage,18511.28,500.0,0.0,Denied,Lightning strike fried the onboard marine electronics.
+CLM-100440,POL-1000485,CUST-500485,Boat,2026-03-30,Theft,10508.28,5000.0,5508.28,Paid,Outboard motor stolen from boat parked in driveway.
+CLM-100576,POL-1001723,CUST-501723,Boat,2025-11-18,Collision,15901.84,500.0,15401.84,Paid,"Collided with a floating log in the lake, damaging the hull."
+CLM-100649,POL-1003716,CUST-503716,Boat,2026-05-05,Storm Damage,32975.02,500.0,32475.02,Under Review,Lightning strike fried the onboard marine electronics.
+CLM-100660,POL-1002004,CUST-502004,Boat,2025-11-03,Collision,17432.39,5000.0,12432.39,Paid,Scraped against the dock wall during high winds.
+CLM-100659,POL-1002004,CUST-502004,Boat,2026-03-05,Storm Damage,4891.51,5000.0,0.0,Paid,Lightning strike fried the onboard marine electronics.
+CLM-100661,POL-1002004,CUST-502004,Boat,2026-03-07,Storm Damage,8103.6,5000.0,3103.6,Paid,Boat filled with water and sank at its slip during a heavy storm.
+CLM-100744,POL-1000070,CUST-500070,Boat,2022-08-14,Collision,21359.26,1000.0,20359.26,Paid,Scraped against the dock wall during high winds.
+CLM-100845,POL-1004644,CUST-504644,Boat,2025-07-11,Theft,5125.45,5000.0,125.45,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-100847,POL-1004644,CUST-504644,Boat,2026-03-17,Theft,7982.74,5000.0,2982.74,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-100846,POL-1004644,CUST-504644,Boat,2026-04-03,Storm Damage,54092.45,5000.0,49092.45,Under Review,Boat filled with water and sank at its slip during a heavy storm.
+CLM-100893,POL-1004334,CUST-504334,Boat,2023-01-28,Theft,23908.01,2500.0,21408.01,Paid,Outboard motor stolen from boat parked in driveway.
+CLM-101086,POL-1002722,CUST-502722,Boat,2025-03-24,Storm Damage,15192.91,500.0,0.0,Denied,Boat filled with water and sank at its slip during a heavy storm.
+CLM-101099,POL-1004479,CUST-504479,Boat,2025-05-27,Storm Damage,3260.39,5000.0,0.0,Paid,Boat filled with water and sank at its slip during a heavy storm.
+CLM-101098,POL-1004479,CUST-504479,Boat,2026-02-27,Collision,34478.98,5000.0,29478.98,Paid,"Collided with a floating log in the lake, damaging the hull."
+CLM-101141,POL-1000517,CUST-500517,Boat,2025-06-14,Theft,18329.83,250.0,18079.83,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-101147,POL-1004059,CUST-504059,Boat,2024-07-04,Collision,2526.43,250.0,2276.43,Paid,"Collided with a floating log in the lake, damaging the hull."
+CLM-101325,POL-1001532,CUST-501532,Boat,2023-06-18,Collision,21426.24,250.0,21176.24,Paid,"Collided with a floating log in the lake, damaging the hull."
+CLM-101408,POL-1004354,CUST-504354,Boat,2022-11-07,Theft,5454.16,1000.0,4454.16,Paid,Outboard motor stolen from boat parked in driveway.
+CLM-101412,POL-1004279,CUST-504279,Boat,2025-09-20,Storm Damage,2411.04,1000.0,1411.04,Paid,Boat filled with water and sank at its slip during a heavy storm.
+CLM-101434,POL-1004075,CUST-504075,Boat,2025-09-21,Theft,4307.73,500.0,3807.73,Paid,Fishing gear and GPS equipment stolen from locked cabin.
+CLM-101546,POL-1003403,CUST-503403,Boat,2022-10-14,Collision,15260.53,1000.0,14260.53,Paid,Collided with another vessel while navigating a narrow channel.
+CLM-101701,POL-1000744,CUST-500744,Boat,2025-11-09,Theft,21265.84,500.0,20765.84,Paid,Outboard motor stolen from boat parked in driveway.
