@@ -37,4 +37,20 @@
 
 - Single notebook: `faker_data_generation.ipynb` — generates fake user data (name, email, job, address, company) via Faker, exports to `fake_data.csv`.
 - No tests, no linters, no CI, no build system.
-- No git commits yet.
+
+## Git Commit Workflow
+
+When the user asks to run git add/commit/push locally:
+
+1. Run `git add .`
+2. Determine the commit message from `/shortcut`:
+   - If `/shortcut` is "UA", use "AGENTS.md file has been updated with new requirement"
+   - If `/shortcut` is "CA", use "Codebase has been changed"
+   - If `/shortcut` is "PK", use "New package(s) has been added to the project"
+   - If `/shortcut` is "DATA", use "New data has been added to the project"
+   - If `/shortcut` is "REMOVE", use "Removed package(s) from the project or Codebase has been changed"
+   - If `/shortcut` is empty or not provided, ask the user to type a custom commit message before proceeding
+   - Otherwise, use `/shortcut` as the commit message directly
+3. Run `git commit -m "<message>"`
+4. Run `git push origin`
+5. If any step fails, stop and report the error
