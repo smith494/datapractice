@@ -1,17 +1,4 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": ["ecc-universal"],
-  "skills": {
-    "paths": ["/Users/courtneysmith/Documents/Projects/last30days-skill/skills"]
-  },
-  "command": {
-    "goodnight": {
-      "description": "Stage all, commit, and push to origin",
-      "template": "{file:.opencode/commands/goodnight.md}"
-    },
-    "last30days": {
-      "description": "Research what people say about any topic in the last 30 days",
-      "template": "{file:.opencode/commands/last30days.md}"
-    }
-  }
+  "plugin": ["ecc-universal"]
 }

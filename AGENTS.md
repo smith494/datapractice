@@ -21,6 +21,33 @@
 - Use the best model for the task - premium models for complex tasks (like coding) and mid-tier models for simpler tasks, like documentation
 - After completing features (large or small), always run commands like lint, type check and next build to check code quality
 
+## Security & Boundary Protocol
+
+### Absolute Constraints (Never Do)
+
+- NEVER hardcode or inline API keys, bearer tokens, passwords, private SSH keys, JWT tokens, or database connection strings
+- NEVER commit, read, or print the raw contents of `.env` files to terminal outputs or logs
+- NEVER bypass or disable security warning banners, linters, or git hooks
+- NEVER use `eval()`, `exec()`, or pass unsanitized user inputs directly into system shells
+- NEVER use `--no-verify` to bypass git hooks under any circumstance
+
+### Credential Handling
+
+- All secrets must be stored exclusively in `.env` files or your local secrets manager
+- Ensure all `.env` files are properly included in `.gitignore` to prevent source control commits
+- If a code change requires authentication, write a placeholder using `process.env.VARIABLE_NAME` (Node), `os.environ.get()` (Python), etc. Immediately add the template name to `.env.example`
+
+### Secure Code Generation & Refactoring
+
+- **Path Traversal Prevention:** When writing file handling routines, validate that file paths are constrained to the intended workspace. Do not use unvalidated user input to resolve file paths.
+- **Dependency Management:** When adding new packages, always pin exact versions (e.g., `package@1.2.3`, not `package@latest`) to prevent dependency confusion attacks. Check the package name against typos before installing.
+- **Database Queries:** Always use parameterized queries or trusted ORMs. Never concatenate strings to form SQL statements.
+
+### Failure State Handling
+
+- If a file read or command execution inadvertently displays a credential in the terminal output, purge your context immediately, clear your terminal history, and notify the user to rotate the credential.
+- If a git hook fails due to a `detect-secrets` trigger, stop execution immediately.
+
 ## Environment
 
 - Python 3.12.2 venv at `./.venv` — activate or use `.venv/bin/python` / `.venv/bin/pip` directly.
