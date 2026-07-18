@@ -50,7 +50,7 @@
 
 ## Environment
 
-- Python 3.12.2 venv at `./.venv` — activate or use `.venv/bin/python` / `.venv/bin/pip` directly.
+- Python 3.14.5 venv at `./.venv` — activate or use `.venv/bin/python` / `.venv/bin/pip` directly.
 - Dependencies in `requirements.txt`: `faker`, `pandas`, `jupyter`.
 
 ## Commands
