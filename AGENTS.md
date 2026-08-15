@@ -62,8 +62,11 @@
 
 ## Project
 
-- Single notebook: `faker_data_generation.ipynb` — generates fake user data (name, email, job, address, company) via Faker, exports to `fake_data.csv`.
-- No tests, no linters, no CI, no build system.
+- Data pipeline: `scripts/generate_claims.py` (raw policies → processed claims partitions) and `scripts/verify_claims.py` (integrity checks).
+- Data notebooks: `notebooks/faker_data_generation.ipynb` (fake user profiles), `notebooks/insurance_data_generation.ipynb` (insurance policies), plus pandas/AWS practice notebooks.
+- Learning material (bootcamp, ABSP, modules/packages, scripts) lives under `learning/`.
+- Documentation and assignments live under `docs/`.
+- No linters, no CI, no build system.
 
 ## Git Commit Workflow
 

@@ -1,6 +1,6 @@
 # DataPractice 📊
 
-A structured repository for practicing data generation, data engineering, and validation using Python, pandas, and the Faker library.
+A structured repository for practicing data generation, data engineering, validation, and analysis using Python, pandas, and the Faker library.
 
 ## Repository Directory Layout
 
@@ -11,13 +11,22 @@ DataPractice/
 ├── data/
 │   ├── raw/                  # Source baseline datasets (e.g. policies, fake profile data)
 │   └── processed/            # Dynamically generated claims data & partitioned CSV files
-├── notebooks/                # Jupyter Notebooks for exploratory data generation
+├── notebooks/                # Jupyter Notebooks for exploratory data generation & analysis
 │   ├── faker_data_generation.ipynb
-│   └── insurance_data_generation.ipynb
+│   ├── insurance_data_generation.ipynb
+│   ├── data_analysis_practice_pandas.ipynb
+│   └── aws_test.ipynb
+├── learning/                 # Python bootcamp learning material
+│   ├── Bootcamp_Notebooks/   # Bootcamp course notebooks & milestone projects
+│   ├── ABSP_PDA_Notebooks/   # Automate the Boring Stuff practice notebooks
+│   ├── modules_packages/     # Modules & packages practice
+│   └── python_bootcamp_files/ # Bootcamp scripts & tests
+├── docs/                     # Documentation, guides, and raw text notes
+│   ├── assignments/          # Data analytics practice assignments
+│   └── context/              # Dataset generation specifications
 ├── scripts/                  # Production/utility Python execution scripts
 │   ├── generate_claims.py    # Generates master claims and partitions from raw policies
 │   └── verify_claims.py      # Performs comprehensive validation checks on data integrity
-├── docs/                     # Documentation, guides, and raw text notes
 ├── .venv/                    # Python virtual environment (git ignored)
 ├── requirements.txt          # Python library dependencies
 └── LICENSE                   # MIT License details
@@ -28,7 +37,7 @@ DataPractice/
 ## Getting Started
 
 ### 1. Prerequisites
-Ensure you have Python 3.12.x installed.
+Ensure you have Python 3.14.x installed.
 
 ### 2. Setup Virtual Environment
 Create and activate a virtual environment, then install the package dependencies:
@@ -39,7 +48,7 @@ python -m venv .venv
 
 # Activate the virtual environment
 # On macOS/Linux:
-source .venv/bin/env/bin/activate   # or use .venv/bin/python directly
+source .venv/bin/activate   # or use .venv/bin/python directly
 # On Windows:
 .venv\Scripts\activate
 
