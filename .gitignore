@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Node.js / opencode plugin dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
 # C extensions
 *.so
 
